@@ -1,0 +1,337 @@
+Place,DogName,Box,Weight,StartPrice,PIR,Split,RunTime,RaceId,Distance,RaceGrade,Track,date,TrainerLName,TrainerFName
+3.0,revived,1.0,29.0,2.0,2,13.51,25.26,996378565,431,5,ipswich,2024-02-17,poo,poo
+5.0,galway governor,2.0,28.9,7.0,5,13.82,25.52,996378565,431,4,ipswich,2024-02-17,poo,poo
+7.0,lock it in,3.0,33.7,61.0,7,14.05,25.96,996378565,431,4,ipswich,2024-02-17,poo,poo
+6.0,spring cedar,4.0,24.5,13.0,6,13.88,25.53,996378565,431,4,ipswich,2024-02-17,poo,poo
+4.0,brigginshaw,6.0,27.2,34.0,4,13.78,25.29,996378565,431,5,ipswich,2024-02-17,poo,poo
+1.0,ringbark rebel,7.0,28.6,4.4,1,13.38,24.93,996378565,431,5,ipswich,2024-02-17,poo,poo
+2.0,bootin' boodie,8.0,26.3,4.2,3,13.57,25.14,996378565,431,4,ipswich,2024-02-17,poo,poo
+2.0,shian warrior,1.0,33.9,5.5,3,13.74,25.51,996378566,431,6,ipswich,2024-02-17,poo,poo
+4.0,sheezel,2.0,35.2,3.3,2,13.62,25.55,996378566,431,5,ipswich,2024-02-17,poo,poo
+1.0,star assassin,3.0,33.7,3.6,1,13.48,25.25,996378566,431,5,ipswich,2024-02-17,poo,poo
+7.0,tuta duchess,4.0,23.6,10.0,4,13.85,25.89,996378566,431,5,ipswich,2024-02-17,poo,poo
+8.0,tarawi minnie,5.0,29.6,71.0,7,13.96,25.97,996378566,431,6,ipswich,2024-02-17,poo,poo
+3.0,in her wake,6.0,26.6,18.0,6,13.92,25.53,996378566,431,7,ipswich,2024-02-17,poo,poo
+5.0,mo'at,7.0,27.4,4.0,5,13.92,25.65,996378566,431,6,ipswich,2024-02-17,poo,poo
+6.0,blue oregon,8.0,31.1,16.0,8,14.1,25.66,996378566,431,6,ipswich,2024-02-17,poo,poo
+8.0,burt street,1.0,26.2,11.0,7,14.07,26.02,996378568,431,7,ipswich,2024-02-17,poo,poo
+7.0,comical travis,2.0,34.3,10.0,5,13.91,25.95,996378568,431,5,ipswich,2024-02-17,poo,poo
+5.0,al's cruising,3.0,31.6,9.5,4,13.9,25.74,996378568,431,5,ipswich,2024-02-17,poo,poo
+2.0,be desired,4.0,28.4,4.2,2,13.56,25.39,996378568,431,5,ipswich,2024-02-17,poo,poo
+1.0,hara's cookie,5.0,32.7,3.6,1,13.4,25.0,996378568,431,5,ipswich,2024-02-17,poo,poo
+6.0,showtime fergus,6.0,29.6,19.0,8,14.18,25.93,996378568,431,5,ipswich,2024-02-17,poo,poo
+4.0,spring lionel,7.0,31.4,4.4,6,13.97,25.67,996378568,431,5,ipswich,2024-02-17,poo,poo
+3.0,she's got moves,8.0,27.2,6.5,3,13.8,25.51,996378568,431,5,ipswich,2024-02-17,poo,poo
+2.0,big apatite,1.0,29.7,6.5,3,13.44,25.06,996378570,431,5,ipswich,2024-02-17,poo,poo
+3.0,spring travis,2.0,32.0,2.3,1,13.32,25.3,996378570,431,5,ipswich,2024-02-17,poo,poo
+6.0,tuta queen,3.0,24.6,5.5,6,13.64,25.56,996378570,431,5,ipswich,2024-02-17,poo,poo
+5.0,maywyn's luck,4.0,29.5,23.0,5,13.64,25.39,996378570,431,5,ipswich,2024-02-17,poo,poo
+7.0,pirate patchy,5.0,28.3,12.0,4,13.63,25.67,996378570,431,5,ipswich,2024-02-17,poo,poo
+1.0,digital sea,6.0,28.3,6.0,2,13.35,24.96,996378570,431,5,ipswich,2024-02-17,poo,poo
+3.0,hara's boots,7.0,28.1,6.5,7,13.69,25.3,996378570,431,5,ipswich,2024-02-17,poo,poo
+8.0,go wild ethan,8.0,34.3,71.0,8,13.79,25.69,996378570,431,5,ipswich,2024-02-17,poo,poo
+3.0,destini orietta,1.0,27.6,4.2,2,7.26,19.61,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+5.0,spider pockets,2.0,24.9,11.0,5,7.43,19.86,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+8.0,una knows,3.0,27.2,3.6,7,7.54,20.0,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+1.0,lamia tiger,4.0,24.3,8.0,4,7.41,19.41,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+4.0,splendid hera,5.0,27.9,34.0,1,7.26,19.74,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+7.0,wildash jo jo,6.0,23.4,5.5,8,7.59,19.98,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+2.0,chinkapook,7.0,34.1,3.6,3,7.33,19.52,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+6.0,oscar joel,8.0,31.3,61.0,6,7.45,19.91,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+,small fries,,,1.0,,,,996370468,331,Maiden,albion park,2024-02-18,poo,poo
+3.0,lamia blue,1.0,25.6,3.0,1,7.33,19.65,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+8.0,joanna boaz,2.0,26.0,81.0,8,8.36,24.16,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+7.0,flash card,3.0,28.0,15.0,7,7.9,20.55,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+5.0,aerobic sound,4.0,28.0,101.0,4,7.51,20.19,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+6.0,bess be good,5.0,24.4,71.0,6,7.82,20.36,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+4.0,boom baby boom,6.0,28.3,6.0,5,7.71,19.8,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+2.0,showtime dirk,7.0,30.8,3.4,2,7.35,19.45,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+1.0,infamous,8.0,24.3,2.8,3,7.41,19.37,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+,small fries,,,1.0,,,,996370469,331,Maiden,albion park,2024-02-18,poo,poo
+3.0,jilliby eels,1.0,28.8,3.4,3,7.31,19.78,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+6.0,wilgunya mel,2.0,25.8,4.0,7,7.45,19.84,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+8.0,no money there,3.0,24.6,18.0,4,7.41,20.83,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+3.0,biscotti gambler,4.0,24.7,10.0,8,7.49,19.78,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+5.0,flying cruise,5.0,31.8,6.0,5,7.42,19.82,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+7.0,tiger toast,6.0,32.9,19.0,6,7.44,20.52,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+1.0,showtime thor,7.0,30.9,3.4,2,7.25,19.3,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+2.0,mini miner,8.0,24.8,26.0,1,7.22,19.62,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+,small fries,,,1.0,,,,996370470,331,Maiden,albion park,2024-02-18,poo,poo
+1.0,destini krystal,1.0,27.3,3.0,1,7.05,18.87,996370471,331,7,albion park,2024-02-18,poo,poo
+6.0,you turn baby,2.0,27.6,7.0,8,7.69,19.76,996370471,331,7,albion park,2024-02-18,poo,poo
+8.0,whispering abbey,3.0,29.7,19.0,4,7.27,20.07,996370471,331,7,albion park,2024-02-18,poo,poo
+2.0,no need,4.0,26.0,6.5,2,7.12,19.14,996370471,331,7,albion park,2024-02-18,poo,poo
+3.0,poet's corner,5.0,31.8,13.0,3,7.2,19.25,996370471,331,7,albion park,2024-02-18,poo,poo
+7.0,woogaroo lazer,6.0,30.6,71.0,6,7.35,19.95,996370471,331,7,albion park,2024-02-18,poo,poo
+4.0,flaming sapphire,7.0,25.1,2.3,7,7.63,19.49,996370471,331,7,albion park,2024-02-18,poo,poo
+4.0,kamilaroi girl,8.0,25.8,51.0,5,7.34,19.49,996370471,331,7,albion park,2024-02-18,poo,poo
+,red yogi,,,1.0,,,,996370471,331,7,albion park,2024-02-18,poo,poo
+,federal vixen,,,1.0,,,,996370471,331,7,albion park,2024-02-18,poo,poo
+2.0,sacramento,1.0,25.7,2.4,2,7.17,19.27,996370472,331,7,albion park,2024-02-18,poo,poo
+8.0,wally's boy,2.0,30.3,71.0,8,7.7,20.2,996370472,331,7,albion park,2024-02-18,poo,poo
+7.0,i'm lucky,3.0,31.7,34.0,7,7.54,19.83,996370472,331,7,albion park,2024-02-18,poo,poo
+3.0,destini meadow,4.0,26.9,9.0,4,7.26,19.53,996370472,331,7,albion park,2024-02-18,poo,poo
+4.0,misty moon,5.0,25.3,6.5,3,7.18,19.58,996370472,331,7,albion park,2024-02-18,poo,poo
+6.0,wined out,6.0,25.3,17.0,6,7.36,19.7,996370472,331,7,albion park,2024-02-18,poo,poo
+1.0,jamaica honey,7.0,26.9,5.0,1,7.14,19.15,996370472,331,7,albion park,2024-02-18,poo,poo
+5.0,she's a kiwi,8.0,27.7,3.9,5,7.27,19.69,996370472,331,7,albion park,2024-02-18,poo,poo
+,cyclone isla,,,1.0,,,,996370472,331,7,albion park,2024-02-18,poo,poo
+,federal vixen,,,1.0,,,,996370472,331,7,albion park,2024-02-18,poo,poo
+1.0,jimary texas,1.0,34.1,2.4,1,7.06,18.93,996370473,331,4,albion park,2024-02-18,poo,poo
+2.0,miss gledhill,2.0,25.4,23.0,2,7.23,19.31,996370473,331,5,albion park,2024-02-18,poo,poo
+3.0,hooligan hoon,3.0,28.3,17.0,4,7.28,19.39,996370473,331,6,albion park,2024-02-18,poo,poo
+8.0,maroney,4.0,30.3,3.9,8,7.39,19.92,996370473,331,5,albion park,2024-02-18,poo,poo
+5.0,chief bear,5.0,36.8,81.0,7,7.36,19.69,996370473,331,6,albion park,2024-02-18,poo,poo
+4.0,summer's shark,6.0,25.8,2.5,3,7.27,19.42,996370473,331,5,albion park,2024-02-18,poo,poo
+6.0,sneaky jim,7.0,28.0,101.0,6,7.35,19.73,996370473,331,5,albion park,2024-02-18,poo,poo
+7.0,sorsogon smile,8.0,26.6,26.0,5,7.28,19.89,996370473,331,5,albion park,2024-02-18,poo,poo
+,juggernaut brown,,,1.0,,,,996370473,331,6,albion park,2024-02-18,poo,poo
+,black parade,,,1.0,,,,996370473,331,6,albion park,2024-02-18,poo,poo
+4.0,philly special,1.0,29.4,5.0,1,7.05,19.33,996370474,331,5,albion park,2024-02-18,poo,poo
+1.0,powered up,2.0,26.2,14.0,2,7.22,19.16,996370474,331,6,albion park,2024-02-18,poo,poo
+7.0,woosnam,3.0,38.6,21.0,7,7.44,19.73,996370474,331,5,albion park,2024-02-18,poo,poo
+3.0,goes like gary,4.0,32.2,7.0,3,7.24,19.32,996370474,331,6,albion park,2024-02-18,poo,poo
+2.0,travis's scrub,5.0,25.2,1.9,4,7.28,19.28,996370474,331,6,albion park,2024-02-18,poo,poo
+5.0,i'm no maid,6.0,29.3,5.0,6,7.38,19.58,996370474,331,5,albion park,2024-02-18,poo,poo
+8.0,nanna's lucy,7.0,24.7,31.0,8,7.48,19.86,996370474,331,7,albion park,2024-02-18,poo,poo
+6.0,dot ball,8.0,30.6,31.0,5,7.28,19.7,996370474,331,6,albion park,2024-02-18,poo,poo
+,bentley boom,,,1.0,,,,996370474,331,5,albion park,2024-02-18,poo,poo
+,juggernaut brown,,,1.0,,,,996370474,331,6,albion park,2024-02-18,poo,poo
+5.0,pieman,1.0,30.3,13.0,7,7.39,19.71,996370475,331,6,albion park,2024-02-18,poo,poo
+8.0,tap out mickey,2.0,35.9,4.2,6,7.38,21.02,996370475,331,5,albion park,2024-02-18,poo,poo
+2.0,she's bubbles,3.0,23.3,5.5,1,7.2,19.32,996370475,331,5,albion park,2024-02-18,poo,poo
+3.0,central locking,4.0,29.6,3.6,4,7.36,19.45,996370475,331,5,albion park,2024-02-18,poo,poo
+7.0,whether to fly,5.0,26.5,71.0,8,7.44,20.08,996370475,331,5,albion park,2024-02-18,poo,poo
+6.0,ripper roo,6.0,27.6,26.0,3,7.23,19.93,996370475,331,6,albion park,2024-02-18,poo,poo
+4.0,jilliby layton,7.0,32.7,2.7,5,7.38,19.51,996370475,331,5,albion park,2024-02-18,poo,poo
+1.0,whispering sadie,8.0,28.3,26.0,2,7.2,19.17,996370475,331,5,albion park,2024-02-18,poo,poo
+,bentley boom,,,1.0,,,,996370475,331,5,albion park,2024-02-18,poo,poo
+,black parade,,,1.0,,,,996370475,331,6,albion park,2024-02-18,poo,poo
+5.0,drop pin,1.0,30.8,1.9,3,7.26,19.54,996370476,331,5,albion park,2024-02-18,poo,poo
+1.0,slippery witch,2.0,26.1,4.2,1,7.15,19.04,996370476,331,5,albion park,2024-02-18,poo,poo
+7.0,almost famous,3.0,24.8,23.0,5,7.29,19.8,996370476,331,5,albion park,2024-02-18,poo,poo
+6.0,freddy vegas,4.0,32.9,19.0,6,7.34,19.69,996370476,331,5,albion park,2024-02-18,poo,poo
+2.0,lava flow,5.0,25.4,18.0,2,7.15,19.36,996370476,331,6,albion park,2024-02-18,poo,poo
+8.0,class of twenty,6.0,24.6,101.0,7,7.46,19.96,996370476,331,5,albion park,2024-02-18,poo,poo
+4.0,madam gambler,7.0,26.0,12.0,8,7.46,19.46,996370476,331,6,albion park,2024-02-18,poo,poo
+3.0,spritely arabian,8.0,29.9,4.0,4,7.27,19.39,996370476,331,6,albion park,2024-02-18,poo,poo
+,juggernaut brown,,,1.0,,,,996370476,331,6,albion park,2024-02-18,poo,poo
+,bentley boom,,,1.0,,,,996370476,331,5,albion park,2024-02-18,poo,poo
+,lippy kid,,,1.0,,,,996370479,331,3,albion park,2024-02-18,poo,poo
+,high performer,,,1.0,,,,996370479,331,4,albion park,2024-02-18,poo,poo
+1.0,sivo banner,1.0,31.0,1.9,1,6.99,18.79,996370479,331,3,albion park,2024-02-18,poo,poo
+2.0,rio valour,2.0,30.8,2.8,4,7.19,18.93,996370479,331,3,albion park,2024-02-18,poo,poo
+3.0,inspired reason,4.0,31.2,6.5,3,7.18,19.08,996370479,331,3,albion park,2024-02-18,poo,poo
+4.0,hot barrels,8.0,31.9,12.0,2,7.15,19.12,996370479,331,3,albion park,2024-02-18,poo,poo
+1.0,keep you posted,1.0,26.0,2.9,1,7.09,19.03,996370482,331,4,albion park,2024-02-18,poo,poo
+2.0,ultimate boost,2.0,30.4,71.0,4,7.34,19.26,996370482,331,4,albion park,2024-02-18,poo,poo
+4.0,slap happy chap,3.0,31.7,9.0,3,7.23,19.34,996370482,331,4,albion park,2024-02-18,poo,poo
+5.0,keep on running,4.0,27.9,7.5,7,7.35,19.45,996370482,331,4,albion park,2024-02-18,poo,poo
+7.0,fanciful,6.0,24.2,4.0,6,7.35,19.8,996370482,331,4,albion park,2024-02-18,poo,poo
+6.0,faster than hoot,7.0,31.7,61.0,5,7.35,19.7,996370482,331,4,albion park,2024-02-18,poo,poo
+2.0,scrub's rocket,8.0,23.7,2.7,2,7.11,19.26,996370482,331,4,albion park,2024-02-18,poo,poo
+,lady mcbeth,,,1.0,,,,996370484,331,5,albion park,2024-02-18,poo,poo
+5.0,yorklea one,1.0,25.4,2.6,7,7.38,19.58,996370484,331,5,albion park,2024-02-18,poo,poo
+8.0,polly's riff,2.0,29.7,12.0,6,7.34,19.73,996370484,331,6,albion park,2024-02-18,poo,poo
+4.0,no personality,3.0,34.8,21.0,4,7.3,19.49,996370484,331,6,albion park,2024-02-18,poo,poo
+6.0,bella lou,4.0,25.6,31.0,8,7.44,19.65,996370484,331,6,albion park,2024-02-18,poo,poo
+3.0,just slick,5.0,28.9,16.0,3,7.25,19.36,996370484,331,5,albion park,2024-02-18,poo,poo
+7.0,add to cart,6.0,34.5,7.0,5,7.31,19.67,996370484,331,5,albion park,2024-02-18,poo,poo
+1.0,just another mac,7.0,28.4,2.5,1,7.06,18.97,996370484,331,5,albion park,2024-02-18,poo,poo
+2.0,lochinvar jazz,8.0,31.3,13.0,2,7.15,19.29,996370484,331,5,albion park,2024-02-18,poo,poo
+5.0,reuben cotter,1.0,34.5,3.1,66,,20.67,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+4.0,panama pursuit,2.0,27.3,9.5,43,,20.64,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+7.0,wild taurean,3.0,24.1,51.0,77,,20.93,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+3.0,goofy's brother,4.0,30.8,3.2,32,,20.63,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+1.0,hello spider,5.0,27.7,5.0,21,,20.37,996370513,366,7,capalaba,2024-02-18,poo,poo
+6.0,forge ahead,6.0,31.1,81.0,88,,20.88,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+2.0,bogie cannon,7.0,32.0,4.2,54,,20.39,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+8.0,galway grace,8.0,26.4,81.0,15,,21.01,996370513,366,Maiden,capalaba,2024-02-18,poo,poo
+7.0,king roger,1.0,27.8,81.0,65,,20.82,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+1.0,that's hot,2.0,27.7,1.4,11,,19.69,996370514,366,7,capalaba,2024-02-18,poo,poo
+3.0,black ascender,3.0,34.6,8.0,57,,20.61,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+6.0,esmerelda cloud,4.0,26.8,31.0,46,,20.72,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+8.0,mustang dolly,5.0,30.7,101.0,88,,21.05,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+4.0,painted grinner,6.0,27.2,101.0,24,,20.64,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+4.0,cheers cobber,7.0,32.8,26.0,33,,20.64,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+2.0,sedition,8.0,31.7,3.6,72,,20.38,996370514,366,Maiden,capalaba,2024-02-18,poo,poo
+6.0,see it rock,1.0,21.9,101.0,25,,20.86,996370515,366,7,capalaba,2024-02-18,poo,poo
+2.0,volcan baru,2.0,31.8,7.0,64,,20.38,996370515,366,7,capalaba,2024-02-18,poo,poo
+5.0,galway charm,3.0,33.0,5.5,46,,20.75,996370515,366,7,capalaba,2024-02-18,poo,poo
+4.0,nana marie,4.0,26.0,5.5,53,,20.45,996370515,366,7,capalaba,2024-02-18,poo,poo
+3.0,buck barrow,6.0,33.9,4.0,12,,20.41,996370515,366,7,capalaba,2024-02-18,poo,poo
+1.0,orson ivy,7.0,25.2,5.5,31,,20.21,996370515,366,6,capalaba,2024-02-18,poo,poo
+7.0,showtime brad,8.0,32.1,3.4,77,,21.18,996370515,366,7,capalaba,2024-02-18,poo,poo
+5.0,radiation,1.0,36.7,10.0,54,,20.41,996370516,366,5,capalaba,2024-02-18,poo,poo
+3.0,who told paddy,2.0,32.8,3.2,63,,20.25,996370516,366,5,capalaba,2024-02-18,poo,poo
+4.0,he's a brute,4.0,29.9,101.0,11,,20.4,996370516,366,5,capalaba,2024-02-18,poo,poo
+6.0,canya bellatrix,5.0,33.5,51.0,36,,20.52,996370516,366,5,capalaba,2024-02-18,poo,poo
+2.0,hoover,7.0,31.3,2.2,45,,20.17,996370516,366,5,capalaba,2024-02-18,poo,poo
+1.0,make it count,8.0,34.0,3.2,22,,20.14,996370516,366,5,capalaba,2024-02-18,poo,poo
+,johnny bravo,,,1.0,,,,996370517,366,6,capalaba,2024-02-18,poo,poo
+,nope rope,,,1.0,,,,996370517,366,5,capalaba,2024-02-18,poo,poo
+4.0,argyle blaze,2.0,34.7,12.0,43,,20.09,996370517,366,6,capalaba,2024-02-18,poo,poo
+1.0,lenny large,3.0,30.6,5.5,11,,19.78,996370517,366,5,capalaba,2024-02-18,poo,poo
+6.0,contagious,4.0,31.5,23.0,56,,20.3,996370517,366,6,capalaba,2024-02-18,poo,poo
+2.0,farmor relief,5.0,31.7,3.2,22,,19.89,996370517,366,5,capalaba,2024-02-18,poo,poo
+5.0,galway garth,6.0,29.4,31.0,34,,20.15,996370517,366,7,capalaba,2024-02-18,poo,poo
+3.0,messy in heaven,7.0,32.4,1.8,65,,19.99,996370517,366,5,capalaba,2024-02-18,poo,poo
+,kalani tony,,,1.0,,,,996370518,366,5,capalaba,2024-02-18,poo,poo
+4.0,bye bye dora,2.0,29.3,2.8,56,,20.16,996370518,366,5,capalaba,2024-02-18,poo,poo
+7.0,beast riot,3.0,26.9,81.0,24,,20.5,996370518,366,6,capalaba,2024-02-18,poo,poo
+6.0,born to rave,4.0,27.3,3.6,13,,20.24,996370518,366,5,capalaba,2024-02-18,poo,poo
+2.0,rhythm and blues,5.0,26.5,14.0,65,,19.96,996370518,366,6,capalaba,2024-02-18,poo,poo
+3.0,hurry up blazer,6.0,35.6,14.0,77,,20.09,996370518,366,6,capalaba,2024-02-18,poo,poo
+5.0,galway meg,7.0,26.2,23.0,32,,20.21,996370518,366,7,capalaba,2024-02-18,poo,poo
+1.0,zipping parker,8.0,31.6,2.5,41,,19.84,996370518,366,5,capalaba,2024-02-18,poo,poo
+,blaze duck,,,1.0,,,,996370519,366,5,capalaba,2024-02-18,poo,poo
+,digital sea,,,1.0,,,,996370519,366,5,capalaba,2024-02-18,poo,poo
+5.0,cheeky grub,1.0,27.2,14.0,44,,20.07,996370519,366,6,capalaba,2024-02-18,poo,poo
+2.0,precious layla,3.0,30.7,1.7,55,,19.89,996370519,366,5,capalaba,2024-02-18,poo,poo
+6.0,kalani tony,4.0,27.9,18.0,77,,20.17,996370519,366,5,capalaba,2024-02-18,poo,poo
+7.0,supreme ella,5.0,30.2,8.5,66,,20.22,996370519,366,5,capalaba,2024-02-18,poo,poo
+3.0,pay freeze,6.0,27.9,10.0,33,,19.97,996370519,366,6,capalaba,2024-02-18,poo,poo
+3.0,crayfish,7.0,26.7,26.0,22,,19.97,996370519,366,5,capalaba,2024-02-18,poo,poo
+1.0,quicker sophie,8.0,27.8,3.7,11,,19.81,996370519,366,5,capalaba,2024-02-18,poo,poo
+,who's your papi,,,1.0,,,,996370519,366,6,capalaba,2024-02-18,poo,poo
+5.0,caramel queen,1.0,27.3,51.0,55,,19.96,996370520,366,2,capalaba,2024-02-18,poo,poo
+7.0,where's the ford,2.0,32.1,41.0,76,,20.14,996370520,366,2,capalaba,2024-02-18,poo,poo
+8.0,redlem george,3.0,31.2,21.0,44,,20.18,996370520,366,2,capalaba,2024-02-18,poo,poo
+3.0,then came you,4.0,27.4,19.0,22,,19.74,996370520,366,3,capalaba,2024-02-18,poo,poo
+4.0,i'm peakin',5.0,33.6,26.0,87,,19.94,996370520,366,2,capalaba,2024-02-18,poo,poo
+6.0,painted infrared,6.0,27.9,41.0,68,,20.04,996370520,366,3,capalaba,2024-02-18,poo,poo
+2.0,we're on one,7.0,34.4,7.5,13,,19.7,996370520,366,2,capalaba,2024-02-18,poo,poo
+1.0,valhalla,8.0,31.3,1.12,31,,19.3,996370520,366,1,capalaba,2024-02-18,poo,poo
+2.0,another level,1.0,32.9,1.5,22,,20.0,996370521,366,4,capalaba,2024-02-18,poo,poo
+8.0,pitter patter,2.0,33.6,101.0,47,,20.94,996370521,366,5,capalaba,2024-02-18,poo,poo
+5.0,panzer one,3.0,34.1,3.9,54,,20.12,996370521,366,4,capalaba,2024-02-18,poo,poo
+3.0,too much scotch,4.0,32.6,8.5,33,,20.06,996370521,366,4,capalaba,2024-02-18,poo,poo
+7.0,winlock all over,5.0,25.2,101.0,88,,20.54,996370521,366,4,capalaba,2024-02-18,poo,poo
+1.0,orson's lad,6.0,30.3,14.0,11,,19.82,996370521,366,4,capalaba,2024-02-18,poo,poo
+6.0,sir banjo,7.0,33.8,11.0,76,,20.34,996370521,366,4,capalaba,2024-02-18,poo,poo
+4.0,thornbird,8.0,26.1,51.0,65,,20.07,996370521,366,4,capalaba,2024-02-18,poo,poo
+5.0,cost a dime,1.0,33.1,34.0,11,,20.28,996370522,366,5,capalaba,2024-02-18,poo,poo
+4.0,lucky garcia,2.0,30.9,81.0,24,,20.27,996370522,366,5,capalaba,2024-02-18,poo,poo
+5.0,so you see,3.0,30.1,5.5,65,,20.28,996370522,366,5,capalaba,2024-02-18,poo,poo
+7.0,white like snow,4.0,26.6,19.0,87,,22.43,996370522,366,5,capalaba,2024-02-18,poo,poo
+8.0,whispers,5.0,29.5,81.0,38,,24.09,996370522,366,5,capalaba,2024-02-18,poo,poo
+2.0,darby display,6.0,29.6,2.3,76,,19.99,996370522,366,5,capalaba,2024-02-18,poo,poo
+3.0,farmor power,7.0,33.9,5.5,42,,20.06,996370522,366,5,capalaba,2024-02-18,poo,poo
+1.0,top shelf tim,8.0,27.7,3.1,53,,19.98,996370522,366,5,capalaba,2024-02-18,poo,poo
+2.0,ecker road,1.0,34.6,14.0,22,,20.44,996370523,366,6,capalaba,2024-02-18,poo,poo
+5.0,blinky,2.0,28.6,7.5,34,,20.6,996370523,366,5,capalaba,2024-02-18,poo,poo
+8.0,farmor swagger,3.0,31.0,41.0,86,,20.91,996370523,366,6,capalaba,2024-02-18,poo,poo
+1.0,taabinga tiger,4.0,34.8,2.7,43,,20.19,996370523,366,5,capalaba,2024-02-18,poo,poo
+6.0,shell and sea,5.0,25.8,26.0,11,,20.66,996370523,366,5,capalaba,2024-02-18,poo,poo
+4.0,where's chester,6.0,33.6,7.5,55,,20.59,996370523,366,6,capalaba,2024-02-18,poo,poo
+7.0,blueberry danish,7.0,35.5,4.4,78,,20.74,996370523,366,6,capalaba,2024-02-18,poo,poo
+3.0,riverina knight,8.0,33.5,4.4,67,,20.53,996370523,366,5,capalaba,2024-02-18,poo,poo
+4.0,it's bob,1.0,30.2,9.0,0,4.89,20.87,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+3.0,hurricane harper,2.0,21.4,26.0,,4.81,20.78,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+6.0,it's hannah,4.0,25.5,7.0,0,4.93,20.94,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+2.0,dashing serpent,5.0,24.8,1.9,,4.64,20.45,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+5.0,todd's grace,7.0,31.4,5.0,,4.73,20.93,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+1.0,it's ashtyn,8.0,26.6,4.6,0,4.69,20.43,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+,manifestor,,,1.0,,,,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+,supreme thailand,,,1.0,,,,996378552,342,Maiden,angle park,2024-02-17,poo,poo
+3.0,robbo's right,1.0,33.5,1.5,0,4.77,20.38,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+1.0,come back jess,2.0,24.4,3.7,0,4.64,20.24,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+5.0,it's lolly,4.0,28.0,101.0,0,4.93,21.41,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+6.0,it's nanna,5.0,27.4,17.0,0,4.96,22.71,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+4.0,dark queen,7.0,30.3,9.0,0,4.72,20.91,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+2.0,coobowie boy,8.0,29.4,13.0,,4.84,20.37,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+,brooklyn road,,,1.0,,,,996378553,342,7,angle park,2024-02-17,poo,poo
+,maddison pearl,,,1.0,,,,996378553,342,Maiden,angle park,2024-02-17,poo,poo
+5.0,it's potter,1.0,28.3,6.0,,4.77,20.88,996378555,342,7,angle park,2024-02-17,poo,poo
+8.0,red tides,2.0,32.9,61.0,,5.05,21.27,996378555,342,7,angle park,2024-02-17,poo,poo
+1.0,zing zang paris,3.0,28.3,4.0,,4.66,20.34,996378555,342,5,angle park,2024-02-17,poo,poo
+7.0,rock the dragon,4.0,26.2,3.1,,5.02,21.19,996378555,342,7,angle park,2024-02-17,poo,poo
+2.0,ballroom belle,5.0,27.8,11.0,,4.88,20.4,996378555,342,7,angle park,2024-02-17,poo,poo
+3.0,bruce's angel,6.0,26.9,6.5,,4.62,20.48,996378555,342,6,angle park,2024-02-17,poo,poo
+4.0,aston icarus,7.0,36.1,5.0,,2.79,20.68,996378555,342,7,angle park,2024-02-17,poo,poo
+6.0,christoff,8.0,30.0,23.0,,4.85,21.02,996378555,342,7,angle park,2024-02-17,poo,poo
+,alaska black,,,1.0,,,,996378555,342,7,angle park,2024-02-17,poo,poo
+,peanut butter,,,1.0,,,,996378555,342,7,angle park,2024-02-17,poo,poo
+6.0,todd's pearl,1.0,28.0,3.9,,4.82,20.84,996378557,342,6,angle park,2024-02-17,poo,poo
+1.0,victa jayde,2.0,30.3,4.0,,4.61,19.87,996378557,342,6,angle park,2024-02-17,poo,poo
+5.0,miss funds,3.0,26.2,4.8,,4.77,20.59,996378557,342,7,angle park,2024-02-17,poo,poo
+2.0,florrie lincoln,4.0,24.1,6.0,,4.71,20.09,996378557,342,7,angle park,2024-02-17,poo,poo
+8.0,razzle berries,5.0,28.0,11.0,,4.86,21.09,996378557,342,7,angle park,2024-02-17,poo,poo
+3.0,archer four,6.0,30.0,12.0,,4.89,20.43,996378557,342,7,angle park,2024-02-17,poo,poo
+7.0,finlay's storm,7.0,25.4,19.0,,4.81,21.02,996378557,342,5,angle park,2024-02-17,poo,poo
+4.0,hot centipede,8.0,28.3,7.0,,4.85,20.52,996378557,342,7,angle park,2024-02-17,poo,poo
+,pasta dough,,,1.0,,,,996378557,342,7,angle park,2024-02-17,poo,poo
+,stylish wildfire,,,1.0,,,,996378557,342,5,angle park,2024-02-17,poo,poo
+2.0,banjo bob,1.0,32.0,6.5,,4.59,20.0,996378559,342,7,angle park,2024-02-17,poo,poo
+4.0,sweeping,2.0,25.6,6.0,,4.75,20.24,996378559,342,6,angle park,2024-02-17,poo,poo
+7.0,aston maiko,3.0,27.9,5.0,,4.85,20.38,996378559,342,7,angle park,2024-02-17,poo,poo
+6.0,shady's rocket,4.0,32.0,21.0,,4.83,20.37,996378559,342,5,angle park,2024-02-17,poo,poo
+3.0,golden gangster,5.0,33.7,10.0,,4.76,20.01,996378559,342,7,angle park,2024-02-17,poo,poo
+5.0,casting,6.0,25.3,4.0,,4.64,20.25,996378559,342,7,angle park,2024-02-17,poo,poo
+1.0,bella mac,7.0,26.1,7.5,,4.62,19.8,996378559,342,7,angle park,2024-02-17,poo,poo
+8.0,orson dale,8.0,31.4,5.5,,4.77,20.64,996378559,342,5,angle park,2024-02-17,poo,poo
+,redshift jules,,,1.0,,,,996378559,342,7,angle park,2024-02-17,poo,poo
+,victa vern,,,1.0,,,,996378559,342,6,angle park,2024-02-17,poo,poo
+,spring sophie,,,1.0,,,,996378561,342,5,angle park,2024-02-17,poo,poo
+1.0,aston pierro,1.0,32.0,3.0,0,4.6,19.98,996378561,342,7,angle park,2024-02-17,poo,poo
+2.0,cawbourne gordie,2.0,28.9,9.5,,4.63,20.03,996378561,342,5,angle park,2024-02-17,poo,poo
+6.0,max the snappin',3.0,33.8,4.0,0,4.65,20.44,996378561,342,5,angle park,2024-02-17,poo,poo
+,ximena bale,4.0,28.8,31.0,0,,,996378561,342,5,angle park,2024-02-17,poo,poo
+5.0,aston bruno,5.0,30.9,10.0,,4.66,20.3,996378561,342,6,angle park,2024-02-17,poo,poo
+4.0,dookie,6.0,32.4,19.0,,4.79,20.22,996378561,342,5,angle park,2024-02-17,poo,poo
+3.0,urana mr. rob,7.0,25.6,4.4,,4.68,20.18,996378561,342,5,angle park,2024-02-17,poo,poo
+7.0,it's sharna,8.0,27.0,7.0,0,4.88,21.32,996378561,342,7,angle park,2024-02-17,poo,poo
+,brawling bonnie,,,1.0,,,,996378561,342,7,angle park,2024-02-17,poo,poo
+1.0,roxy fudge,1.0,25.7,4.4,,4.59,19.91,996378562,342,5,angle park,2024-02-17,poo,poo
+2.0,aston fonda,2.0,27.5,5.0,,4.62,20.05,996378562,342,5,angle park,2024-02-17,poo,poo
+7.0,king cunnington,3.0,29.8,3.4,,4.65,20.52,996378562,342,5,angle park,2024-02-17,poo,poo
+3.0,kilcoy brae,4.0,32.0,4.8,,4.49,20.12,996378562,342,5,angle park,2024-02-17,poo,poo
+4.0,spring brooke,5.0,26.3,26.0,,4.74,20.2,996378562,342,5,angle park,2024-02-17,poo,poo
+8.0,daniel sun,6.0,31.3,15.0,,4.74,20.6,996378562,342,5,angle park,2024-02-17,poo,poo
+6.0,go go ringo,7.0,32.7,19.0,,4.71,20.36,996378562,342,5,angle park,2024-02-17,poo,poo
+5.0,virage volante,8.0,26.3,6.5,,4.49,20.24,996378562,342,5,angle park,2024-02-17,poo,poo
+,chuckles,,,1.0,,,,996378562,342,5,angle park,2024-02-17,poo,poo
+,foul play,,,1.0,,,,996378562,342,5,angle park,2024-02-17,poo,poo
+2.0,wood carrier,1.0,31.3,5.5,,4.53,20.0,996378564,342,5,angle park,2024-02-17,poo,poo
+6.0,rhonda wine,2.0,29.2,7.5,,4.75,20.46,996378564,342,5,angle park,2024-02-17,poo,poo
+8.0,chatting,3.0,26.1,13.0,,4.72,20.66,996378564,342,5,angle park,2024-02-17,poo,poo
+7.0,lettuce win,4.0,26.2,9.0,,4.7,20.61,996378564,342,5,angle park,2024-02-17,poo,poo
+3.0,techno kelli,5.0,26.6,3.8,,4.61,20.01,996378564,342,5,angle park,2024-02-17,poo,poo
+5.0,ally kade,6.0,27.3,8.0,,4.69,20.36,996378564,342,5,angle park,2024-02-17,poo,poo
+1.0,aston georgina,7.0,28.9,6.5,,4.52,19.88,996378564,342,5,angle park,2024-02-17,poo,poo
+4.0,casino rose,8.0,25.5,4.6,,4.66,20.11,996378564,342,5,angle park,2024-02-17,poo,poo
+,black light burn,,,1.0,,,,996378564,342,5,angle park,2024-02-17,poo,poo
+,nina inferno,,,1.0,,,,996378564,342,5,angle park,2024-02-17,poo,poo
+8.0,flutter snow,1.0,25.7,217.6,87,6.58,23.37,996299902,400,7,mandurah,2024-02-18,poo,poo
+4.0,neon leon,2.0,29.6,8.7,42,6.35,23.06,996299902,400,7,mandurah,2024-02-18,poo,poo
+7.0,tika magic,3.0,26.3,120.9,68,6.48,23.36,996299902,400,7,mandurah,2024-02-18,poo,poo
+5.0,pint of special,4.0,26.3,11.3,26,6.32,23.24,996299902,400,6,mandurah,2024-02-18,poo,poo
+3.0,frantic phyllis,5.0,25.7,15.1,54,6.44,23.05,996299902,400,7,mandurah,2024-02-18,poo,poo
+6.0,king hutch,6.0,30.9,13.8,33,6.35,23.25,996299902,400,6,mandurah,2024-02-18,poo,poo
+2.0,slowly drifting,7.0,30.1,7.8,75,6.49,22.98,996299902,400,6,mandurah,2024-02-18,poo,poo
+1.0,cadia gold,8.0,31.9,1.4,11,6.31,22.14,996299902,400,6,mandurah,2024-02-18,poo,poo
+4.0,tudor light,1.0,26.8,6.9,112,5.8,27.98,996299903,488,7,mandurah,2024-02-18,poo,poo
+2.0,every step,2.0,28.5,2.6,233,5.93,27.81,996299903,488,6,mandurah,2024-02-18,poo,poo
+1.0,aussie singman,3.0,34.2,6.7,321,5.93,27.78,996299903,488,6,mandurah,2024-02-18,poo,poo
+3.0,go seek isla,4.0,24.9,4.0,554,5.98,27.91,996299903,488,6,mandurah,2024-02-18,poo,poo
+5.0,junk it man,5.0,31.3,6.2,445,5.96,28.11,996299903,488,6,mandurah,2024-02-18,poo,poo
+6.0,ohana casboult,6.0,33.9,19.7,666,6.01,28.38,996299903,488,7,mandurah,2024-02-18,poo,poo
+8.0,sure as brother,7.0,31.1,37.7,888,6.2,28.53,996299903,488,6,mandurah,2024-02-18,poo,poo
+7.0,luke's raven,8.0,25.7,67.5,777,6.04,28.51,996299903,488,6,mandurah,2024-02-18,poo,poo
+,beard stroker,,,1.0,,,,996299904,400,5,mandurah,2024-02-18,poo,poo
+4.0,don't tell dasha,1.0,28.7,3.5,43,6.42,22.7,996299904,400,5,mandurah,2024-02-18,poo,poo
+2.0,nova girl,2.0,29.1,17.2,22,6.25,22.44,996299904,400,5,mandurah,2024-02-18,poo,poo
+5.0,jet worth,3.0,31.7,12.2,34,6.39,22.72,996299904,400,5,mandurah,2024-02-18,poo,poo
+1.0,west on miley,4.0,26.1,1.9,11,6.25,22.34,996299904,400,5,mandurah,2024-02-18,poo,poo
+3.0,minh smiley,7.0,26.2,5.0,55,6.46,22.61,996299904,400,5,mandurah,2024-02-18,poo,poo
+6.0,impact mac,8.0,33.5,42.2,66,6.48,22.88,996299904,400,5,mandurah,2024-02-18,poo,poo
+,redshift hotel,,,1.0,,,,996299905,300,4,mandurah,2024-02-18,poo,poo
+1.0,full on frankie,1.0,27.4,3.9,2,6.63,17.0,996299905,300,5,mandurah,2024-02-18,poo,poo
+3.0,finloch fernando,2.0,30.3,3.1,3,6.69,17.19,996299905,300,4,mandurah,2024-02-18,poo,poo
+2.0,miss condoleeza,3.0,28.1,4.7,1,6.57,17.03,996299905,300,4,mandurah,2024-02-18,poo,poo
+5.0,early worm,4.0,25.2,20.9,8,6.93,17.38,996299905,300,4,mandurah,2024-02-18,poo,poo
+4.0,knowing,5.0,28.5,5.5,4,6.75,17.27,996299905,300,5,mandurah,2024-02-18,poo,poo
+6.0,liberty pop,6.0,28.5,30.2,7,6.81,17.4,996299905,300,4,mandurah,2024-02-18,poo,poo
+7.0,big girl ziggy,7.0,26.6,24.1,6,6.8,17.43,996299905,300,4,mandurah,2024-02-18,poo,poo
+8.0,rethink it,8.0,26.5,12.2,5,6.78,17.46,996299905,300,4,mandurah,2024-02-18,poo,poo
+,criss cross lass,,,1.0,,,,996299905,300,4,mandurah,2024-02-18,poo,poo

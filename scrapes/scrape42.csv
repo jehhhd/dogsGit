@@ -1,0 +1,1782 @@
+,Plc,Name (Box),Trainer,Time,Mgn,Split,In Run,Wgt,SP,Distance,RaceGrade,date,Track
+0,1,Jam Toast (5),Nathan Evans,19.11,0.0,7.11,1.0,27.3kg,$3.60,331,5H,15/10/2023,albion-park
+1,2,Tuta Queen (8),Cecil Druery,19.21,1.5,7.19,2.0,25.5kg,$2.75,331,5H,15/10/2023,albion-park
+2,3,Crown Of Rock (1),Paul Cauchi,19.33,3.0,7.27,3.0,30.9kg,$17.00,331,5H,15/10/2023,albion-park
+3,4,No Personality (4),Kim Shedden,19.4,4.25,7.35,4.0,34.7kg,$51.00,331,5H,15/10/2023,albion-park
+4,5,Bye Bye Taipan (6),Gary Keep,19.49,5.25,7.45,7.0,30.4kg,$31.00,331,5H,15/10/2023,albion-park
+5,6,Scarlet Oak (2),Ned Snow,19.61,7.0,7.4,5.0,28.5kg,$3.20,331,5H,15/10/2023,albion-park
+6,7,Cosmic Shadow (7),Steven Scells,19.64,7.5,7.48,8.0,27.3kg,$13.00,331,5H,15/10/2023,albion-park
+7,8,Comical Rose (3),Andrew Pearce,19.77,9.25,7.44,6.0,25.7kg,$15.00,331,5H,15/10/2023,albion-park
+8,1,Let's Go Sam (1),Rodney Millington,22.01,0.0,,,33.7kg,$2.70,375,M,15/10/2023,broken-hill
+9,2,Victa Bob (8),Jack Trengove,22.52,7.25,,,29.8kg,$16.00,375,M,15/10/2023,broken-hill
+10,3,Sophie The Pest (7),Chad Hipwell,22.63,8.75,,,25.7kg,$3.60,375,M,15/10/2023,broken-hill
+11,4,Camel Camp (4),Graham Whitford,22.8,11.25,,,29.2kg,$6.00,375,M,15/10/2023,broken-hill
+12,5,Dutch Rambo (5),Jack Trengove,22.85,12.0,,,31.8kg,$8.00,375,M,15/10/2023,broken-hill
+13,6,My Income (3),Heidi Drganc,23.2,17.0,,,31.4kg,$31.00,375,M,15/10/2023,broken-hill
+14,7,Who Knows Tilly (6),Troy Roberts,23.62,23.0,,,25.3kg,$61.00,375,M,15/10/2023,broken-hill
+15,8,Let's Go Ellen (2),Rodney Millington,23.83,26.0,,,29.3kg,$6.50,375,M,15/10/2023,broken-hill
+16,1,It's Smudgy (5),Clint Trengove,30.72,0.0,,,23.8kg,$2.25,525,NG,15/10/2023,broken-hill
+17,2,Who Knows Lyn (2),Kaylene Hatzi,30.77,0.75,,,26.8kg,$1.65,525,NG,15/10/2023,broken-hill
+18,3,Compulsory Hero (1),Clint Trengove,31.32,8.5,,,33.5kg,$21.00,525,NG,15/10/2023,broken-hill
+19,4,Jellybean Jam (8),Benjamin Carswell,31.33,8.75,,,26.8kg,$15.00,525,NG,15/10/2023,broken-hill
+20,5,Irish Gem (7),Clint Trengove,32.18,20.75,,,25.0kg,$51.00,525,NG,15/10/2023,broken-hill
+21,1,Sugar Shane (7),Rodney Millington,30.74,0.0,,,33.6kg,$10.00,525,NG,15/10/2023,broken-hill
+22,2,Zipping Ruckman (8),Wade Hipwell,30.84,1.5,,,33.7kg,$2.75,525,NG,15/10/2023,broken-hill
+23,3,Zipping Muriel (2),Wade Hipwell,30.94,2.75,,,26.2kg,$1.90,525,NG,15/10/2023,broken-hill
+24,4,Smug Doug (1),Robert Dannatt,31.42,9.75,,,30.0kg,$7.00,525,NG,15/10/2023,broken-hill
+25,5,Express Black (4),Leigh Drganc,31.64,12.75,,,31.7kg,$17.00,525,NG,15/10/2023,broken-hill
+26,6,Emily Eclipse (6),Clint Trengove,31.8,15.0,,,25.9kg,$51.00,525,NG,15/10/2023,broken-hill
+27,7,Xavi Bale (3),Kaylene Hatzi,32.01,18.0,,,30.6kg,$34.00,525,NG,15/10/2023,broken-hill
+28,1,Zipping Elkie (6),Wade Hipwell,30.79,0.0,,,26.3kg,$1.40,525,XM5,15/10/2023,broken-hill
+29,2,Far West Lad (1),Chad Hipwell,31.76,13.75,,,32.6kg,$4.90,525,XM5,15/10/2023,broken-hill
+30,3,Who Knows Wendy (7),Troy Roberts,31.77,14.0,,,26.8kg,$7.00,525,XM5,15/10/2023,broken-hill
+31,4,Boy From Hill (4),Clint Trengove,31.84,15.0,,,31.0kg,$26.00,525,XM5,15/10/2023,broken-hill
+32,5,Mystic Bindi (3),Benjamin Carswell,32.01,17.25,,,27.2kg,$21.00,525,XM5,15/10/2023,broken-hill
+33,6,Great Minds (8),Clayton Trengove,32.18,19.75,,,31.2kg,$51.00,525,XM5,15/10/2023,broken-hill
+34,7,Daisy Maisy (5),Shelley Trengove,32.52,24.75,,,26.3kg,$41.00,525,XM5,15/10/2023,broken-hill
+35,8,Thunder Jett (2),Kaylene Hatzi,32.8,28.75,,,33.0kg,$34.00,525,XM5,15/10/2023,broken-hill
+36,1,High Flux (7),Brock Wilson,30.77,0.0,,,25.7kg,$4.50,525,XM5,15/10/2023,broken-hill
+37,2,Seasonal (5),Jack Trengove,31.55,11.0,,,26.8kg,$1.80,525,XM5,15/10/2023,broken-hill
+38,3,Raven Macaw (4),Harrison Trengove,31.93,16.5,,,31.2kg,$11.00,525,XM5,15/10/2023,broken-hill
+39,4,Lady Apex (8),Wade Hipwell,32.11,19.0,,,25.0kg,$4.40,525,XM5,15/10/2023,broken-hill
+40,5,Good Fellow (2),Clayton Trengove,32.31,22.0,,,31.2kg,$41.00,525,XM5,15/10/2023,broken-hill
+41,6,Aussie Mike (1),Chad Hipwell,32.38,23.0,,,32.7kg,$26.00,525,XM5,15/10/2023,broken-hill
+42,7,Far West Lass (6),Chad Hipwell,32.49,24.5,,,27.7kg,$30.00,525,XM5,15/10/2023,broken-hill
+43,8,Bruce's Angel (3),Shelley Trengove,32.55,25.25,,,26.4kg,$41.00,525,XM5,15/10/2023,broken-hill
+44,1,Rare Space (1),Maxwell Gray,22.09,0.0,,,27.3kg,$3.25,375,5H,15/10/2023,broken-hill
+45,2,Mystic Jazz (4),Benjamin Carswell,22.21,1.75,,,33.9kg,$8.00,375,5H,15/10/2023,broken-hill
+46,3,Yellowhammer (7),Graham Whitford,22.42,4.75,,,32.5kg,$4.00,375,5H,15/10/2023,broken-hill
+47,4,Zipping Kit Kat (3),Clint Trengove,22.48,5.5,,,25.0kg,$2.50,375,5H,15/10/2023,broken-hill
+48,5,Made Bail (2),Christopher Jaensch,22.64,7.75,,,30.7kg,$34.00,375,5H,15/10/2023,broken-hill
+49,6,Shake It Up (6),Donna Gaiter,23.0,13.0,,,26.1kg,$22.00,375,5H,15/10/2023,broken-hill
+50,7,Mintaro Bale (8),Kaylene Hatzi,23.16,15.25,,,25.2kg,$29.00,375,5H,15/10/2023,broken-hill
+51,8,Velocity Danika (5),Donna Gaiter,23.3,17.25,,,24.6kg,$31.00,375,5H,15/10/2023,broken-hill
+52,1,Subverse (4),Kaylene Hatzi,21.81,0.0,,,23.2kg,$2.40,375,5H,15/10/2023,broken-hill
+53,2,Triangular (3),Jack Trengove,22.06,3.5,,,26.4kg,$5.00,375,5H,15/10/2023,broken-hill
+54,3,Mickey Danae (7),Kaylene Hatzi,22.18,5.25,,,25.4kg,$4.20,375,5H,15/10/2023,broken-hill
+55,4,Banana Girl (1),Donna Gaiter,22.36,7.75,,,28.4kg,$8.50,375,5H,15/10/2023,broken-hill
+56,5,Miss Cara Black (6),Benjamin Carswell,22.43,8.75,,,28.9kg,$71.00,375,5H,15/10/2023,broken-hill
+57,6,Aston Mcenroe (8),Wade Hipwell,22.46,9.25,,,29.0kg,$5.50,375,5H,15/10/2023,broken-hill
+58,7,Shifty And Shady (5),Terry Gaiter,22.47,9.25,,,29.3kg,$16.00,375,5H,15/10/2023,broken-hill
+59,8,Ordelia Bale (2),Leigh Drganc,22.69,12.5,,,26.0kg,$41.00,375,5H,15/10/2023,broken-hill
+60,1,Blind Frog (7),Peter Slater,22.12,0.0,,,26.0kg,$3.75,375,5H,15/10/2023,broken-hill
+61,2,Lettuce Win (1),Christopher Jaensch,22.41,4.25,,,25.4kg,$17.00,375,5H,15/10/2023,broken-hill
+62,3,Little Miss Ella (6),Donna Gaiter,22.45,4.75,,,25.6kg,$10.00,375,5H,15/10/2023,broken-hill
+63,4,Book Ends (8),Kaylene Hatzi,22.5,5.25,,,29.0kg,$12.00,375,5H,15/10/2023,broken-hill
+64,5,Let's Go Kay (3),Rodney Millington,22.67,7.75,,,27.0kg,$17.00,375,5H,15/10/2023,broken-hill
+65,6,Despairing (2),Jack Trengove,22.7,8.25,,,26.6kg,$3.30,375,5H,15/10/2023,broken-hill
+66,7,Shy Apex (5),Wade Hipwell,22.76,9.25,,,25.9kg,$4.25,375,5H,15/10/2023,broken-hill
+67,8,Mystic Sarah (4),Benjamin Carswell,22.83,10.0,,,29.2kg,$9.50,375,5H,15/10/2023,broken-hill
+68,1,Way Too Soft (8),Christopher Jaensch,21.85,0.0,,,30.2kg,$7.00,375,NG,15/10/2023,broken-hill
+69,2,Emerley Aussie (3),Kaylene Hatzi,21.89,0.75,,,25.8kg,$5.50,375,NG,15/10/2023,broken-hill
+70,3,Emerley Bruce (2),Jack Trengove,22.06,3.0,,,33.1kg,$1.80,375,NG,15/10/2023,broken-hill
+71,4,Masked Avenger (5),Lorraine Robertson,22.2,5.0,,,30.7kg,$20.00,375,NG,15/10/2023,broken-hill
+72,5,Easy Street (7),Kaylene Hatzi,22.44,8.25,,,32.9kg,$16.00,375,NG,15/10/2023,broken-hill
+73,6,West On Flare (1),Lorraine Robertson,22.46,8.75,,,28.4kg,$10.00,375,NG,15/10/2023,broken-hill
+74,7,Ros's Sapphire (4),Peter Slater,22.48,9.0,,,26.0kg,$9.00,375,NG,15/10/2023,broken-hill
+75,8,Watch The Clock (6),Rodney Millington,22.51,9.25,,,31.7kg,$10.00,375,NG,15/10/2023,broken-hill
+76,1,Bionic Blues (3),Christopher Jaensch,21.92,0.0,,,25.6kg,$4.40,375,NG,15/10/2023,broken-hill
+77,2,Subzero Annie (1),Jack Trengove,22.04,1.75,,,25.4kg,$10.00,375,NG,15/10/2023,broken-hill
+78,3,My Last Babe (2),Lorraine Robertson,22.21,4.25,,,25.5kg,$2.75,375,NG,15/10/2023,broken-hill
+79,4,Lipinski Pie (8),Kaylene Hatzi,22.36,6.25,,,28.1kg,$3.25,375,NG,15/10/2023,broken-hill
+80,5,Two Broke Girls (4),Jack Trengove,22.38,6.5,,,23.5kg,$17.00,375,NG,15/10/2023,broken-hill
+81,6,Velocity Comet (7),Donna Gaiter,22.59,9.5,,,27.8kg,$10.00,375,NG,15/10/2023,broken-hill
+82,7,Far Out Lexi (5),Christopher Jaensch,22.74,11.75,,,26.3kg,$20.00,375,NG,15/10/2023,broken-hill
+83,8,Zipping Lyris (6),Wade Hipwell,22.89,13.75,,,25.8kg,$34.00,375,NG,15/10/2023,broken-hill
+84,1,Blazing Joy (1),John Magistro,16.34,0.0,5.63,31.0,26.3kg,$26.00,275,6,15/10/2023,cannington
+85,2,Huey Blue (2),Graeme Hall,16.44,1.5,5.65,42.0,28.9kg,$3.60,275,6,15/10/2023,cannington
+86,3,Hello I'm Aero (6),Benjamin Maclean,16.52,2.5,5.83,84.0,31.7kg,$28.00,275,6,15/10/2023,cannington
+87,4,Wizard's Legend (3),Colin Bainbridge,16.55,3.0,5.62,23.0,31.6kg,$17.00,275,6,15/10/2023,cannington
+88,5,My My My (5),Karl Jovanovic,16.65,4.25,5.65,56.0,29.7kg,$3.00,275,6,15/10/2023,cannington
+89,6,Reed Time (7),Ricky Walton,16.67,4.75,5.74,75.0,30.9kg,$31.00,275,6,15/10/2023,cannington
+90,7,Provisional Ball (8),Rodney Noden,16.68,4.75,5.7,67.0,31.7kg,$6.50,275,6,15/10/2023,cannington
+91,8,Bonbie Panther (4),Frank Bonte,17.07,10.25,5.6,18.0,33.1kg,$3.90,275,6,15/10/2023,cannington
+92,1,Sunset Blackhawk (8),David Hobby,22.01,0.0,6.52,111.0,26.0kg,$6.00,380,M,15/10/2023,cannington
+93,2,Hugo Gundi (5),Geoffrey Reid,22.11,1.5,6.6,222.0,32.7kg,$16.00,380,M,15/10/2023,cannington
+94,3,Shades Of Kuna (1),Michael Johnston,22.25,3.5,6.76,333.0,25.9kg,$1.70,380,M,15/10/2023,cannington
+95,4,Pad Up Owen (6),Peter Brown,22.77,10.75,6.95,444.0,30.8kg,$10.00,380,M,15/10/2023,cannington
+96,5,Uncompromised (2),Kylie Mclennan,22.83,11.75,6.97,555.0,30.7kg,$34.00,380,M,15/10/2023,cannington
+97,6,Yunderup Thorn (3),Michael Rylands,23.0,14.0,7.11,666.0,29.6kg,$41.00,380,M,15/10/2023,cannington
+98,7,Full Of Suprises (4),Kylie Mclennan,23.03,14.5,7.17,887.0,33.5kg,$21.00,380,M,15/10/2023,cannington
+99,8,Midnight Kuna (7),Michael Johnston,23.3,18.25,7.06,778.0,28.3kg,$5.50,380,M,15/10/2023,cannington
+100,1,Our Boy Doug (2),Ricky Walton,16.17,0.0,5.53,11.0,28.3kg,$5.00,275,N,15/10/2023,cannington
+101,2,Big Girl Ziggy (3),Peter Brown,16.29,1.75,5.69,53.0,28.0kg,$3.75,275,N,15/10/2023,cannington
+102,3,Oceanic Ripple (1),Victoria Cook,16.44,3.75,5.58,22.0,26.0kg,$5.00,275,N,15/10/2023,cannington
+103,4,Pad Up Zane (4),Peter Brown,16.51,4.75,5.67,35.0,27.3kg,$29.00,275,N,15/10/2023,cannington
+104,5,Frida Ripple (8),Bradley Cook,16.53,5.25,5.68,44.0,24.8kg,$6.00,275,N,15/10/2023,cannington
+105,6,Pad Up Jasper (6),Peter Brown,16.79,8.75,5.8,87.0,31.8kg,$14.00,275,N,15/10/2023,cannington
+106,7,Only Beard (5),Shane Beard,17.11,13.25,5.75,78.0,32.2kg,$12.00,275,N,15/10/2023,cannington
+107,8,Barefoot Cougar (7),Victoria Cook,17.81,23.5,5.7,66.0,25.5kg,$6.00,275,N,15/10/2023,cannington
+108,1,Candlelight Jazz (4),Daniel Beamish,15.86,0.0,5.49,11.0,33.7kg,$4.50,275,5,15/10/2023,cannington
+109,2,Gaggle Of Fun (7),Lexia Isaac,16.15,4.25,5.59,32.0,31.0kg,$6.50,275,5,15/10/2023,cannington
+110,3,All About Kuna (3),Michael Johnston,16.24,5.25,5.54,23.0,30.4kg,$3.20,275,5,15/10/2023,cannington
+111,4,Jacopo (1),Natalee Marshall,16.31,6.25,5.61,44.0,30.6kg,$5.00,275,5,15/10/2023,cannington
+112,5,Pyroclasm (5),Eric Campana,16.51,9.25,5.68,55.0,29.0kg,$20.00,275,5,15/10/2023,cannington
+113,6,Hello Harley (6),Daniel Beamish,16.63,11.0,5.77,76.0,33.8kg,$17.00,275,5,15/10/2023,cannington
+114,7,Power Train (8),Maxwell Julien,16.77,13.0,5.71,67.0,33.0kg,$7.00,275,5,15/10/2023,cannington
+115,8,Matilda Keeping (2),Natalee Marshall,16.82,13.75,5.87,88.0,29.4kg,$17.00,275,5,15/10/2023,cannington
+116,1,Gypsy Rumba (4),Peter Brown,22.02,0.0,6.59,211.0,27.8kg,$4.00,380,N,15/10/2023,cannington
+117,2,Rev On Reggie (1),Benjamin Maclean,22.32,4.25,6.84,552.0,31.3kg,$6.00,380,N,15/10/2023,cannington
+118,3,Wizard's Delight (6),Colin Bainbridge,22.41,5.5,6.98,885.0,30.8kg,$41.00,380,N,15/10/2023,cannington
+119,4,Liberty Star (2),Rodney Noden,22.61,8.25,6.91,776.0,28.4kg,$3.25,380,N,15/10/2023,cannington
+120,5,Pad Up Declan (5),Peter Brown,22.63,8.75,6.89,663.0,28.9kg,$7.00,380,N,15/10/2023,cannington
+121,6,Rogue Runner (8),Peter Glenny,22.86,12.0,6.7,337.0,29.7kg,$51.00,380,N,15/10/2023,cannington
+122,7,Two Spot Malt (3),Bradley Cook,23.02,14.25,6.56,124.0,29.9kg,$14.00,380,N,15/10/2023,cannington
+123,DNF,Lil Bit Sour (7),David Hobby,,,,44.0,28.5kg,,380,N,15/10/2023,cannington
+124,1,Lady Sharp (2),Benjamin Maclean,16.01,0.0,5.48,11.0,26.8kg,$3.50,275,4,15/10/2023,cannington
+125,2,Finloch Fernando (4),Benjamin Maclean,16.08,1.0,5.49,22.0,29.7kg,$8.50,275,4,15/10/2023,cannington
+126,3,Quick Mick (1),Anthony Scott,16.2,2.5,5.58,43.0,34.2kg,$6.00,275,4,15/10/2023,cannington
+127,4,Sheriff's Way (5),Benjamin Maclean,16.26,3.5,5.58,34.0,26.6kg,$2.50,275,4,15/10/2023,cannington
+128,5,Diesel Fit Her (8),Margaret Hepple,16.39,5.25,5.61,76.0,31.6kg,$11.00,275,4,15/10/2023,cannington
+129,6,Pedro's Me Dad (3),John Magistro,16.46,6.25,5.61,65.0,32.0kg,$90.00,275,4,15/10/2023,cannington
+130,7,Jumping Jill (7),Tracey Glenny,16.57,8.0,5.66,87.0,28.1kg,$29.00,275,4,15/10/2023,cannington
+131,8,Fire Fly Carole (6),Tony Williams,16.63,8.75,5.59,58.0,28.6kg,$11.00,275,4,15/10/2023,cannington
+132,1,Obsessed Much (4),Tracey Glenny,22.11,0.0,6.49,111.0,31.6kg,$2.80,380,N,15/10/2023,cannington
+133,2,Simone Keeping (7),Benjamin Maclean,22.21,1.5,6.63,333.0,28.9kg,$5.50,380,N,15/10/2023,cannington
+134,3,Ace Roulette (6),Phillip Worthington,22.23,1.75,6.75,444.0,31.5kg,$4.80,380,N,15/10/2023,cannington
+135,4,Mustang Sparkles (3),Peter Brown,22.33,3.0,6.6,222.0,30.8kg,$9.00,380,N,15/10/2023,cannington
+136,5,Rock Solid Kid (5),Bradley Cook,22.43,4.5,6.84,655.0,30.5kg,$11.00,380,N,15/10/2023,cannington
+137,6,All About Slate (2),David Hobby,22.47,5.25,6.9,776.0,30.2kg,$26.00,380,N,15/10/2023,cannington
+138,7,Molotov Girl (1),Matthew Goodwin,22.58,6.5,6.82,567.0,30.5kg,$6.50,380,N,15/10/2023,cannington
+139,8,All About Marble (8),David Hobby,22.59,6.75,6.97,888.0,32.6kg,$20.00,380,N,15/10/2023,cannington
+140,1,Wild Amigo (2),Lexia Isaac,29.91,0.0,5.59,1111.0,30.1kg,$2.40,520,X65,15/10/2023,cannington
+141,2,Granite County (6),Damien Crudeli,30.23,4.5,5.66,4332.0,31.7kg,$2.90,520,X65,15/10/2023,cannington
+142,3,Corrupted (1),Damien Crudeli,30.78,12.25,5.78,7556.0,36.3kg,$51.00,520,X65,15/10/2023,cannington
+143,4,Sunset Daphne (8),Eric Campana,30.85,13.25,5.72,5777.0,27.8kg,$2.90,520,X65,15/10/2023,cannington
+144,5,Molfetta Knight (7),Nicola Minutillo,30.86,13.5,5.64,2444.0,31.8kg,$24.00,520,X65,15/10/2023,cannington
+145,6,Firehouse Mac (4),Kylie Mclennan,30.91,14.25,5.74,6665.0,27.0kg,$101.00,520,X65,15/10/2023,cannington
+146,7,Sunset Pinball (3),Shane Beard,30.94,14.5,5.65,3223.0,30.7kg,$71.00,520,X65,15/10/2023,cannington
+147,1,Moment To Polka (7),Benjamin Maclean,22.02,0.0,6.64,111.0,32.6kg,$16.00,380,5,15/10/2023,cannington
+148,2,Global Road (4),Phillip Worthington,22.19,2.25,6.69,222.0,32.1kg,$16.00,380,5,15/10/2023,cannington
+149,3,Miss Valentine (3),Michael Rylands,22.24,3.0,6.79,443.0,29.8kg,$6.00,380,5,15/10/2023,cannington
+150,4,Avgas Gundi (6),Geoffrey Reid,22.31,4.25,6.79,534.0,33.4kg,$4.80,380,5,15/10/2023,cannington
+151,5,My Dad's Augie (2),Glen Currie,22.35,4.75,6.82,655.0,28.3kg,$4.00,380,5,15/10/2023,cannington
+152,5,Kid Kimetto (8),Phillip Worthington,22.35,4.75,6.89,876.0,34.1kg,$7.50,380,5,15/10/2023,cannington
+153,7,Bracton (1),Shane Beard,22.53,7.25,6.85,788.0,32.9kg,$4.90,380,5,15/10/2023,cannington
+154,8,Horoscope (5),Phillip Worthington,22.61,8.25,6.76,367.0,25.7kg,$11.00,380,5,15/10/2023,cannington
+155,1,Kiss Me Kiara (2),Karl Jovanovic,16.31,0.0,5.59,11.0,28.3kg,$1.90,275,6,15/10/2023,cannington
+156,2,Son Of Bamsy (8),Rodney Noden,16.35,0.75,5.64,22.0,31.5kg,$8.00,275,6,15/10/2023,cannington
+157,3,Debbie Keeping (1),Bradley Cook,16.4,1.25,5.64,33.0,28.3kg,$5.50,275,6,15/10/2023,cannington
+158,4,Jurabi (6),Phillip Worthington,16.5,2.5,5.7,44.0,30.0kg,$34.00,275,6,15/10/2023,cannington
+159,5,Big Girl Velma (5),Peter Brown,16.61,4.25,5.85,86.0,27.9kg,$15.00,275,6,15/10/2023,cannington
+160,6,Emma Monelli (7),Natalee Marshall,16.73,6.0,5.78,65.0,26.2kg,$9.00,275,6,15/10/2023,cannington
+161,7,Rainbow Road (3),Eric Campana,16.87,8.0,5.77,57.0,32.4kg,$7.50,275,6,15/10/2023,cannington
+162,8,Bazinga Girl (4),Graeme Hall,17.02,10.0,5.84,78.0,26.2kg,$101.00,275,6,15/10/2023,cannington
+163,1,West On Whistle (2),Damien Crudeli,21.98,0.0,6.55,111.0,28.1kg,$15.00,380,5,15/10/2023,cannington
+164,2,Sunset Cobra (1),David Hobby,22.11,1.75,6.7,333.0,26.0kg,$2.25,380,5,15/10/2023,cannington
+165,3,Abigail Gundi (3),Geoffrey Reid,22.13,2.0,6.6,222.0,29.6kg,$6.00,380,5,15/10/2023,cannington
+166,4,Small Demeanour (5),Nicola Minutillo,22.21,3.25,6.82,445.0,30.9kg,$17.00,380,5,15/10/2023,cannington
+167,5,Can't Bluff Me (6),Cosimo Dagostino,22.22,3.5,6.94,554.0,30.3kg,$6.50,380,5,15/10/2023,cannington
+168,6,Perfect Kuna (7),Michael Johnston,22.38,5.75,7.02,666.0,30.3kg,$4.50,380,5,15/10/2023,cannington
+169,7,Idle Awhile (4),Maxwell Julien,24.44,35.0,8.27,777.0,36.6kg,$10.00,380,5,15/10/2023,cannington
+170,1,Finloch Shadows (1),Benjamin Maclean,21.98,0.0,6.61,111.0,32.6kg,$1.90,380,X65,15/10/2023,cannington
+171,2,Red Shell (4),Eric Campana,22.09,1.5,6.63,222.0,32.7kg,$4.00,380,X65,15/10/2023,cannington
+172,3,Prince Capri (2),John Magistro,22.39,5.75,6.76,333.0,33.8kg,$13.00,380,X65,15/10/2023,cannington
+173,4,Stella Gundi (8),Geoffrey Reid,22.41,6.0,6.89,544.0,29.9kg,$8.50,380,X65,15/10/2023,cannington
+174,5,Little Honda (3),Shane Beard,22.55,8.25,6.96,665.0,26.5kg,$81.00,380,X65,15/10/2023,cannington
+175,6,Kenny Keeping (7),Bradley Cook,22.61,9.0,6.88,456.0,34.5kg,$14.00,380,X65,15/10/2023,cannington
+176,7,Roll With It (5),Natalee Marshall,22.78,11.5,7.11,777.0,35.5kg,$8.50,380,X65,15/10/2023,cannington
+177,8,Blackwood Blue (6),Phillip Worthington,23.18,17.25,7.14,888.0,30.5kg,$51.00,380,X65,15/10/2023,cannington
+178,1,Cyrus (7),Jeff Crawford,19.9,0.0,,,30.8kg,$1.20,366,M,15/10/2023,capalaba
+179,2,Pikelet Spirit (3),Linda Ashford,20.55,9.25,,,25.1kg,$15.00,366,M,15/10/2023,capalaba
+180,3,Beast Riot (2),Bruce Wellington,20.79,12.75,,,28.1kg,$17.00,366,M,15/10/2023,capalaba
+181,4,Pause Control (1),Neil Catchpole,20.83,13.25,,,30.1kg,$10.00,366,M,15/10/2023,capalaba
+182,5,Beastly Enforcer (4),Bruce Wellington,20.97,15.25,,,31.1kg,$17.00,366,M,15/10/2023,capalaba
+183,6,I'm Refined (8),Daniel Bloomfield,20.99,15.5,,,24.9kg,$23.00,366,M,15/10/2023,capalaba
+184,7,Cookie Express (6),Bruce Wellington,21.06,16.5,,,29.7kg,$26.00,366,M,15/10/2023,capalaba
+185,8,Tommy Trumpet (5),Bruce Wellington,22.02,30.25,,,29.6kg,$34.00,366,M,15/10/2023,capalaba
+186,1,Weary Driver (8),Kevin Macintosh,20.15,0.0,,,32.4kg,$2.25,366,NPWNP,15/10/2023,capalaba
+187,2,Full Of Cheek (1),Stella Marschke,20.26,1.5,,,30.6kg,$4.00,366,NPWNP,15/10/2023,capalaba
+188,3,Daysea's Blue (5),Robert Dacey,20.29,2.0,,,29.0kg,$7.00,366,NPWNP,15/10/2023,capalaba
+189,4,She's So Crazy (4),Cameron Scott,20.49,4.75,,,25.6kg,$81.00,366,NPWNP,15/10/2023,capalaba
+190,5,Don't Tell Han (7),Peter Young,20.62,6.5,,,29.5kg,$13.00,366,NPWNP,15/10/2023,capalaba
+191,6,Wally's Boy (2),George Kadniak,20.67,7.5,,,29.4kg,$61.00,366,NPWNP,15/10/2023,capalaba
+192,7,Gail Unleashed (3),Myra Griffiths,20.68,7.5,,,26.4kg,$20.00,366,NPWNP,15/10/2023,capalaba
+193,8,De Vantier (6),Allen Kelly,20.79,9.25,,,27.9kg,$4.80,366,NPWNP,15/10/2023,capalaba
+194,1,Steel Gunn (4),Jeff Crawford,19.74,0.0,,,33.8kg,$1.35,366,5,15/10/2023,capalaba
+195,2,Zipping Parker (1),Allen Kelly,20.0,3.75,,,31.3kg,$5.50,366,5,15/10/2023,capalaba
+196,3,Raw Honey (7),Stephen Barton,20.05,4.25,,,29.5kg,$12.00,366,5,15/10/2023,capalaba
+197,4,Lads On Fire (5),Brett Hazelgrove,20.18,6.25,,,30.6kg,$12.00,366,5,15/10/2023,capalaba
+198,5,Crayfish (6),Myra Griffiths,20.23,7.0,,,24.9kg,$23.00,366,5,15/10/2023,capalaba
+199,6,Top Shelf Tim (8),Daniel Bloomfield,20.34,8.5,,,27.0kg,$15.00,366,5,15/10/2023,capalaba
+200,7,Daysea's Rikki (2),Robert Dacey,20.35,8.75,,,29.0kg,$41.00,366,5,15/10/2023,capalaba
+201,1,Faith In Norris (7),Michael Vaughan,19.85,0.0,,,30.0kg,$101.00,366,X34,15/10/2023,capalaba
+202,2,Alpha Zap (8),Jeff Cumming,19.87,0.25,,,36.7kg,$5.00,366,X34,15/10/2023,capalaba
+203,3,Hendy (4),Cynthia Suttle,20.01,2.25,,,33.1kg,$17.00,366,X34,15/10/2023,capalaba
+204,4,Boys Light Up (5),Kevin Macintosh,20.09,3.5,,,32.6kg,$16.00,366,X34,15/10/2023,capalaba
+205,5,Hudson Bay (1),Douglas Gladman,20.13,4.0,,,30.6kg,$1.55,366,X34,15/10/2023,capalaba
+206,6,Dustin Diesel (2),Tyson Barton,20.14,4.25,,,36.0kg,$5.50,366,X34,15/10/2023,capalaba
+207,7,Tricky Vision (3),Peter Young,20.48,9.0,,,26.3kg,$16.00,366,X34,15/10/2023,capalaba
+208,8,Jimary Texas (6),Linda Ashford,20.62,11.0,,,34.4kg,$71.00,366,X34,15/10/2023,capalaba
+209,1,Then Came You (1),Michael Vaughan,19.64,0.0,,,26.8kg,$1.65,366,O,15/10/2023,capalaba
+210,2,Caramel Queen (4),Tom Tzouvelis,19.85,3.0,,,28.0kg,$4.00,366,O,15/10/2023,capalaba
+211,3,Painted Infrared (7),Joanne Price,19.93,4.25,,,27.9kg,$41.00,366,O,15/10/2023,capalaba
+212,4,Kenzie Baskin (2),Tyson Barton,19.94,4.25,,,29.1kg,$9.50,366,O,15/10/2023,capalaba
+213,5,Burnt Sunset (8),Clifford Houston,19.99,5.0,,,28.0kg,$5.00,366,O,15/10/2023,capalaba
+214,6,Tallahasse Miss (3),Darryl Mcgrath,19.99,5.0,,,27.0kg,$51.00,366,O,15/10/2023,capalaba
+215,7,Sixty Plus (6),Darryl Mcgrath,20.17,7.5,,,30.9kg,$101.00,366,O,15/10/2023,capalaba
+216,1,Tira Mira (1),Clifford Houston,19.78,0.0,,,28.0kg,$1.35,366,O,15/10/2023,capalaba
+217,2,Blaze Duck (8),Jamie Mchugh,19.9,1.75,,,26.2kg,$3.20,366,O,15/10/2023,capalaba
+218,3,Indiana Wind (3),Darryl Mcgrath,20.03,3.5,,,31.4kg,$15.00,366,O,15/10/2023,capalaba
+219,4,Champagne Jazzy (2),Raymond Burman,20.1,4.5,,,32.2kg,$16.00,366,O,15/10/2023,capalaba
+220,5,Spot On Mate (4),Ricky Hassall,20.12,4.75,,,24.8kg,$51.00,366,O,15/10/2023,capalaba
+221,6,Long Cool Sally (6),Stephen Woods,20.26,6.75,,,24.9kg,$101.00,366,O,15/10/2023,capalaba
+222,7,Big Apatite (7),Jason Aylward,36.23,235.0,,,29.4kg,$41.00,366,O,15/10/2023,capalaba
+223,1,Blue Bertrum (3),Jason Aylward,19.62,0.0,,,33.3kg,$2.60,366,O,15/10/2023,capalaba
+224,2,Burnt Briar (4),Clifford Houston,19.67,0.75,,,32.1kg,$3.00,366,O,15/10/2023,capalaba
+225,3,Star Assassin (2),Brett Hazelgrove,19.96,4.75,,,32.9kg,$3.75,366,O,15/10/2023,capalaba
+226,4,Wildash Merv (8),Ricky Hassall,20.09,6.5,,,31.7kg,$5.50,366,O,15/10/2023,capalaba
+227,5,Money Man Tszyu (1),Marie-Madeleine Westwood,20.1,6.75,,,31.8kg,$30.00,366,O,15/10/2023,capalaba
+228,1,Jay Mac (4),Jemma Daley,19.71,0.0,,,33.7kg,$1.60,366,O,15/10/2023,capalaba
+229,2,Redlem George (3),Jason Aylward,19.84,1.75,,,30.6kg,$16.00,366,O,15/10/2023,capalaba
+230,3,Hara's Donny (6),Kylie Raines,19.89,2.5,,,31.1kg,$2.75,366,O,15/10/2023,capalaba
+231,4,Indigo Destroyer (2),Joanne Price,20.1,5.5,,,35.0kg,$17.00,366,O,15/10/2023,capalaba
+232,5,Detonator (1),Ricky Hassall,20.22,7.25,,,30.7kg,$12.00,366,O,15/10/2023,capalaba
+233,6,Buster Up (7),Peter O'Reilly,20.53,11.75,,,30.9kg,$71.00,366,O,15/10/2023,capalaba
+234,1,Valhalla (8),Tom Tzouvelis,19.47,0.0,,,31.2kg,$1.10,366,O,15/10/2023,capalaba
+235,2,Daysea's Sam (4),Robert Dacey,19.78,4.25,,,34.0kg,$10.00,366,O,15/10/2023,capalaba
+236,3,Wildash Hornet (6),Robert Giltinan,19.8,4.75,,,30.2kg,$10.00,366,O,15/10/2023,capalaba
+237,4,Seaway Flyer (2),Joanne Price,20.08,8.75,,,32.2kg,$26.00,366,O,15/10/2023,capalaba
+238,5,Blue Rex (7),Peter O'Reilly,20.09,8.75,,,30.9kg,$51.00,366,O,15/10/2023,capalaba
+239,6,Bernie Boom (3),Peter O'Reilly,20.21,10.5,,,31.2kg,$41.00,366,O,15/10/2023,capalaba
+240,7,Hot Tyson (1),Peter O'Reilly,20.87,20.0,,,31.9kg,$24.00,366,O,15/10/2023,capalaba
+241,1,Colden Mina (1),Ricky Hassall,19.91,0.0,,,33.2kg,$2.30,366,5,15/10/2023,capalaba
+242,2,Whispers (5),Myra Griffiths,20.3,5.5,,,27.2kg,$34.00,366,5,15/10/2023,capalaba
+243,3,Here He Comes (3),Michael Vaughan,20.32,5.75,,,29.2kg,$6.00,366,5,15/10/2023,capalaba
+244,4,Shian Pixie (6),Lawrence Topping,20.35,6.25,,,27.1kg,$7.50,366,5,15/10/2023,capalaba
+245,5,Daysea's Gem (2),Robert Dacey,20.4,7.0,,,28.0kg,$12.00,366,5,15/10/2023,capalaba
+246,6,Bronze Bomber (4),Stella Marschke,20.4,7.0,,,32.1kg,$8.00,366,5,15/10/2023,capalaba
+247,7,Speed Badke (8),Paul Hennelly,20.48,8.25,,,31.8kg,$4.60,366,5,15/10/2023,capalaba
+248,8,Class Of Twenty (7),George Kadniak,20.6,9.75,,,24.4kg,$101.00,366,5,15/10/2023,capalaba
+249,1,Alberton Park (6),Terry Priest,19.77,0.0,,,29.7kg,$2.60,366,5,15/10/2023,capalaba
+250,2,Hurry Up Blazer (8),Christopher Brydon,20.03,3.75,,,35.9kg,$2.30,366,5,15/10/2023,capalaba
+251,3,Chainsaw Ricky (3),Lawrence Topping,20.18,5.75,,,31.9kg,$81.00,366,5,15/10/2023,capalaba
+252,4,This Time Sara (5),Stella Marschke,20.22,6.25,,,33.5kg,$5.00,366,5,15/10/2023,capalaba
+253,5,Daysea's Samara (4),Robert Dacey,20.32,7.75,,,28.1kg,$18.00,366,5,15/10/2023,capalaba
+254,6,Gus Gus (1),Eric Honeyman,20.43,9.25,,,36.6kg,$34.00,366,5,15/10/2023,capalaba
+255,7,Cuckoo Coconuts (7),George Kadniak,20.76,14.0,,,24.4kg,$90.00,366,5,15/10/2023,capalaba
+256,8,Dashing Dipper (2),Raymond Burman,20.99,17.25,,,34.9kg,$9.50,366,5,15/10/2023,capalaba
+257,1,Greta Flash (4),Rodney Power,20.11,0.0,,,28.7kg,$13.00,366,MA5,15/10/2023,capalaba
+258,2,Rebel Prince (8),William Page,20.26,2.0,,,28.9kg,$2.30,366,MA5,15/10/2023,capalaba
+259,3,Make It Count (1),Cameron Austin,20.4,4.25,,,33.8kg,$26.00,366,MA5,15/10/2023,capalaba
+260,4,Lucky Lindy (2),William Page,20.5,5.5,,,23.5kg,$7.00,366,MA5,15/10/2023,capalaba
+261,5,Speedy Paws (3),David Fitzgerald,20.58,6.5,,,30.2kg,$3.25,366,MA5,15/10/2023,capalaba
+262,6,Within Range (7),Neil Catchpole,20.61,7.0,,,30.9kg,$41.00,366,MA5,15/10/2023,capalaba
+263,7,He's The Outlaw (5),Garry Gilbert,20.71,8.5,,,30.3kg,$16.00,366,MA5,15/10/2023,capalaba
+264,8,Any Given Sunday (6),Terry Priest,20.74,9.0,,,30.8kg,$8.50,366,MA5,15/10/2023,capalaba
+265,1,Run Amie (1),M Mavrias,17.14,0.0,,4-2-,26.1kg,$2.60,277,D5,15/10/2023,central-park
+266,2,Burnpark Carol (5),M Fenwick,17.4,3.25,,2-3-,28.8kg,$3.10,277,D5,15/10/2023,central-park
+267,3,Down Load (6),B O'Sullivan,17.42,3.5,,1-1-,26.1kg,$13.00,277,D5,15/10/2023,central-park
+268,4,Hollyoak Dexter (4),R Butler,17.48,4.25,,5-5-,33.9kg,$4.00,277,D5,15/10/2023,central-park
+269,5,Hollyoak Vanessa (3),R Butler,17.5,4.5,,6-4-,26.4kg,$15.00,277,D5,15/10/2023,central-park
+270,6,Run On Hill (2),M Mavrias,17.74,7.5,,3-6-,26.8kg,$6.00,277,D5,15/10/2023,central-park
+271,1,Anna Ban (1),M Fenwick,30.74,0.0,3.47,6441,29.1kg,$2.40,491,A5,15/10/2023,central-park
+272,2,Boomerang Lowry (2),A Collett,30.82,1.0,3.37,5223,34.0kg,$5.00,491,A5,15/10/2023,central-park
+273,3,Create Belief (3),D Brabon,30.9,2.0,3.26,1112,26.9kg,$4.00,491,A5,15/10/2023,central-park
+274,4,Boomerang Indie (6),A Collett,31.0,3.25,3.28,4666,28.1kg,$9.00,491,A5,15/10/2023,central-park
+275,5,Nans Bizzy (4),B O'Sullivan,31.01,3.4,3.32,3554,26.4kg,$7.00,491,A5,15/10/2023,central-park
+276,6,Ryedale Cowboy (5),R Butler,31.11,4.65,3.27,2335,30.9kg,$6.50,491,A5,15/10/2023,central-park
+277,1,Fawkham Prince (6),B O'Sullivan,17.25,0.0,,2-1-,34.3kg,$4.60,277,D3,15/10/2023,central-park
+278,2,Errill Shine (1),A Collett,17.28,0.4,,1-3-,24.1kg,$4.60,277,D3,15/10/2023,central-park
+279,3,Head To Town (2),M Fenwick,17.32,0.9,,3-2-,31.7kg,$4.40,277,D3,15/10/2023,central-park
+280,4,So Handsome (5),D Brabon,17.34,1.15,,6-4-,31.5kg,$10.00,277,D3,15/10/2023,central-park
+281,5,Broadway Sugar (4),M Mavrias,17.42,2.15,,4-5-,26.8kg,$4.50,277,D3,15/10/2023,central-park
+282,6,Birchgrove Buddy (3),B O'Sullivan,17.48,2.9,,5-6-,28.0kg,$3.50,277,D3,15/10/2023,central-park
+283,1,King Charlie (2),M Fenwick,16.82,0.0,,3-2-,31.2kg,$2.10,277,D3,15/10/2023,central-park
+284,2,Eire Darci (5),M Mavrias,16.96,1.75,,1-1-,25.0kg,$8.00,277,D3,15/10/2023,central-park
+285,3,Eire Sleaty (1),M Mavrias,17.02,2.5,,4-4-,32.9kg,$5.00,277,D3,15/10/2023,central-park
+286,4,Diegos Zoe (3),A Collett,17.1,3.5,,6-5-,28.7kg,$4.00,277,D3,15/10/2023,central-park
+287,5,Glasheen Mist (6),M Fenwick,17.16,4.25,,2-3-,27.0kg,$6.00,277,D3,15/10/2023,central-park
+288,6,Hollyoak Colin (4),R Butler,17.5,8.5,,5-6-,33.7kg,$18.00,277,D3,15/10/2023,central-park
+289,1,Haaland (2),D Brabon,29.99,0.0,3.23,1111,29.5kg,$4.20,491,A3,15/10/2023,central-park
+290,2,Boherna Kit (3),D Brabon,30.03,0.5,3.29,2333,29.8kg,$3.40,491,A3,15/10/2023,central-park
+291,3,Boomerang Kray (6),A Collett,30.15,2.0,3.34,4554,35.6kg,$4.00,491,A3,15/10/2023,central-park
+292,4,Harlequin Missy (4),P Donovan,30.41,5.25,3.36,3222,28.9kg,$4.00,491,A3,15/10/2023,central-park
+293,5,Run On King (1),M Mavrias,30.45,5.75,3.43,5665,32.0kg,$11.00,491,A3,15/10/2023,central-park
+294,6,Barnora Kelly (5),B O'Sullivan,30.59,7.5,3.42,6446,31.8kg,$6.00,491,A3,15/10/2023,central-park
+295,1,Eire Beetle (1),M Mavrias,16.97,0.0,,3-1-,30.4kg,$4.10,277,D4,15/10/2023,central-park
+296,2,Hazelwood Arrow (6),B O'Sullivan,17.13,2.0,,2-2-,33.0kg,$5.00,277,D4,15/10/2023,central-park
+297,3,Call You Mine (2),M Fenwick,17.19,2.75,,5-3-,30.0kg,$11.00,277,D4,15/10/2023,central-park
+298,4,Eire Sheila (4),M Mavrias,17.31,4.25,,1-4-,25.3kg,$4.50,277,D4,15/10/2023,central-park
+299,5,Hollyoak Penny (5),R Butler,17.43,5.75,,6-5-,31.3kg,$5.50,277,D4,15/10/2023,central-park
+300,6,Kitmins Elody (3),A Collett,17.51,6.75,,4-6-,28.4kg,$3.00,277,D4,15/10/2023,central-park
+301,1,King Ezra (4),E McNair,29.36,0.0,3.22,1111,31.2kg,$7.00,491,OR1,15/10/2023,central-park
+302,2,Eire Buckle (6),R Rees,29.54,2.25,3.27,5222,35.2kg,$5.00,491,OR1,15/10/2023,central-park
+303,3,Asbo Lenny (3),P Donovan,29.86,6.25,3.3,3433,31.5kg,$3.40,491,OR1,15/10/2023,central-park
+304,4,Tintreach Bono (1),P Donovan,29.87,6.4,3.26,2344,30.8kg,$6.00,491,OR1,15/10/2023,central-park
+305,5,Romeo Top Gun (2),P Janssens,30.35,12.4,3.35,4655,34.7kg,$3.00,491,OR1,15/10/2023,central-park
+306,6,Tax You Tonight (5),L E Morrison,30.77,17.65,3.31,6566,29.8kg,$12.00,491,OR1,15/10/2023,central-park
+307,1,Newinn Syd (3),M Wallis,29.1,0.0,3.15,1111,34.7kg,$2.75,491,OR1,15/10/2023,central-park
+308,2,Kanturk Mills (1),J Luckhurst,29.42,4.0,3.26,2232,31.8kg,$22.00,491,OR1,15/10/2023,central-park
+309,3,Romeo Command (2),P Janssens,29.46,4.5,3.35,6543,34.1kg,$1.65,491,OR1,15/10/2023,central-park
+310,4,Lostrigg Paddy (6),A Collett,29.5,5.0,3.23,4324,34.4kg,$17.00,491,OR1,15/10/2023,central-park
+311,5,Wasted Monday (5),B Green,29.6,6.25,3.28,5455,36.4kg,$11.00,491,OR1,15/10/2023,central-park
+312,6,Bet Shop Boy (4),P Janssens,29.82,9.0,3.25,3666,33.9kg,$19.00,491,OR1,15/10/2023,central-park
+313,1,Churchfield Syd (6),R Rees,29.34,0.0,3.18,2111,31.9kg,$1.20,491,OR1,15/10/2023,central-park
+314,2,King Combs (5),E McNair,29.74,5.0,3.23,3553,36.4kg,$7.00,491,OR1,15/10/2023,central-park
+315,3,Droopys Prymtime (2),M Wallis,29.8,5.75,3.29,5222,35.0kg,$11.00,491,OR1,15/10/2023,central-park
+316,4,Lostrigg Joel (1),A Collett,30.16,10.25,3.28,6435,32.2kg,$22.00,491,OR1,15/10/2023,central-park
+317,5,Alan Alal Alan (3),S Maplesden,30.17,10.4,3.22,1344,33.3kg,$20.00,491,OR1,15/10/2023,central-park
+318,6,Storys Hybrid (4),M Locke,30.41,13.4,3.27,4666,35.0kg,$18.00,491,OR1,15/10/2023,central-park
+319,1,Bluejig Baron (4),D Lee,29.4,0.0,3.26,2111,35.5kg,$2.90,491,OR1,15/10/2023,central-park
+320,2,Havana Lover (6),E McNair,29.41,0.15,3.34,6222,27.6kg,$9.50,491,OR1,15/10/2023,central-park
+321,3,Borna Hero (5),D Brabon,29.91,6.4,3.32,3544,37.6kg,$17.00,491,OR1,15/10/2023,central-park
+322,4,Ballymac John (1),M Wallis,29.93,6.65,3.34,1333,32.6kg,$2.25,491,OR1,15/10/2023,central-park
+323,5,Edwards (3),P Janssens,30.13,9.15,3.34,5655,35.0kg,$12.00,491,OR1,15/10/2023,central-park
+324,6,Cooliogold (2),M Locke,30.35,11.9,3.34,4466,30.6kg,$6.00,491,OR1,15/10/2023,central-park
+325,1,Slick Sabo (3),P Janssens,29.19,0.0,3.24,1111,32.2kg,$4.00,491,OR1,15/10/2023,central-park
+326,2,Storys Cashout (2),M Locke,29.59,5.0,3.32,2455,33.6kg,$12.00,491,OR1,15/10/2023,central-park
+327,3,Clona Uriel (1),D Knight,29.71,6.5,3.35,3222,33.8kg,$5.00,491,OR1,15/10/2023,central-park
+328,3,Miami Patrol (5),A Collett,29.71,6.5,3.31,4333,33.7kg,$15.00,491,OR1,15/10/2023,central-park
+329,5,Turkish Lira (6),B Green,29.75,7.0,3.42,6666,34.4kg,$17.00,491,OR1,15/10/2023,central-park
+330,DNF,Fromposttopillar (4),E McNair,,,3.34,5544,34.4kg,,491,OR1,15/10/2023,central-park
+331,1,Droopys Clue (3),S Cahill,28.91,0.0,3.33,2211,35.8kg,$1.65,491,OR1,15/10/2023,central-park
+332,2,Watch The Limo (4),S Cahill,29.37,5.75,3.29,1122,35.0kg,$3.00,491,OR1,15/10/2023,central-park
+333,3,Alberts Legacy (5),S Clayton,29.69,9.75,3.43,5333,32.6kg,$9.50,491,OR1,15/10/2023,central-park
+334,4,Sudden Spike (1),P Donovan,29.7,9.9,3.39,3554,35.2kg,$15.00,491,OR1,15/10/2023,central-park
+335,5,Twist Of Cain (6),L E Morrison,29.9,12.4,3.37,4445,39.1kg,$23.00,491,OR1,15/10/2023,central-park
+336,6,Lostrigg Ajay (2),A Collett,30.0,13.65,3.42,6666,34.5kg,$17.00,491,OR1,15/10/2023,central-park
+337,1,Autumn Equinox (2),L Butland,29.24,0.0,2.95,1111,26.8kg,$3.10,480,A4,15/10/2023,clonmel
+338,2,Newcastle Flyer (1),T O'Neill,29.27,0.65,3.0,2222,28.2kg,$2.70,480,A4,15/10/2023,clonmel
+339,3,Bright Malachi (4),M Lynch,29.52,4.15,3.07,3333,35.5kg,$4.90,480,A4,15/10/2023,clonmel
+340,4,Greenane Toff (5),G Nugent,29.62,5.65,3.12,5444,31.8kg,$5.00,480,A4,15/10/2023,clonmel
+341,5,Blueway Sam (6),D Whelan,30.11,12.65,3.15,6555,27.3kg,$4.60,480,A4,15/10/2023,clonmel
+342,DNF,Emers Jessie (3),E Dunne,,,3.12,4666,26.4kg,,480,A4,15/10/2023,clonmel
+343,1,Bushpark Katie (2),The-Pool-Room-Five-Syndicate,28.62,0.0,2.87,1111,26.8kg,$1.65,480,A1,15/10/2023,clonmel
+344,2,Emers Dixie (4),E Dunne,29.11,7.0,2.85,2222,25.0kg,$3.10,480,A1,15/10/2023,clonmel
+345,3,Minor Trump (6),M O'Connor,29.12,7.15,2.89,4443,39.5kg,$4.90,480,A1,15/10/2023,clonmel
+346,4,Mother Malachi (1),J Moore,29.22,8.65,3.02,6666,30.0kg,$4.00,480,A1,15/10/2023,clonmel
+347,5,Sor Demonica (3),T O'Neill,29.23,8.8,3.0,5554,26.4kg,$5.00,480,A1,15/10/2023,clonmel
+348,6,Slaneyside Ramsy (5),D Kehoe,29.34,10.3,2.97,3435,33.2kg,$5.00,480,A1,15/10/2023,clonmel
+349,1,Kaarst Ratar (3),J Barrett,16.28,0.0,,1-1-,27.7kg,$3.00,274,S3,15/10/2023,clonmel
+350,2,Hes Mint (1),D Hickey,16.63,5.0,,2-2-,34.5kg,$4.00,274,S3,15/10/2023,clonmel
+351,3,Bionic Blake (2),J Campbell,16.66,5.65,,3-3-,32.7kg,$3.90,274,S3,15/10/2023,clonmel
+352,4,Hillstreet Pop (4),P O'Connor,16.77,7.15,,5-4-,26.8kg,$4.90,274,S3,15/10/2023,clonmel
+353,5,Foxys Frog (5),D Morrissey,16.87,8.65,,4-5-,34.5kg,$3.00,274,S3,15/10/2023,clonmel
+354,6,Mandeville Teddy (6),P Organ,16.91,9.3,,6-6-,35.5kg,$4.60,274,S3,15/10/2023,clonmel
+355,1,Borna Silk (2),K Dwan,29.15,0.0,2.89,2111,31.8kg,$3.40,480,A5,15/10/2023,clonmel
+356,2,Circus Storm (6),M Ryan,29.29,2.0,2.82,1222,29.5kg,$3.30,480,A5,15/10/2023,clonmel
+357,3,Tullovin Annie (1),H Sheahan,29.36,3.0,2.99,4443,34.1kg,$5.00,480,A5,15/10/2023,clonmel
+358,4,Bright Bea (5),M Lynch,29.71,8.0,2.94,5664,29.1kg,$5.00,480,A5,15/10/2023,clonmel
+359,5,Thats It Caoimhe (4),L Cahill,29.74,8.65,3.04,6555,27.3kg,$2.50,480,A5,15/10/2023,clonmel
+360,6,Pavalova (3),M Healy,29.92,11.15,2.91,3336,28.6kg,$4.00,480,A5,15/10/2023,clonmel
+361,1,Honey Bunny (1),D Power,30.07,0.0,4.18,1111,27.3kg,$1.80,503,A2,15/10/2023,clonmel
+362,2,We Got This (4),A Meade,30.31,3.5,4.33,3322,35.0kg,$3.40,503,A2,15/10/2023,clonmel
+363,3,Ferryforth Donny (5),S Egan,30.35,4.15,4.41,5433,36.4kg,$5.00,503,A2,15/10/2023,clonmel
+364,4,Daring Bowie (2),M Meade,30.52,6.65,4.23,2244,33.6kg,$3.90,503,A2,15/10/2023,clonmel
+365,5,Classy Response (6),M Gale,30.66,8.65,4.28,4555,25.9kg,$4.90,503,A2,15/10/2023,clonmel
+366,6,Slaneyside Pumba (3),D Kehoe,30.7,9.3,4.45,6666,32.3kg,$5.00,503,A2,15/10/2023,clonmel
+367,1,Eskvale Bertie (1),P Davies,29.02,0.0,2.92,1111,37.3kg,$3.00,480,A3,15/10/2023,clonmel
+368,2,Airfield Thunder (2),M O'Meara,29.12,1.5,2.89,2222,32.3kg,$2.50,480,A3,15/10/2023,clonmel
+369,3,Bogcross Reno (4),,29.26,3.5,2.97,3333,30.9kg,$5.00,480,A3,15/10/2023,clonmel
+370,4,Minor Rocker (3),M O'Connor,29.3,4.15,2.92,4444,32.7kg,$4.00,480,A3,15/10/2023,clonmel
+371,5,Carols Hope (6),G Power,29.47,6.65,3.08,5555,33.2kg,$5.00,480,A3,15/10/2023,clonmel
+372,6,Popular Richie (5),M Organ,30.0,14.15,2.93,6666,36.4kg,$4.90,480,A3,15/10/2023,clonmel
+373,1,Good Sahara (2),M Kennedy,28.84,0.0,2.93,2211,25.0kg,$1.80,480,ON2,15/10/2023,clonmel
+374,2,Quick News (3),O McKenna,29.08,3.5,3.01,3332,27.7kg,$3.10,480,ON2,15/10/2023,clonmel
+375,3,Sinbolina (1),O McKenna,29.15,4.5,2.83,1123,27.7kg,$4.10,480,ON2,15/10/2023,clonmel
+376,4,Ivy Park (5),C O'leary,29.29,6.5,3.0,4444,27.3kg,$6.00,480,ON2,15/10/2023,clonmel
+377,5,Favouritism (6),A Dunford,29.3,6.65,3.06,5555,30.0kg,$4.00,480,ON2,15/10/2023,clonmel
+378,6,Cofas Angel (4),O McKenna,29.69,12.15,3.16,6666,28.6kg,$6.00,480,ON2,15/10/2023,clonmel
+379,1,Good Arminta (3),M Kennedy,28.84,0.0,3.05,1111,29.1kg,$1.65,480,A3,15/10/2023,clonmel
+380,2,Minglers Partner (1),,28.87,0.65,3.07,3222,32.7kg,$4.90,480,A3,15/10/2023,clonmel
+381,3,Cooneysupatfour (5),The-Not-Tonight-Lads-Syndicate,29.26,6.15,2.99,2333,30.9kg,$4.90,480,A3,15/10/2023,clonmel
+382,4,Bright Tamara (2),M Lynch,29.47,9.15,3.13,6665,30.0kg,$4.10,480,A3,15/10/2023,clonmel
+383,5,Giddyup Biker (4),L Whall,29.57,10.65,3.02,4444,30.9kg,$3.00,480,A3,15/10/2023,clonmel
+384,6,Niamhs Rocket (6),K Loughnane,29.61,11.3,3.11,5556,36.8kg,$5.00,480,A3,15/10/2023,clonmel
+385,1,Youowemeone (4),P Fitzgerald,28.87,0.0,2.87,1122,27.7kg,$3.10,480,A3,15/10/2023,clonmel
+386,2,Cunnigar Mcqueen (6),L O'keeffe,28.88,0.15,2.88,2211,33.2kg,$2.50,480,A3,15/10/2023,clonmel
+387,3,Slaneyside Rowan (5),D Kehoe,28.95,1.15,2.9,3333,28.2kg,$5.00,480,A3,15/10/2023,clonmel
+388,4,Young Tiernan (2),M Walsh,29.05,2.65,3.08,5444,36.4kg,$4.90,480,A3,15/10/2023,clonmel
+389,5,Blueway Breeze (1),,29.72,12.15,3.04,4555,29.5kg,$4.50,480,A3,15/10/2023,clonmel
+390,6,Banter Blitz (3),P O'dwyer,29.74,12.6,2.97,6666,36.8kg,$5.00,480,A3,15/10/2023,clonmel
+391,1,Miss Enigma (2),Steele Bolton,18.08,0.0,,,25.0kg,$2.40,312,5,15/10/2023,darwin
+392,2,Max Is Mad (6),Adam Poulter,18.31,3.25,,,31.4kg,$2.70,312,5,15/10/2023,darwin
+393,3,Ladies Day (7),Steele Bolton,18.65,8.25,,,26.6kg,$7.00,312,5,15/10/2023,darwin
+394,4,Black Ammo (1),Steele Bolton,18.73,9.25,,,25.9kg,$22.00,312,5,15/10/2023,darwin
+395,5,Rosie La La (3),Teresa Wareham,18.83,10.5,,,27.5kg,$15.00,312,5,15/10/2023,darwin
+396,6,Red Revolver (5),Steele Bolton,19.0,13.25,,,37.6kg,$126.00,312,5,15/10/2023,darwin
+397,7,Why Whisper (8),Robert Brown,19.04,13.75,,,22.4kg,$15.00,312,5,15/10/2023,darwin
+398,8,Aaron Keeping (4),Ronald Phillips,19.46,19.75,,,30.7kg,$12.00,312,5,15/10/2023,darwin
+399,1,Repeat Dose (2),Adam Poulter,22.86,0.0,,,29.4kg,$12.00,383,5,15/10/2023,darwin
+400,2,Shatter (7),Ronald Phillips,22.92,0.75,,,29.6kg,$3.50,383,5,15/10/2023,darwin
+401,3,Five Cougars (6),Steele Bolton,23.07,3.0,,,32.7kg,$10.00,383,5,15/10/2023,darwin
+402,4,Whitey La La (5),Teresa Wareham,23.65,11.25,,,33.9kg,$4.60,383,5,15/10/2023,darwin
+403,5,Aussie Axle (8),Adam Poulter,23.81,13.5,,,36.8kg,$4.00,383,5,15/10/2023,darwin
+404,6,I'm Flat Out (3),Steele Bolton,24.27,20.25,,,26.7kg,$9.50,383,5,15/10/2023,darwin
+405,DNF,Arnhem Axel (4),Steele Bolton,,,,,31.0kg,,383,5,15/10/2023,darwin
+406,1,Poor Wally (3),Steele Bolton,18.1,0.0,,,32.5kg,$1.70,312,5,15/10/2023,darwin
+407,2,Nigel's Chance (5),Andrew Lasker,18.42,4.5,,,31.0kg,$13.00,312,5,15/10/2023,darwin
+408,3,Canya Beth (1),Adam Poulter,18.67,8.25,,,28.9kg,$5.50,312,5,15/10/2023,darwin
+409,4,Not All There (7),Steele Bolton,18.71,8.75,,,24.0kg,$6.00,312,5,15/10/2023,darwin
+410,5,Young Me (6),Richard Carr,18.8,10.0,,,27.1kg,$16.00,312,5,15/10/2023,darwin
+411,6,Reconstruct (4),Robert Brown,19.05,13.5,,,27.1kg,$151.00,312,5,15/10/2023,darwin
+412,7,Bonnet Surfer (2),Steele Bolton,19.5,20.0,,,31.0kg,$9.00,312,5,15/10/2023,darwin
+413,1,Quick Shadow (3),Kathleen Reynolds,17.93,0.0,,,31.3kg,$1.90,312,FFA,15/10/2023,darwin
+414,2,Dancer On Fire (1),Harrison Brown,18.03,1.5,,,26.3kg,$2.10,312,FFA,15/10/2023,darwin
+415,3,Raw Eleven (5),Harrison Brown,18.2,3.75,,,25.5kg,$11.00,312,FFA,15/10/2023,darwin
+416,4,More Speed (7),Steele Bolton,18.46,7.5,,,29.9kg,$10.00,312,FFA,15/10/2023,darwin
+417,1,Northern Express (8),Anne Ferns,22.43,0.0,,,30.2kg,$5.00,383,5,15/10/2023,darwin
+418,2,Hurricane Villa (1),Harrison Brown,22.51,1.0,,,28.3kg,$4.00,383,5,15/10/2023,darwin
+419,3,Prabaker (7),Steele Bolton,22.76,4.75,,,32.0kg,$4.60,383,5,15/10/2023,darwin
+420,4,Stafford Lava (2),Steele Bolton,22.77,4.75,,,30.7kg,$4.10,383,5,15/10/2023,darwin
+421,5,Flying Agassi (6),Steele Bolton,22.91,6.75,,,30.6kg,$21.00,383,5,15/10/2023,darwin
+422,6,Gotham Baron (4),Adam Poulter,23.02,8.25,,,28.9kg,$5.50,383,5,15/10/2023,darwin
+423,7,Sleek Tori (3),Brian Kelleher,23.22,11.25,,,25.0kg,$31.00,383,5,15/10/2023,darwin
+424,1,Omar Monelli (5),Steele Bolton,22.02,0.0,,,31.3kg,$1.60,383,FFA,15/10/2023,darwin
+425,2,Nick The Quick (1),Andrew Lasker,22.21,2.5,,,31.7kg,$8.00,383,FFA,15/10/2023,darwin
+426,3,Air Pumbaa (7),Harrison Brown,22.22,2.75,,,31.1kg,$6.50,383,FFA,15/10/2023,darwin
+427,4,Mojo Herrera (3),Harrison Brown,22.27,3.5,,,31.7kg,$3.50,383,FFA,15/10/2023,darwin
+428,1,Tiggerlong Rheve (6),Kathleen Reynolds,17.94,0.0,,,31.6kg,$3.80,312,X34,15/10/2023,darwin
+429,2,My Shout Zoe (7),Steele Bolton,18.34,5.75,,,25.7kg,$2.80,312,X34,15/10/2023,darwin
+430,3,Pollinate (3),Ronald Phillips,18.38,6.25,,,27.7kg,$26.00,312,X34,15/10/2023,darwin
+431,4,Black Daniels (2),Steele Bolton,18.54,8.5,,,31.2kg,$126.00,312,X34,15/10/2023,darwin
+432,5,Teamplay Miss (5),Richard Carr,18.57,9.0,,,27.3kg,$17.00,312,X34,15/10/2023,darwin
+433,6,Little Sciuto (1),Adam Poulter,18.77,11.75,,,22.8kg,$3.25,312,X34,15/10/2023,darwin
+434,7,Scotch Finger (8),Anne Ferns,18.79,12.25,,,28.6kg,$20.00,312,X34,15/10/2023,darwin
+435,8,Marlie On Fire (4),Harrison Brown,19.02,15.5,,,25.0kg,$10.00,312,X34,15/10/2023,darwin
+436,1,Yankee Costanza (3),Andrew Lasker,31.4,0.0,,,34.0kg,$1.20,537,FFA,15/10/2023,darwin
+437,2,Misdemeanor (5),Steele Bolton,31.44,0.75,,,25.1kg,$14.00,537,FFA,15/10/2023,darwin
+438,3,Manila Prince (1),Ronald Phillips,31.67,3.75,,,32.8kg,$3.80,537,FFA,15/10/2023,darwin
+439,4,Stupify (7),Steele Bolton,31.94,7.75,,,29.7kg,$17.00,537,FFA,15/10/2023,darwin
+440,1,Slick Sundance (4),Adam Poulter,22.2,0.0,,,32.3kg,$11.00,383,X34,15/10/2023,darwin
+441,2,Roma Blue (2),Graeme Ferns,22.29,1.25,,,32.6kg,$3.25,383,X34,15/10/2023,darwin
+442,3,Thanks Joan (1),Steele Bolton,22.39,2.5,,,25.9kg,$2.30,383,X34,15/10/2023,darwin
+443,4,Spiteful Miss (6),Harrison Brown,22.74,7.75,,,25.4kg,$41.00,383,X34,15/10/2023,darwin
+444,5,Manawata (8),Adam Poulter,22.95,10.5,,,32.1kg,$31.00,383,X34,15/10/2023,darwin
+445,6,Nikanova (3),Graeme Ferns,22.97,11.0,,,29.0kg,$10.00,383,X34,15/10/2023,darwin
+446,7,Eight Gifts (7),Ronald Phillips,23.35,16.25,,,31.7kg,$5.50,383,X34,15/10/2023,darwin
+447,1,Penny's Lad (2),Adam Poulter,18.06,0.0,,,29.4kg,$2.50,312,X45,15/10/2023,darwin
+448,2,Pullover (7),Anne Ferns,18.34,4.0,,,28.1kg,$17.00,312,X45,15/10/2023,darwin
+449,3,Sunshine Fire (6),Steele Bolton,18.43,5.25,,,26.9kg,$5.00,312,X45,15/10/2023,darwin
+450,4,Aussie Bullseye (4),Richard Carr,18.45,5.5,,,27.4kg,$301.00,312,X45,15/10/2023,darwin
+451,5,Beer Bandit (8),Steele Bolton,18.5,6.25,,,32.1kg,$3.40,312,X45,15/10/2023,darwin
+452,6,Chasing Jason (1),Kathleen Reynolds,18.61,7.75,,,33.5kg,$4.40,312,X45,15/10/2023,darwin
+453,7,Whoever (3),Robert Brown,18.88,11.75,,,31.4kg,$71.00,312,X45,15/10/2023,darwin
+454,1,Battletime (3),S Birks,28.77,0.0,2.19,1322,27.7kg,$5.00,450,B5,15/10/2023,doncaster
+455,2,Wildcats Kitty (1),J Simpson,28.8,0.4,2.22,3111,27.5kg,$5.00,450,B5,15/10/2023,doncaster
+456,3,Keady Sapphire (4),P Prior,29.16,4.9,2.27,4233,26.0kg,$2.60,450,B5,15/10/2023,doncaster
+457,4,Jumeirah Meadow (5),D Calvert,29.18,5.15,2.27,5445,27.4kg,$13.00,450,B5,15/10/2023,doncaster
+458,5,Margys Star (6),D Calvert,29.22,5.65,2.21,2554,26.3kg,$3.30,450,B5,15/10/2023,doncaster
+459,6,Avion Socks (2),S R Parker,29.36,7.4,2.47,6666,26.3kg,$9.00,450,B5,15/10/2023,doncaster
+460,1,Geneva Saturn (5),S Birks,28.25,0.0,2.2,3111,27.5kg,$3.00,450,B3,15/10/2023,doncaster
+461,2,Garnacanty Black (2),J Johnstone,28.43,2.25,2.28,4322,27.4kg,$1.85,450,B3,15/10/2023,doncaster
+462,3,Hello Chiara (1),L Macmanus,28.51,3.25,2.16,1233,27.5kg,$13.00,450,B3,15/10/2023,doncaster
+463,4,How Ar Ya Jezza (3),L Macmanus,28.53,3.5,2.27,5444,27.8kg,$11.00,450,B3,15/10/2023,doncaster
+464,5,Redbrick Bounty (4),J Johnstone,28.71,5.75,2.22,2555,26.6kg,$6.00,450,B3,15/10/2023,doncaster
+465,1,Nolas Whitesox (2),S R Parker,27.95,0.0,2.17,2111,27.1kg,$3.75,450,B2,15/10/2023,doncaster
+466,2,Prime Event (4),J Simpson,28.15,2.5,2.22,4222,33.7kg,$3.75,450,B2,15/10/2023,doncaster
+467,3,Keady Aussie (6),P Prior,28.47,6.5,2.22,5333,25.0kg,$15.00,450,B2,15/10/2023,doncaster
+468,4,Ardera Boss (3),R Overton,29.07,14.0,2.19,3444,35.3kg,$5.00,450,B2,15/10/2023,doncaster
+469,DNF,Hawkfield Romeo (1),J Johnstone,,,2.16,1666,33.9kg,,450,B2,15/10/2023,doncaster
+470,DNF,Keefill Iris (5),K Everitt,,,2.3,6555,31.3kg,,450,B2,15/10/2023,doncaster
+471,1,Graces Star (2),D Calvert,30.34,0.0,4.43,5222,28.8kg,$2.00,483,A2,15/10/2023,doncaster
+472,2,Kilara Bugle (5),J Johnstone,30.46,1.5,4.24,1111,35.2kg,$2.60,483,A2,15/10/2023,doncaster
+473,3,Whos Alice (1),J Simpson,30.54,2.5,4.37,3333,27.2kg,$6.00,483,A2,15/10/2023,doncaster
+474,4,Cosard Wonder (3),L Macmanus,30.68,4.25,4.41,4444,32.2kg,$9.50,483,A2,15/10/2023,doncaster
+475,5,Tullymurry Myway (4),J Simpson,31.14,10.0,4.35,2555,33.3kg,$13.00,483,A2,15/10/2023,doncaster
+476,1,Tommy Blue (5),J Johnstone,30.08,0.0,4.26,4222,34.8kg,$3.00,483,A2,15/10/2023,doncaster
+477,2,Thereurnow (1),J Simpson,30.2,1.5,4.2,1111,29.2kg,$2.50,483,A2,15/10/2023,doncaster
+478,3,Miles For Smiles (6),M Adamson,30.24,2.0,4.26,2333,29.6kg,$6.00,483,A2,15/10/2023,doncaster
+479,4,Sharpys Trinity (2),J Sharp,30.34,3.25,4.35,5444,29.9kg,$6.00,483,A2,15/10/2023,doncaster
+480,5,Russanda Donna (3),S R Parker,30.54,5.75,4.41,6555,28.5kg,$11.00,483,A2,15/10/2023,doncaster
+481,6,Crispy Bacon (4),M Adamson,30.64,7.0,4.29,3666,34.7kg,$9.50,483,A2,15/10/2023,doncaster
+482,1,Ballymac Levi (6),J W Gaskin,29.48,0.0,4.19,3111,34.3kg,$2.25,483,A1,15/10/2023,doncaster
+483,2,Hawkfield Maxie (5),JS Atkins,29.92,5.5,4.15,1222,25.1kg,$8.00,483,A1,15/10/2023,doncaster
+484,3,Edencurra Smoke (2),D Calvert,30.0,6.5,4.19,2333,28.4kg,$4.00,483,A1,15/10/2023,doncaster
+485,4,Pennys Priority (4),S R Parker,30.12,8.0,4.2,4444,35.3kg,$5.50,483,A1,15/10/2023,doncaster
+486,5,Ferryforth Davy (3),D Calvert,30.2,9.0,4.23,5555,36.6kg,$8.00,483,A1,15/10/2023,doncaster
+487,6,Skeard Magic (1),J W Gaskin,30.21,9.15,4.25,6666,27.7kg,$7.00,483,A1,15/10/2023,doncaster
+488,1,Usual Accord (3),J Johnstone,17.19,0.0,,1-1-,30.7kg,$2.00,275,D3,15/10/2023,doncaster
+489,2,Dingys Tommy (1),J Sharp,17.27,1.0,,3-2-,31.9kg,$3.80,275,D3,15/10/2023,doncaster
+490,3,Bulmers Diamond (2),JS Atkins,17.37,2.25,,4-3-,29.5kg,$6.50,275,D3,15/10/2023,doncaster
+491,4,Jessie Robin (4),JS Atkins,17.65,5.75,,2-5-,30.1kg,$9.50,275,D3,15/10/2023,doncaster
+492,5,Ridgedale Tiny (5),R Overton,17.69,6.25,,5-4-,32.4kg,$13.00,275,D3,15/10/2023,doncaster
+493,6,Bathams Cloud (6),L Macmanus,17.85,8.25,,6-6-,25.7kg,$6.00,275,D3,15/10/2023,doncaster
+494,1,Midd Countess (5),K Bowman,28.61,0.0,2.17,1111,26.9kg,$9.50,450,B4,15/10/2023,doncaster
+495,2,Millhouse Harry (3),R Overton,28.71,1.25,2.23,2222,31.3kg,$3.75,450,B4,15/10/2023,doncaster
+496,3,Saoirses Boy (1),J Johnstone,28.85,3.0,2.35,5443,31.0kg,$2.25,450,B4,15/10/2023,doncaster
+497,4,Redbrick Twix (6),J Johnstone,29.13,6.5,2.32,6665,30.0kg,$3.75,450,B4,15/10/2023,doncaster
+498,5,Blanemore Fitzy (4),D Calvert,29.17,7.0,2.26,4554,31.6kg,$11.00,450,B4,15/10/2023,doncaster
+499,6,Sharpystingtings (2),J Sharp,29.25,8.0,2.28,3336,37.7kg,$13.00,450,B4,15/10/2023,doncaster
+500,1,Singalong Cilla (1),J W Gaskin,27.89,0.0,2.14,2111,26.6kg,$1.85,450,B2,15/10/2023,doncaster
+501,2,Odins Prince (2),M Adamson,27.9,0.15,2.19,4322,34.0kg,$5.00,450,B2,15/10/2023,doncaster
+502,3,Coalmore Blakey (5),J Johnstone,28.24,4.4,2.11,1233,31.2kg,$6.00,450,B2,15/10/2023,doncaster
+503,4,Barnside Nala (4),S R Parker,28.26,4.65,2.2,5444,29.4kg,$6.00,450,B2,15/10/2023,doncaster
+504,5,Splashdash Ernie (3),S R Parker,28.3,5.15,2.18,3555,31.0kg,$9.00,450,B2,15/10/2023,doncaster
+505,6,Dawns Night (6),J Simpson,28.31,5.3,2.2,6666,27.7kg,$12.00,450,B2,15/10/2023,doncaster
+506,1,Colliers Brynner (3),P Prior,27.53,0.0,2.11,1111,33.0kg,$2.90,450,B1,15/10/2023,doncaster
+507,2,Edencurra Gaga (5),D Calvert,27.99,5.75,2.27,3332,28.9kg,$11.00,450,B1,15/10/2023,doncaster
+508,3,Magical Legend (4),S R Parker,28.17,8.0,2.24,2223,33.8kg,$7.00,450,B1,15/10/2023,doncaster
+509,4,Boozed Hero (1),J W Gaskin,28.59,13.25,2.31,4444,32.5kg,$1.65,450,B1,15/10/2023,doncaster
+510,1,Boughtinmulcahys (4),S Birks,28.53,0.0,2.22,3111,29.9kg,$2.25,450,B6,15/10/2023,doncaster
+511,2,Redbrick Twirl (3),J Johnstone,28.55,0.25,2.46,6644,25.9kg,$3.30,450,B6,15/10/2023,doncaster
+512,3,Rocky Haze (1),D Calvert,28.56,0.4,2.24,2332,32.4kg,$5.50,450,B6,15/10/2023,doncaster
+513,4,Midd Princess (5),K Bowman,28.68,1.9,2.21,4223,25.4kg,$9.50,450,B6,15/10/2023,doncaster
+514,5,Lightfoot Cavani (6),S R Parker,28.92,4.9,2.31,5555,34.4kg,$9.00,450,B6,15/10/2023,doncaster
+515,6,Catunda Dotty (2),D Calvert,29.1,7.15,2.21,1466,28.2kg,$9.00,450,B6,15/10/2023,doncaster
+516,1,Redbrick Rolo (3),J Johnstone,27.97,0.0,2.22,4111,33.8kg,$3.75,450,B2,15/10/2023,doncaster
+517,2,Classic Quattro (2),L Macmanus,28.35,4.75,2.14,2322,32.6kg,$7.00,450,B2,15/10/2023,doncaster
+518,3,Boss Girl (1),J Simpson,28.65,8.5,2.29,5443,26.9kg,$8.00,450,B2,15/10/2023,doncaster
+519,4,Hot Ball (6),J Johnstone,28.66,8.65,2.2,3555,30.7kg,$2.50,450,B2,15/10/2023,doncaster
+520,5,Clongeen Star (5),J Simpson,28.8,10.4,2.27,6666,26.8kg,$13.00,450,B2,15/10/2023,doncaster
+521,6,Lightfoot Robin (4),S R Parker,28.81,10.55,2.1,1234,27.3kg,$3.80,450,B2,15/10/2023,doncaster
+522,1,Ballymac Solas (1),J Johnstone,28.08,0.0,2.22,3111,31.3kg,$2.25,450,B3,15/10/2023,doncaster
+523,2,Colliers Bronson (3),P Prior,28.18,1.25,2.27,4222,33.1kg,$3.75,450,B3,15/10/2023,doncaster
+524,3,Monbeg Jet (4),K Everitt,28.3,2.75,2.17,1333,33.7kg,$9.50,450,B3,15/10/2023,doncaster
+525,4,Redbrick Fredo (2),J Johnstone,28.4,4.0,2.34,6554,30.3kg,$7.00,450,B3,15/10/2023,doncaster
+526,5,Ivy Hill Blaze (6),K Bowman,28.52,5.5,2.19,2445,31.7kg,$4.40,450,B3,15/10/2023,doncaster
+527,6,Silverspring Ace (5),S Birks,28.6,6.5,2.31,5666,31.3kg,$13.00,450,B3,15/10/2023,doncaster
+528,1,Pennys Jazz Man (5),S R Parker,28.41,0.0,2.21,2221,30.6kg,$4.00,450,B4,15/10/2023,doncaster
+529,2,Lily Mac (6),J Johnstone,28.53,1.5,2.12,1112,26.4kg,$3.70,450,B4,15/10/2023,doncaster
+530,3,Athlacca Doctor (2),S Birks,28.79,4.75,2.36,5333,31.7kg,$11.00,450,B4,15/10/2023,doncaster
+531,4,Solid Amelia (3),R Overton,29.35,11.75,2.23,3554,24.9kg,$2.40,450,B4,15/10/2023,doncaster
+532,5,Ivy Hill Maxy (1),K Bowman,29.36,11.9,2.22,4445,30.9kg,$8.00,450,B4,15/10/2023,doncaster
+533,6,Effernogue Edel (4),K Bowman,29.42,12.65,2.34,6666,29.7kg,$8.00,450,B4,15/10/2023,doncaster
+534,1,Zipping Highland (3),Nicole Price,37.48,0.0,9.24,11111.0,33.3kg,$1.95,643,X45,15/10/2023,gawler
+535,2,Kruger Lass (5),Bronwyn Welsh,37.54,0.75,9.32,22222.0,29.1kg,$1.65,643,X45,15/10/2023,gawler
+536,3,Midnight Tracker (7),Madalyn Schulz,38.49,14.25,9.49,33333.0,33.5kg,$26.00,643,X45,15/10/2023,gawler
+537,1,Sweet Soul (1),Nicole Price,23.14,0.0,8.92,1111.0,25.2kg,$7.50,400,M,15/10/2023,gawler
+538,2,My Khaleesi (5),Ben Rawlings,23.47,4.75,9.14,4322.0,27.6kg,$2.50,400,M,15/10/2023,gawler
+539,3,Go Crazy Crazy (8),Ashlee Griffiths,23.72,8.25,9.07,3443.0,23.6kg,$10.00,400,M,15/10/2023,gawler
+540,4,Northwich Bridge (7),Lester Harris,23.75,8.75,9.06,2234.0,28.1kg,$7.50,400,M,15/10/2023,gawler
+541,5,Send It Spice (4),Yvonne Maxwell,23.79,9.25,9.21,5555.0,29.0kg,$3.60,400,M,15/10/2023,gawler
+542,6,Pedantic Miss (2),John Williams,23.82,9.75,9.33,6666.0,28.2kg,$7.00,400,M,15/10/2023,gawler
+543,1,Scarlet Overkill (8),Ben Rawlings,23.61,0.0,9.06,6221.0,26.1kg,$4.50,400,M,15/10/2023,gawler
+544,2,Long Gully Ash (7),Paula Hearnden,23.68,1.0,9.22,5332.0,31.6kg,$7.00,400,M,15/10/2023,gawler
+545,3,Brindle Benny (1),Cheryl Herman,23.85,3.5,9.21,2443.0,28.8kg,$1.80,400,M,15/10/2023,gawler
+546,4,Runaway Merv (4),Lester Harris,23.93,4.5,8.93,3114.0,29.4kg,$4.30,400,M,15/10/2023,gawler
+547,5,Spring Cory (5),Vernon Anderson,24.6,14.0,9.74,4555.0,32.4kg,$41.00,400,M,15/10/2023,gawler
+548,6,Rock The Dragon (2),Gino Grgurovic,29.16,79.25,,1666.0,25.6kg,$34.00,400,M,15/10/2023,gawler
+549,1,Get Up Jimmy (8),Robyn Mackellar,22.49,0.0,8.48,1111.0,33.2kg,$1.25,400,J,15/10/2023,gawler
+550,2,Play In Reign (2),Robyn Mackellar,22.69,2.75,8.58,2222.0,27.0kg,$4.80,400,J,15/10/2023,gawler
+551,3,Pippa's Hero (4),Robin Harnas,22.89,5.75,8.7,3333.0,31.6kg,$20.00,400,J,15/10/2023,gawler
+552,4,My Nonno Fio (5),Lester Harris,23.25,10.75,8.95,4444.0,27.1kg,$21.00,400,J,15/10/2023,gawler
+553,5,Split Vision (7),Nicole Price,23.28,11.25,9.02,5555.0,29.7kg,$19.00,400,J,15/10/2023,gawler
+554,1,Slimy Trout (7),Ashley Furner,23.13,0.0,8.69,1111,28.4kg,$8.50,400,6,15/10/2023,gawler
+555,2,Mischka Molly (6),Brenda Oakey,23.15,0.25,8.97,6422,27.1kg,$4.90,400,6,15/10/2023,gawler
+556,3,Transplant King (8),Jason Dolan,23.27,2.0,8.99,7533,33.7kg,$4.40,400,6,15/10/2023,gawler
+557,4,Classy Operator (3),Kim Johnstone,23.31,2.5,9.12,8844,28.6kg,$12.00,400,6,15/10/2023,gawler
+558,5,Lucinda Grey (1),Michael Wittholz,23.58,6.25,8.87,3265,26.2kg,$2.70,400,6,15/10/2023,gawler
+559,6,Anisette (5),Janice Jones,23.59,6.5,9.01,5776,28.9kg,$31.00,400,6,15/10/2023,gawler
+560,7,He's No Diva (4),Cheryl Herman,23.61,6.75,8.99,4657,28.7kg,$5.50,400,6,15/10/2023,gawler
+561,8,Spring Maze (2),Vernon Anderson,23.83,10.0,8.86,2388,32.2kg,$31.00,400,6,15/10/2023,gawler
+562,1,Glorious Bella (4),Kim Johnstone,22.7,0.0,8.71,1111.0,28.7kg,$6.00,400,6,15/10/2023,gawler
+563,2,Bilali (3),Tamica Dunn,23.09,5.5,8.97,6442.0,31.6kg,$23.00,400,6,15/10/2023,gawler
+564,3,Blazing Butters (8),Robyn Mackellar,23.09,5.5,9.04,7533.0,33.7kg,$4.00,400,6,15/10/2023,gawler
+565,4,Fantastic Maggie (1),Madalyn Schulz,23.11,5.75,8.82,2224.0,25.6kg,$2.50,400,6,15/10/2023,gawler
+566,5,Under The Sun (7),Adrien Chevalier,23.23,7.5,8.96,5355.0,32.2kg,$11.00,400,6,15/10/2023,gawler
+567,6,Pokies Olivia (2),Tony Lagana,23.34,9.25,9.09,3666.0,29.2kg,$11.00,400,6,15/10/2023,gawler
+568,7,Go Stripey Go (6),Ashlee Griffiths,23.48,11.0,9.19,4777.0,25.4kg,$7.50,400,6,15/10/2023,gawler
+569,8,Magic Ebb's (5),Adrien Chevalier,23.83,16.25,9.19,8888.0,28.7kg,$24.00,400,6,15/10/2023,gawler
+570,1,Coorong Cam (2),Timothy Richards,22.53,0.0,8.64,2111.0,33.7kg,$1.70,400,5,15/10/2023,gawler
+571,2,Long Gully Shack (3),Paula Hearnden,22.76,3.25,8.87,4332.0,34.2kg,$12.00,400,5,15/10/2023,gawler
+572,3,Two Hands George (4),Timothy Richards,22.77,3.5,8.75,1223.0,33.0kg,$13.00,400,5,15/10/2023,gawler
+573,4,Indy Ghost (8),Neil Mann,23.35,11.75,8.86,3444.0,34.6kg,$4.00,400,5,15/10/2023,gawler
+574,5,Rico's Flame (1),Tamica Dunn,23.37,12.0,9.02,5555.0,29.0kg,$9.50,400,5,15/10/2023,gawler
+575,6,Rocket Man Rose (5),Rosa Panagiotou,23.45,13.25,9.09,6666.0,33.3kg,$26.00,400,5,15/10/2023,gawler
+576,7,Swinging Forts (6),Marcello Calicchio,23.58,15.0,9.18,7777.0,31.4kg,$90.00,400,5,15/10/2023,gawler
+577,8,Our Laura Rose (7),Rosa Panagiotou,23.59,15.0,9.24,8888.0,26.4kg,$14.00,400,5,15/10/2023,gawler
+578,1,Emerley Apollo (4),John Williams,22.67,0.0,8.58,3111.0,31.1kg,$8.00,400,FFANP,15/10/2023,gawler
+579,2,Charlie Brother (7),Jason Dolan,22.76,1.25,8.71,1322.0,32.9kg,$61.00,400,FFANP,15/10/2023,gawler
+580,3,Universal Value (5),Michael Wittholz,22.79,1.75,8.79,4443.0,32.2kg,$17.00,400,FFANP,15/10/2023,gawler
+581,4,Go Go Snow (8),Tamica Dunn,22.82,2.0,8.65,2224.0,27.9kg,$2.25,400,FFANP,15/10/2023,gawler
+582,5,Magic Poppet (3),Kerry Stagg,23.07,5.75,8.96,5555.0,32.6kg,$7.50,400,FFANP,15/10/2023,gawler
+583,6,Harper's Buddy (6),Bronwyn Welsh,23.12,6.25,9.03,6666.0,28.1kg,$51.00,400,FFANP,15/10/2023,gawler
+584,7,My Mum's Value (2),Karen Wittholz,23.21,7.75,9.14,8887.0,31.1kg,$8.50,400,FFANP,15/10/2023,gawler
+585,8,Bandit Trixie (1),Ben Rawlings,23.33,9.25,9.1,7778.0,28.6kg,$3.30,400,FFANP,15/10/2023,gawler
+586,1,Harvey Boy (2),Nicole Price,23.34,0.0,9.19,5511.0,33.1kg,$12.00,400,6,15/10/2023,gawler
+587,2,Harmonist (5),Kim Johnstone,23.72,5.25,9.04,6542.0,28.0kg,$11.00,400,6,15/10/2023,gawler
+588,3,My My Delilah (1),Adam Manton,23.76,6.0,8.9,1253.0,26.3kg,$2.05,400,6,15/10/2023,gawler
+589,4,Burning Fee (8),Graeme Stirling,23.79,6.25,8.88,2134.0,30.5kg,$4.00,400,6,15/10/2023,gawler
+590,5,Muddle Puddle (4),Narvette Treloar,23.83,7.0,8.93,3325.0,34.5kg,$6.50,400,6,15/10/2023,gawler
+591,6,Universal Rose (7),Vernon Anderson,23.84,7.0,8.94,4466.0,29.5kg,$7.50,400,6,15/10/2023,gawler
+592,1,Federal Fernando (8),David Peckham,30.79,0.0,3.13,11111.0,33.2kg,$1.80,531,5,15/10/2023,gawler
+593,2,Alvin Rose (1),Tony Lagana,30.81,0.25,3.28,22222.0,34.3kg,$7.00,531,5,15/10/2023,gawler
+594,3,Spiteful (4),Jack Trengove,31.37,8.25,3.3,33333.0,27.8kg,$17.00,531,5,15/10/2023,gawler
+595,4,Aston Ziebell (2),David Peckham,31.44,9.25,3.39,44444.0,34.3kg,$2.25,531,5,15/10/2023,gawler
+596,5,Manuka Boy (7),Tamica Dunn,31.63,12.0,3.56,55555.0,34.2kg,$41.00,531,5,15/10/2023,gawler
+597,1,Zipping Mahalia (2),Nicole Price,31.03,0.0,3.3,21111,28.2kg,$1.25,531,6,15/10/2023,gawler
+598,2,Excite (6),Donald Turner,31.11,1.0,3.3,12222,36.5kg,$7.00,531,6,15/10/2023,gawler
+599,3,Petina (8),Yvonne Maxwell,31.18,2.0,3.39,53333,27.7kg,$9.00,531,6,15/10/2023,gawler
+600,4,Zipping Mork (4),Brenda Oakey,31.33,4.25,3.33,34444,29.2kg,$19.00,531,6,15/10/2023,gawler
+601,5,Rhonda Wine (1),Jack Trengove,31.48,6.25,3.36,45555,28.3kg,$12.00,531,6,15/10/2023,gawler
+602,1,Velocity Zaylia (2),Nicole Price,30.79,0.0,3.18,21111,26.7kg,$6.00,531,X234,15/10/2023,gawler
+603,2,Harry (4),Brenda Oakey,30.87,1.0,3.26,44322,35.9kg,$15.00,531,X234,15/10/2023,gawler
+604,3,He's All Purpose (1),Timothy Richards,30.96,2.25,3.25,32233,31.4kg,$3.10,531,X234,15/10/2023,gawler
+605,4,Time After Time (8),Timothy Richards,31.26,6.5,3.36,55544,30.2kg,$6.50,531,X234,15/10/2023,gawler
+606,5,Springvale Roxy (6),Michael Giniotis,31.43,9.25,3.15,13455,26.3kg,$2.00,531,X234,15/10/2023,gawler
+607,1,Identity Unknown (2),Patrick Lavis,20.18,0.0,4.18,352.0,26.0kg,$2.60,350,M,15/10/2023,grafton
+608,2,Warren's Last (3),Gregory Hancock,20.21,0.5,4.13,431.0,31.2kg,$10.00,350,M,15/10/2023,grafton
+609,3,Ivy Rules (1),Stephen Keep,20.45,3.75,4.17,644.0,24.4kg,$7.00,350,M,15/10/2023,grafton
+610,4,Trenayr (4),Phillip Bailey,20.45,3.75,4.24,873.0,36.4kg,$9.00,350,M,15/10/2023,grafton
+611,5,She's Late Kate (8),John Thomas,20.51,4.75,4.13,225.0,30.0kg,$3.30,350,M,15/10/2023,grafton
+612,6,Cash In Colour (5),John Antonelli,20.59,5.75,4.21,566.0,36.4kg,$9.50,350,M,15/10/2023,grafton
+613,7,Phantom Bill (7),William Gilbert,21.24,15.0,4.28,787.0,30.4kg,$41.00,350,M,15/10/2023,grafton
+614,8,Modern Integrity (6),Fiona Geary,21.9,24.5,4.14,118.0,26.9kg,$13.00,350,M,15/10/2023,grafton
+615,1,Bokarm Lucky (4),Bob Merillo,20.19,0.0,4.19,772.0,32.6kg,$10.00,350,5,15/10/2023,grafton
+616,2,Maxine Magic (1),Mark Knowles,20.24,0.75,4.05,111.0,27.3kg,$8.50,350,5,15/10/2023,grafton
+617,3,Robell Ted (7),Benjamin Ellis,20.32,1.75,4.14,353.0,29.5kg,$6.50,350,5,15/10/2023,grafton
+618,4,Masani Girl (8),Christopher Field,20.6,5.75,4.28,684.0,28.3kg,$3.00,350,5,15/10/2023,grafton
+619,5,It's A Zoo (5),Sonia Kempshall,20.65,6.5,4.18,565.0,31.5kg,$7.00,350,5,15/10/2023,grafton
+620,6,True Character (6),Richard Godwin,21.07,12.5,4.15,247.0,33.6kg,$21.00,350,5,15/10/2023,grafton
+621,7,La Folie (3),Benjamin Ellis,21.16,13.75,4.12,426.0,26.2kg,$19.00,350,5,15/10/2023,grafton
+622,DNF,Predacious (2),Fiona Geary,,,,83.0,27.4kg,,350,5,15/10/2023,grafton
+623,1,Lee's Tiger (8),Evelyn Harris,25.8,0.0,9.09,221.0,30.7kg,$11.00,450,5H,15/10/2023,grafton
+624,2,Shima Magic (1),Mark Moroney,25.81,0.1,9.07,612.0,29.8kg,$8.00,450,5H,15/10/2023,grafton
+625,3,Reggie Quinn (6),John Corrigan,25.86,0.75,9.36,164.0,33.4kg,$8.00,450,5H,15/10/2023,grafton
+626,4,Smooth Bella (4),Wayne Clarson,25.89,1.25,9.3,355.0,26.5kg,$90.00,450,5H,15/10/2023,grafton
+627,5,Albert's Memory (3),Reg Gardoll,25.93,1.75,9.15,546.0,31.5kg,$1.45,450,5H,15/10/2023,grafton
+628,6,City Babe (7),John Thomas,26.04,3.5,9.12,433.0,27.3kg,$6.00,450,5H,15/10/2023,grafton
+629,1,Omar Dutton (2),Andrew Monaghan,25.59,0.0,9.0,221,33.0kg,$1.55,450,5H,15/10/2023,grafton
+630,2,Cash Glory (1),Robert Cooke,25.79,2.75,8.99,512,26.6kg,$4.50,450,5H,15/10/2023,grafton
+631,3,Cash Ability (8),John Antonelli,25.82,3.25,9.3,354,35.1kg,$41.00,450,5H,15/10/2023,grafton
+632,4,Marcus Fire (3),Mark Moroney,26.03,6.25,9.1,733,32.6kg,$8.00,450,5H,15/10/2023,grafton
+633,5,Wild Streak (7),Paul Fraser,26.04,6.25,9.13,145,32.2kg,$17.00,450,5H,15/10/2023,grafton
+634,6,Movie Girl (6),Christopher Field,26.1,7.25,9.44,466,29.8kg,$9.50,450,5H,15/10/2023,grafton
+635,7,Tobias (5),Garry Streatfield,26.14,7.75,9.52,677,34.1kg,$71.00,450,5H,15/10/2023,grafton
+636,8,Skip The Cue (4),John Corrigan,26.48,12.75,9.67,888,30.6kg,$41.00,450,5H,15/10/2023,grafton
+637,1,Ice To Fire (6),Mark Moroney,25.37,0.0,9.07,111.0,29.8kg,$1.40,450,5H,15/10/2023,grafton
+638,2,Dixie Kath (1),John Corrigan,25.73,5.25,9.13,522.0,26.7kg,$9.00,450,5H,15/10/2023,grafton
+639,3,Burringbar Blue (8),Robert Andrews,25.88,7.25,9.25,233.0,32.2kg,$7.50,450,5H,15/10/2023,grafton
+640,4,Aussie Fury (3),Frank Hancock,25.9,7.5,9.3,444.0,33.7kg,$16.00,450,5H,15/10/2023,grafton
+641,5,Liberty Valance (5),Judith Gordon,26.05,9.75,9.39,355.0,31.9kg,$11.00,450,5H,15/10/2023,grafton
+642,6,Goddess Of War (2),Garry Streatfield,26.05,9.75,9.52,676.0,29.4kg,$61.00,450,5H,15/10/2023,grafton
+643,7,Bokarm Bull (4),Bob Merillo,26.16,11.25,9.5,767.0,33.0kg,$11.00,450,5H,15/10/2023,grafton
+644,1,Firenze (1),Mark Moroney,25.61,0.0,9.14,222.0,27.6kg,$2.90,450,5F,15/10/2023,grafton
+645,2,Denver Joy (3),Neil Falls,25.64,0.5,9.08,111.0,28.5kg,$3.60,450,5F,15/10/2023,grafton
+646,3,Khatanga Tex (8),Craig Gardoll,25.7,1.25,9.25,433.0,31.9kg,$2.40,450,5F,15/10/2023,grafton
+647,4,Robell Lola (5),Benjamin Ellis,25.8,2.5,9.42,554.0,24.1kg,$20.00,450,5F,15/10/2023,grafton
+648,5,Milkman Mav (4),Neil Falls,25.92,4.25,9.31,645.0,32.3kg,$16.00,450,5F,15/10/2023,grafton
+649,6,Orson Ivy (6),Evelyn Harris,26.18,8.25,9.46,366.0,23.6kg,$31.00,450,5F,15/10/2023,grafton
+650,1,Starline Express (4),Reg Gardoll,25.18,0.0,8.84,311.0,29.4kg,$2.00,450,NG,15/10/2023,grafton
+651,2,Cash Destroyer (8),Robert Cooke,25.27,1.25,9.05,233.0,28.0kg,$3.10,450,NG,15/10/2023,grafton
+652,3,Esmay Nelly (7),Benjamin Ellis,25.36,2.5,9.14,144.0,26.1kg,$34.00,450,NG,15/10/2023,grafton
+653,4,Edge Gambler (2),Patrick Lavis,25.43,3.5,9.0,622.0,24.6kg,$21.00,450,NG,15/10/2023,grafton
+654,5,Uzman Dutton (1),Andrew Monaghan,25.54,5.25,9.2,855.0,36.7kg,$12.00,450,NG,15/10/2023,grafton
+655,6,Master Class (6),Sonia Kempshall,25.76,8.25,9.22,467.0,32.5kg,$34.00,450,NG,15/10/2023,grafton
+656,7,Invest Wisely (5),Stephen Casey,25.79,8.75,9.29,586.0,33.1kg,$30.00,450,NG,15/10/2023,grafton
+657,8,All Lies Ahead (3),Stephen Keep,25.86,9.75,9.28,778.0,35.2kg,$6.00,450,NG,15/10/2023,grafton
+658,1,Laurie's Jess (5),Evelyn Harris,20.04,0.0,4.04,111,26.0kg,$31.00,350,FFA,15/10/2023,grafton
+659,2,Fernando Diva (1),Terence Jordan,20.05,0.1,4.11,532,26.8kg,$3.80,350,FFA,15/10/2023,grafton
+660,3,Back And Forth (3),Fiona Geary,20.31,3.75,4.09,423,30.8kg,$22.00,350,FFA,15/10/2023,grafton
+661,4,Dave Sands (8),David Richardson,20.4,5.25,4.14,255,30.7kg,$1.90,350,FFA,15/10/2023,grafton
+662,5,Integrity Keith (7),Robert Andrews,20.44,5.75,4.13,344,31.1kg,$4.50,350,FFA,15/10/2023,grafton
+663,6,Double The Cash (2),Neil Falls,20.54,7.0,4.2,876,34.2kg,$41.00,350,FFA,15/10/2023,grafton
+664,7,Lexi Boost (6),Sonia Kempshall,20.54,7.0,4.24,788,28.5kg,$13.00,350,FFA,15/10/2023,grafton
+665,8,Bundy Traveller (4),Brett Hastie,20.66,8.75,4.14,667,28.9kg,$81.00,350,FFA,15/10/2023,grafton
+666,1,Touch Base (1),Richard Godwin,20.28,0.0,4.1,312.0,27.1kg,$10.00,350,5,15/10/2023,grafton
+667,2,Double Parked (8),Fiona Geary,20.31,0.5,,881.0,29.9kg,$17.00,350,5,15/10/2023,grafton
+668,3,Big Unleashed (5),Brett Hastie,20.33,0.75,4.15,634.0,30.9kg,$5.00,350,5,15/10/2023,grafton
+669,4,Kenny Dutton (7),Andrew Monaghan,20.36,1.0,4.15,223.0,33.6kg,$2.70,350,5,15/10/2023,grafton
+670,5,Glenreagh Bullet (4),Garry Streatfield,20.62,4.75,4.27,575.0,32.9kg,$21.00,350,5,15/10/2023,grafton
+671,6,Berry Dutton (3),Andrew Monaghan,20.67,5.5,4.17,456.0,28.1kg,$2.90,350,5,15/10/2023,grafton
+672,7,Little In Love (6),Craig Carragher,21.31,14.5,4.17,147.0,24.2kg,$51.00,350,5,15/10/2023,grafton
+673,DNF,Bugatti Sync (2),Jacqueline Davis,,,,768.0,27.4kg,,350,5,15/10/2023,grafton
+674,1,Johnny For Sure (1),Brett Hastie,20.15,0.0,4.22,851.0,30.4kg,$9.50,350,5,15/10/2023,grafton
+675,2,Noble Gambler (3),Patrick Lavis,20.24,1.25,4.19,643.0,30.8kg,$2.25,350,5,15/10/2023,grafton
+676,3,Flash Attic (2),Sonia Kempshall,20.25,1.5,4.11,322.0,26.6kg,$13.00,350,5,15/10/2023,grafton
+677,4,Rosie Lee (8),Neil Falls,20.38,3.25,4.17,235.0,26.7kg,$3.90,350,5,15/10/2023,grafton
+678,5,Modern Madonna (7),Fiona Geary,20.39,3.5,4.11,114.0,27.8kg,$5.50,350,5,15/10/2023,grafton
+679,6,Inner Fire (5),Richard Godwin,20.47,4.5,4.3,586.0,24.7kg,$41.00,350,5,15/10/2023,grafton
+680,7,Phantom Bob (4),William Gilbert,20.57,6.0,4.23,767.0,30.7kg,$13.00,350,5,15/10/2023,grafton
+681,8,Pay Me Now (6),Stephen Casey,20.62,6.5,4.26,478.0,29.1kg,$17.00,350,5,15/10/2023,grafton
+682,1,Daley Magic (6),Craig Gardoll,20.15,0.0,4.09,111.0,31.7kg,$3.10,350,M23,15/10/2023,grafton
+683,2,Old Ace Banner (4),Julie King,20.23,1.0,4.17,332.0,33.1kg,$26.00,350,M23,15/10/2023,grafton
+684,3,Supreme Stream (1),Garry Geary,20.67,7.5,4.31,775.0,31.1kg,$19.00,350,M23,15/10/2023,grafton
+685,4,Perfect Nangar (7),Ricky Bender,20.71,8.0,4.2,446.0,32.6kg,$5.00,350,M23,15/10/2023,grafton
+686,5,Bold Character (2),Judith Gordon,20.73,8.25,4.32,887.0,30.0kg,$2.25,350,M23,15/10/2023,grafton
+687,6,Pivotal Moment (3),Fiona Geary,20.74,8.25,4.23,654.0,30.4kg,$10.00,350,M23,15/10/2023,grafton
+688,7,Mix (8),Stephen Keep,20.8,9.25,4.15,223.0,30.5kg,$21.00,350,M23,15/10/2023,grafton
+689,8,Indigo Lee (5),Ricky Bender,20.92,11.0,4.27,568.0,26.5kg,$71.00,350,M23,15/10/2023,grafton
+690,1,Vigne Unleashed (3),Sonia Kempshall,19.76,0.0,4.06,511.0,34.1kg,$1.50,350,X45,15/10/2023,grafton
+691,2,Jumbo Ozaki (5),Sonia Kempshall,20.1,4.75,4.08,222.0,34.6kg,$7.50,350,X45,15/10/2023,grafton
+692,3,Canny Wark (7),Craig Mcphee,20.22,6.5,4.13,133.0,29.5kg,$18.00,350,X45,15/10/2023,grafton
+693,4,Custodial (6),Julie King,20.56,11.5,4.22,664.0,30.5kg,$23.00,350,X45,15/10/2023,grafton
+694,5,Boston Budgies (2),Abrial Taylor,20.57,11.5,4.22,775.0,29.2kg,$14.00,350,X45,15/10/2023,grafton
+695,6,Been Framed (4),Benjamin Ellis,20.61,12.25,4.2,446.0,31.2kg,$8.00,350,X45,15/10/2023,grafton
+696,7,Rocky Pepper (8),Sonia Kempshall,20.87,15.75,4.19,357.0,30.7kg,$8.00,350,X45,15/10/2023,grafton
+697,1,Britbull Panama (1),D Jinks,27.33,0.0,5.21,5311,27.2kg,$2.25,415,A7,15/10/2023,harlow
+698,2,Mohican Lilly (2),P Witchell,27.73,5.0,5.08,2122,26.5kg,$3.70,415,A7,15/10/2023,harlow
+699,3,Headford Olly (3),M Rice,27.93,7.5,5.16,3444,35.1kg,$7.00,415,A7,15/10/2023,harlow
+700,4,Jura Go Loco (6),M Rice,28.01,8.5,5.16,4555,26.6kg,$4.00,415,A7,15/10/2023,harlow
+701,5,Boreen Pearl (4),C F Allen,28.15,10.25,5.06,1233,27.2kg,$8.00,415,A7,15/10/2023,harlow
+702,1,Sheadogue View (6),P Clarke,15.57,0.0,,3-2-,32.4kg,$3.75,238,D4,15/10/2023,harlow
+703,2,Baran Iceman (4),P Witchell,15.67,1.25,,2-1-,31.6kg,$1.55,238,D4,15/10/2023,harlow
+704,3,So Beyond (3),P Clarke,15.81,3.0,,1-3-,25.6kg,$3.75,238,D4,15/10/2023,harlow
+705,1,Lemming Nasa (2),P Clarke,26.77,0.0,4.92,1111,26.6kg,$5.50,415,A7,15/10/2023,harlow
+706,2,Jura Go Walpole (1),M Rice,27.19,5.25,5.02,3222,32.4kg,$3.10,415,A7,15/10/2023,harlow
+707,3,Jura Go Zola (3),M Rice,27.25,6.0,5.03,4333,28.7kg,$7.00,415,A7,15/10/2023,harlow
+708,4,Bonita Red (4),M Rice,27.33,7.0,5.09,5444,29.0kg,$3.25,415,A7,15/10/2023,harlow
+709,5,Flying Teddy (6),P Clarke,27.53,9.5,5.0,2555,22.2kg,$3.80,415,A7,15/10/2023,harlow
+710,1,Bonos Express (3),P Clarke,15.82,0.0,,2-2-,25.6kg,$3.75,238,D4,15/10/2023,harlow
+711,2,Ballinakill Jess (6),P Clarke,15.85,0.4,,1-1-,24.1kg,$2.60,238,D4,15/10/2023,harlow
+712,3,Drumcrow Floyd (2),M Fawsitt,16.07,3.15,,4-3-,32.0kg,$2.90,238,D4,15/10/2023,harlow
+713,4,How Ye May (4),P Clarke,16.17,4.4,,3-4-,24.3kg,$5.50,238,D4,15/10/2023,harlow
+714,1,Yankee Daisy (3),C F Allen,27.03,0.0,5.0,2111.0,28.0kg,$2.90,415,A6,15/10/2023,harlow
+715,2,Active Diva (1),P Witchell,27.41,4.75,5.04,3222.0,27.2kg,$3.50,415,A6,15/10/2023,harlow
+716,3,Newinn Diamond (6),D Jinks,28.01,12.25,4.97,1333.0,25.0kg,$1.90,415,A6,15/10/2023,harlow
+717,1,United (3),P Clarke,15.55,0.0,,2-1-,31.4kg,$2.75,238,D3,15/10/2023,harlow
+718,2,Classy Twister (4),P Clarke,15.73,2.25,,1-2-,30.9kg,$5.00,238,D3,15/10/2023,harlow
+719,3,Go On Larry (2),P Witchell,15.74,2.4,,3-3-,30.0kg,$5.00,238,D3,15/10/2023,harlow
+720,4,Baran Brady (5),P Witchell,16.02,5.9,,4-4-,32.5kg,$2.40,238,D3,15/10/2023,harlow
+721,1,Kilmood Best (4),P Clarke,15.87,0.0,,1-1-,28.5kg,$6.00,238,D4,15/10/2023,harlow
+722,2,Britbull Poppy (1),D Jinks,15.88,0.15,,2-2-,27.0kg,$5.00,238,D4,15/10/2023,harlow
+723,3,Neon On Moon (2),P Clarke,15.91,0.55,,3-3-,27.3kg,$1.90,238,D4,15/10/2023,harlow
+724,4,Wilbrook Freeway (5),P Clarke,16.09,2.8,,4-4-,28.8kg,$3.50,238,D4,15/10/2023,harlow
+725,1,Elite Jim (3),D Jinks,27.05,0.0,4.99,3111,33.5kg,$3.00,415,A6,15/10/2023,harlow
+726,2,Please Blue (1),P Clarke,27.21,2.0,5.04,4322,33.1kg,$5.00,415,A6,15/10/2023,harlow
+727,3,Jura Go Buzz (6),M Rice,27.61,7.0,4.92,1233,26.4kg,$2.90,415,A6,15/10/2023,harlow
+728,4,Dyno Storm (5),P Clarke,27.67,7.75,4.94,2444,25.5kg,$3.30,415,A6,15/10/2023,harlow
+729,1,Shade Of Blue (6),P Clarke,16.01,0.0,,1-1-,30.0kg,$2.25,238,D4,15/10/2023,harlow
+730,2,Comeragh Jet (3),P Held,16.02,0.15,,3-2-,30.0kg,$4.00,238,D4,15/10/2023,harlow
+731,3,Mellon Maybe (2),P Clarke,16.22,2.65,,4-4-,23.2kg,$3.60,238,D4,15/10/2023,harlow
+732,4,Swift Fascinate (1),D Jinks,16.34,4.15,,5-5-,25.8kg,$13.00,238,D4,15/10/2023,harlow
+733,5,Born Lucky (5),D Jinks,16.48,5.9,,2-3-,27.4kg,$8.00,238,D4,15/10/2023,harlow
+734,6,Front Runner (4),P Witchell,16.64,7.9,,6-6-,24.4kg,$11.00,238,D4,15/10/2023,harlow
+735,1,Jamelia Marcus (6),P Witchell,27.15,0.0,4.94,1111,27.4kg,$3.50,415,A7,15/10/2023,harlow
+736,2,Jura Kazura (5),M Rice,27.45,3.75,4.99,2332,31.2kg,$3.70,415,A7,15/10/2023,harlow
+737,3,Headford Duchess (3),M Rice,27.69,6.75,5.11,4444,25.6kg,$5.50,415,A7,15/10/2023,harlow
+738,4,Dysert Ron (4),P Clarke,28.07,11.5,5.08,3223,32.0kg,$4.00,415,A7,15/10/2023,harlow
+739,5,Slaneyside Mel (2),D Jinks,28.11,12.0,5.28,6666,29.5kg,$5.50,415,A7,15/10/2023,harlow
+740,6,Mymagicalmoment (1),C F Allen,28.59,18.0,5.15,5555,31.7kg,$10.00,415,A7,15/10/2023,harlow
+741,1,Clodaghs Gift (2),P Clarke,15.86,0.0,,4-3-,28.4kg,$2.90,238,D4,15/10/2023,harlow
+742,2,Old Town Bay (4),P Held,16.12,3.25,,1-2-,32.0kg,$2.60,238,D4,15/10/2023,harlow
+743,3,Lynseys Bluebell (3),P Clarke,16.16,3.75,,2-1-,24.4kg,$5.00,238,D4,15/10/2023,harlow
+744,4,Uptospeed (6),P Held,16.32,5.75,,3-4-,31.6kg,$4.10,238,D4,15/10/2023,harlow
+745,1,Drumcrow Memo (4),S Clark,15.95,0.0,,2-1-,27.2kg,$2.70,238,D4,15/10/2023,harlow
+746,2,Moss Row Mistral (5),P Ward,16.03,1.0,,1-2-,27.6kg,$3.50,238,D4,15/10/2023,harlow
+747,3,Yorvick Panda (2),C Wilson,16.15,2.5,,5-4-,25.0kg,$7.00,238,D4,15/10/2023,harlow
+748,4,Having A Ball (3),B Nicholls,16.21,3.25,,4-5-,34.4kg,$7.00,238,D4,15/10/2023,harlow
+749,5,Moaning Madman (1),B Nicholls,16.25,3.75,,3-3-,31.2kg,$5.50,238,D4,15/10/2023,harlow
+750,6,Skyhigh Blake (6),B Nicholls,16.45,6.25,,6-6-,33.1kg,$6.50,238,D4,15/10/2023,harlow
+751,1,Nothing In Asia (1),D M Verner,27.96,0.0,5.19,4432,30.4kg,$4.00,415,A7,15/10/2023,harlow
+752,2,Sellout Craytur (2),D Hurlock,27.99,0.4,5.22,5543,32.0kg,$6.00,415,A7,15/10/2023,harlow
+753,3,Salems Decision (4),S Clark,28.05,1.15,5.23,6654,28.4kg,$4.90,415,A7,15/10/2023,harlow
+754,4,Essjay Maurice (6),S Saberton,28.11,1.9,4.86,1121,30.5kg,$3.00,415,A7,15/10/2023,harlow
+755,5,Right Billy (5),B Nicholls,28.23,3.4,5.07,2365,32.4kg,$6.50,415,A7,15/10/2023,harlow
+756,6,Yougotthis (3),S Clark,28.33,4.65,5.09,3216,31.1kg,$6.00,415,A7,15/10/2023,harlow
+757,1,Syls Angel (3),P Clarke,15.81,0.0,,3-2-,25.4kg,$4.00,238,D4,15/10/2023,harlow
+758,2,Moaning Dice (6),B Nicholls,15.93,1.5,,1-1-,24.0kg,$9.00,238,D4,15/10/2023,harlow
+759,3,Corner All Star (5),B Nicholls,16.09,3.5,,2-3-,33.0kg,$6.50,238,D4,15/10/2023,harlow
+760,4,Wreckin Ball (1),S Saberton,16.25,5.5,,6-5-,28.0kg,$3.20,238,D4,15/10/2023,harlow
+761,5,Millmount Dot (2),P Ward,16.31,6.25,,4-4-,27.8kg,$4.50,238,D4,15/10/2023,harlow
+762,6,Gainstown Biggie (4),D Hurlock,16.43,7.75,,5-6-,27.3kg,$4.25,238,D4,15/10/2023,harlow
+763,1,Kyprios (6),D M Verner,27.01,0.0,4.77,1111,30.2kg,$2.70,415,A6,15/10/2023,harlow
+764,2,Salems Sabbath (2),S Clark,27.05,0.5,4.96,3222,28.8kg,$6.50,415,A6,15/10/2023,harlow
+765,3,Millview Blondie (1),P Ward,27.17,2.0,5.11,5433,24.5kg,$2.90,415,A6,15/10/2023,harlow
+766,4,Hidden Cash (3),P Ward,27.41,5.0,4.98,4344,34.0kg,$4.50,415,A6,15/10/2023,harlow
+767,5,Moanteen Wally (4),D Hurlock,27.47,5.75,4.96,2555,35.0kg,$7.00,415,A6,15/10/2023,harlow
+768,1,Killough Buddy (6),P Ward,15.46,0.0,,1-1-,37.0kg,$2.75,238,D3,15/10/2023,harlow
+769,2,Geronimo (2),P Ward,15.58,1.5,,3-2-,33.0kg,$3.70,238,D3,15/10/2023,harlow
+770,3,Hollyhill Millie (1),D Hurlock,15.72,3.25,,5-4-,26.5kg,$3.25,238,D3,15/10/2023,harlow
+771,4,Ressapanda (3),C Wilson,15.78,4.0,,2-3-,27.2kg,$9.00,238,D3,15/10/2023,harlow
+772,5,Salems Malibu (5),S Clark,15.84,4.75,,4-5-,32.0kg,$5.50,238,D3,15/10/2023,harlow
+773,1,Splatoon (4),S Clark,27.37,0.0,4.99,2211,26.2kg,$3.40,415,A7,15/10/2023,harlow
+774,2,Bridevalley Pa (1),P Ward,27.51,1.75,5.23,4433,31.0kg,$2.60,415,A7,15/10/2023,harlow
+775,3,Almighty Karen (3),S Saberton,27.57,2.5,4.91,1122,24.4kg,$3.00,415,A7,15/10/2023,harlow
+776,4,Overdraft (6),C Wilson,27.97,7.5,5.01,3344,27.6kg,$5.50,415,A7,15/10/2023,harlow
+777,1,Little Rona (6),P Ward,15.88,0.0,,2-1-,24.2kg,$2.25,238,D4,15/10/2023,harlow
+778,2,Francos Pippa (3),S Clark,15.91,0.4,,1-2-,28.0kg,$3.75,238,D4,15/10/2023,harlow
+779,3,Moss Row Mystic (1),P Ward,16.03,1.9,,5-3-,26.1kg,$7.00,238,D4,15/10/2023,harlow
+780,4,Honeygar Dream (4),C Wilson,16.15,3.4,,3-4-,31.0kg,$4.60,238,D4,15/10/2023,harlow
+781,5,Hello Ranger (2),B Nicholls,16.17,3.65,,4-5-,32.0kg,$7.00,238,D4,15/10/2023,harlow
+782,1,Sporting Hope (5),K Crew,26.84,0.0,4.88,2111,28.8kg,$3.70,415,A5,15/10/2023,harlow
+783,2,Essjay Steve (6),S Saberton,26.9,0.75,4.88,1222,30.0kg,$4.90,415,A5,15/10/2023,harlow
+784,3,Classy Turbo (3),B Nicholls,27.18,4.25,4.9,3333,32.8kg,$9.50,415,A5,15/10/2023,harlow
+785,4,Como Star (1),D Hurlock,27.22,4.75,4.94,4444,30.5kg,$3.60,415,A5,15/10/2023,harlow
+786,5,Era Lucky (2),C Wilson,27.54,8.75,4.96,5555,33.5kg,$2.75,415,A5,15/10/2023,harlow
+787,1,Cappaneale Best (4),C Wilson,15.47,0.0,,1-1-,32.2kg,$4.40,238,D2,15/10/2023,harlow
+788,2,Catunda Buzz (1),P Ward,15.63,2.0,,4-3-,30.0kg,$3.00,238,D2,15/10/2023,harlow
+789,3,Foreglen Mike (2),P Ward,15.71,3.0,,2-2-,32.2kg,$3.30,238,D2,15/10/2023,harlow
+790,4,Salems Best (6),S Clark,15.91,5.5,,3-4-,34.5kg,$4.00,238,D2,15/10/2023,harlow
+791,5,Size Ten (3),D Hurlock,16.55,13.5,,5-5-,28.4kg,$8.00,238,D2,15/10/2023,harlow
+792,1,Annadown Ruby (1),D Hurlock,38.91,0.0,15.63,5211,28.0kg,$2.20,592,S2,15/10/2023,harlow
+793,2,Shinbone Jack (6),S Clark,39.61,8.75,15.62,2122,29.8kg,$6.00,592,S2,15/10/2023,harlow
+794,3,Headford Jem (4),S Saberton,39.62,8.9,16.18,4443,27.0kg,$2.90,592,S2,15/10/2023,harlow
+795,4,Flyers Matilda (3),D Hurlock,40.02,13.9,16.03,3334,26.2kg,$4.20,592,S2,15/10/2023,harlow
+796,5,Miss Zoey (5),C Wilson,40.26,16.9,,1555,26.0kg,$22.00,592,S2,15/10/2023,harlow
+797,1,Croaghill Sam (6),D Hurlock,15.59,0.0,,1-2-,30.4kg,$3.80,238,D4,15/10/2023,harlow
+798,2,Aero Blondie (3),S Saberton,15.65,0.75,,3-1-,30.1kg,$4.90,238,D4,15/10/2023,harlow
+799,3,Concra Wood (1),C Wilson,15.77,2.25,,6-3-,31.7kg,$3.75,238,D4,15/10/2023,harlow
+800,4,Measure Me (4),S Clark,15.81,2.75,,5-4-,34.2kg,$3.50,238,D4,15/10/2023,harlow
+801,5,Palmgrove Flyer (2),D Hurlock,15.89,3.75,,2-5-,35.5kg,$6.50,238,D4,15/10/2023,harlow
+802,6,Hollyhill Eabha (5),S Clark,15.99,5.0,,4-6-,24.6kg,$10.00,238,D4,15/10/2023,harlow
+803,1,Fortunate Rose (3),S Saberton,27.02,0.0,4.92,2111,26.1kg,$2.60,415,A6,15/10/2023,harlow
+804,2,Willow The Whisp (2),D Hurlock,27.05,0.4,5.11,4423,23.4kg,$7.00,415,A6,15/10/2023,harlow
+805,3,Canya Fly (6),D M Verner,27.11,1.15,4.91,1232,32.2kg,$2.40,415,A6,15/10/2023,harlow
+806,4,Milltown Milk (1),P Ward,27.27,3.15,5.21,5544,30.2kg,$7.00,415,A6,15/10/2023,harlow
+807,5,Time Is Now (5),C Wilson,27.43,5.15,4.93,3355,32.1kg,$7.00,415,A6,15/10/2023,harlow
+808,1,Moss Row Pat (3),P Ward,15.94,0.0,,1-1-,26.8kg,$6.50,238,D4,15/10/2023,harlow
+809,2,Chatelaine (5),S Clark,16.04,1.25,,3-2-,27.0kg,$5.50,238,D4,15/10/2023,harlow
+810,3,Coonough Trish (2),B Nicholls,16.1,2.0,,5-5-,31.0kg,$4.50,238,D4,15/10/2023,harlow
+811,4,Crinkill Danny (6),P Ward,16.18,3.0,,2-4-,34.6kg,$4.00,238,D4,15/10/2023,harlow
+812,5,Harriestown Kate (1),P Ward,16.32,4.75,,4-3-,23.4kg,$4.90,238,D4,15/10/2023,harlow
+813,6,Fabulous Louise (4),B Nicholls,16.42,6.0,,6-6-,27.4kg,$3.75,238,D4,15/10/2023,harlow
+814,1,Airmount Lark (1),B Nicholls,27.29,0.0,5.13,4211,30.2kg,$3.30,415,A7,15/10/2023,harlow
+815,2,Salahs Dream (4),P Clarke,27.93,8.0,5.03,1122,26.0kg,$3.70,415,A7,15/10/2023,harlow
+816,3,Caislean Holly (6),P Ward,28.17,11.0,5.14,5455,24.8kg,$8.00,415,A7,15/10/2023,harlow
+817,4,Ross Bale (5),D Hurlock,28.18,11.15,5.09,2333,30.0kg,$4.90,415,A7,15/10/2023,harlow
+818,5,Hilark Paddy (2),B Nicholls,28.22,11.65,5.11,3544,36.2kg,$3.00,415,A7,15/10/2023,harlow
+819,1,Fascinate Pearl (3),Ian Beattie,17.22,0.0,3.95,M/1,25.8kg,$2.00,300,M,15/10/2023,healesville
+820,2,Lucky Jean (7),MATTHEW NASH,17.34,1.7,3.95,M/2,25.1kg,$4.60,300,M,15/10/2023,healesville
+821,3,Little Speckle (8),Daniel Hoch,17.41,2.75,4.06,M/5,27.3kg,$7.00,300,M,15/10/2023,healesville
+822,4,Inter Black Fire (1),Tony Interligi,17.49,3.87,3.96,S/3,25.7kg,$4.20,300,M,15/10/2023,healesville
+823,5,Mr. Holiday (2),Gary Mcmillan,17.59,5.3,4.04,S/4,34.0kg,$23.00,300,M,15/10/2023,healesville
+824,6,Misty Mia (6),Colin Baker,17.72,7.14,4.11,M/6,27.5kg,$22.00,300,M,15/10/2023,healesville
+825,1,Paddy Almighty (4),Gary Mcmillan,17.14,0.0,4.0,M/2,37.6kg,$24.00,300,M,15/10/2023,healesville
+826,2,Donnybrook Flyer (5),Donna Furey,17.14,0.06,4.02,M/4,26.2kg,$4.00,300,M,15/10/2023,healesville
+827,3,Mrs. Dramatic (3),Corey Mackie,17.17,0.44,3.95,M/1,28.3kg,$3.00,300,M,15/10/2023,healesville
+828,4,Speedy Redeemer (8),Ian Beattie,17.5,5.16,4.1,M/6,26.9kg,$3.25,300,M,15/10/2023,healesville
+829,5,Shot Of Scotch (1),Paula Boots,17.71,8.1,4.16,M/7,32.8kg,$11.00,300,M,15/10/2023,healesville
+830,6,Inter Rouge (6),Tony Interligi,17.75,8.77,4.01,M/3,26.6kg,$12.00,300,M,15/10/2023,healesville
+831,7,Inter Terra (2),Tony Interligi,17.93,11.34,4.05,M/5,27.0kg,$13.00,300,M,15/10/2023,healesville
+832,1,Sir Coleman (6),John Delaroche,19.9,0.0,6.71,M/1,35.3kg,$5.00,350,M,15/10/2023,healesville
+833,2,Fritsch (5),Carly Feltham,19.98,1.04,6.75,M/2,28.3kg,$6.00,350,M,15/10/2023,healesville
+834,3,Wild And Easy (8),Jason Portelli,20.06,2.3,6.75,M/3,28.0kg,$3.00,350,M,15/10/2023,healesville
+835,4,It's A Special (3),John Delaroche,20.39,7.03,6.87,M/5,30.1kg,$6.50,350,M,15/10/2023,healesville
+836,5,Car Ramrod (4),Chris Reynolds,20.53,8.9,6.8,M/4,32.5kg,$11.00,350,M,15/10/2023,healesville
+837,6,Inter Trigon (1),Tony Interligi,20.6,9.94,6.94,S/6,31.7kg,$10.00,350,M,15/10/2023,healesville
+838,7,Inter Beast Boy (7),Tony Interligi,20.68,11.13,6.96,M/7,30.1kg,$14.00,350,M,15/10/2023,healesville
+839,8,Idyllic Sarah (2),Donna Knight,21.04,16.29,7.05,M/8,28.9kg,$17.00,350,M,15/10/2023,healesville
+840,1,Jet Easy (8),Jason Portelli,16.95,0.0,4.01,M/7,26.3kg,$9.00,300,RW,15/10/2023,healesville
+841,2,Spanish Bullet (1),Leslie Mitchell,17.04,1.26,3.98,S/6,32.4kg,$2.75,300,RW,15/10/2023,healesville
+842,3,Be Little (6),Gary Mcmillan,17.22,3.79,3.97,M/5,31.1kg,$29.00,300,RW,15/10/2023,healesville
+843,4,Meehan Boston (4),Jodie Elliott,17.24,4.16,3.95,M/3,30.6kg,$7.00,300,RW,15/10/2023,healesville
+844,5,Hard Press (3),David Bourke,17.34,5.5,3.93,M/1,27.7kg,$2.20,300,RW,15/10/2023,healesville
+845,6,Mighty Milo (7),Bradley Chapman,17.4,6.44,3.95,M/4,27.5kg,$34.00,300,RW,15/10/2023,healesville
+846,7,Irish Brew (2),Jennifer Thorpe,17.4,6.46,3.93,M/2,29.2kg,$23.00,300,RW,15/10/2023,healesville
+847,1,Mister Easy (1),Jason Portelli,19.32,0.0,6.58,M/2,31.9kg,$2.50,350,X67,15/10/2023,healesville
+848,2,Sit And Steer (6),David Bourke,19.43,1.54,6.53,Q/1,34.3kg,$1.70,350,X67,15/10/2023,healesville
+849,3,Ruling Monarch (4),Christopher Tilley,19.84,7.41,6.85,M/4,33.8kg,$10.00,350,X67,15/10/2023,healesville
+850,4,Break In (3),MATTHEW NASH,19.93,8.67,6.92,M/5,28.1kg,$26.00,350,X67,15/10/2023,healesville
+851,5,Free Falling (8),Corey Mackie,19.97,9.31,6.99,M/6,33.2kg,$41.00,350,X67,15/10/2023,healesville
+852,6,Twenty Deep (2),MATTHEW NASH,20.03,10.16,6.76,M/3,31.1kg,$34.00,350,X67,15/10/2023,healesville
+853,7,Buster Harley (7),Donna Knight,20.05,10.39,7.07,M/7,30.5kg,$61.00,350,X67,15/10/2023,healesville
+854,1,Steal Your Style (1),Ian Beattie,19.6,0.0,6.66,S/2,29.8kg,$3.80,350,5,15/10/2023,healesville
+855,2,Jack Out (8),David Schwarz,19.72,1.73,6.55,M/1,30.0kg,$5.50,350,5,15/10/2023,healesville
+856,3,Hallee's Reef (7),David Schwarz,19.8,2.81,6.66,M/4,27.5kg,$3.80,350,5,15/10/2023,healesville
+857,4,Wild Reputation (4),Donna Knight,19.84,3.4,6.67,M/6,31.4kg,$6.50,350,5,15/10/2023,healesville
+858,5,Kody Talks (6),Steve Kaltsis,19.87,3.79,6.77,S/7,34.4kg,$15.00,350,5,15/10/2023,healesville
+859,6,Perfect Sal (2),Tony Salpigtidis,19.87,3.84,6.66,S/3,32.0kg,$4.90,350,5,15/10/2023,healesville
+860,7,Hardaway Nala (3),Shaun Hughes,19.98,5.43,6.67,M/5,24.5kg,$31.00,350,5,15/10/2023,healesville
+861,1,In Range (6),Phillip Pollutro,16.64,0.0,3.86,M/2,27.2kg,$8.00,300,5F,15/10/2023,healesville
+862,2,Challis Candy (1),Pauline Laidlay,16.64,0.01,3.84,S/1,26.7kg,$41.00,300,5F,15/10/2023,healesville
+863,3,Burn Along (3),PAUL JONES,16.65,0.09,3.91,M/4,34.5kg,$5.50,300,5F,15/10/2023,healesville
+864,4,Cybertruck (8),Matt Johnson,16.66,0.25,3.96,M/7,34.6kg,$1.60,300,5F,15/10/2023,healesville
+865,5,Ruby's Desire (4),Leslie Mitchell,16.82,2.5,3.92,M/5,29.8kg,$61.00,300,5F,15/10/2023,healesville
+866,6,Chop (5),Gerard O'Keeffe,16.87,3.3,3.96,S/8,33.2kg,$101.00,300,5F,15/10/2023,healesville
+867,7,Bernardo's Baby (2),Billy Stockdale,16.88,3.37,3.86,S/3,27.7kg,$6.00,300,5F,15/10/2023,healesville
+868,8,Carry On Jack (7),Jessica Hopkins,17.03,5.46,3.95,M/6,35.3kg,$31.00,300,5F,15/10/2023,healesville
+869,1,Ring A Daisy (7),Sharyn Combridge,16.59,0.0,3.88,M/3,27.3kg,$4.00,300,FFA,15/10/2023,healesville
+870,2,Meehan Oddball (6),Dean Elliott,16.75,2.16,3.87,M/1,31.7kg,$13.00,300,FFA,15/10/2023,healesville
+871,3,Sleepless Nights (4),Andrew Paraskevas,16.78,2.66,3.93,M/5,34.6kg,$1.30,300,FFA,15/10/2023,healesville
+872,4,Saintly Sal (1),Margaret Salvatore,16.88,4.04,3.88,S/2,30.9kg,$51.00,300,FFA,15/10/2023,healesville
+873,5,Ring A Dusty (8),Sharyn Combridge,16.92,4.63,4.04,M/6,31.9kg,$24.00,300,FFA,15/10/2023,healesville
+874,6,Raph City (2),Alice Peat,16.98,5.54,3.93,M/4,29.8kg,$34.00,300,FFA,15/10/2023,healesville
+875,7,Aston Sterling (3),David Condon,17.0,5.76,4.05,M/7,37.2kg,$101.00,300,FFA,15/10/2023,healesville
+876,1,Spot Fox (8),Des Douch,19.21,0.0,6.65,Q/4,34.4kg,$1.90,350,X45,15/10/2023,healesville
+877,2,Cold That Night (4),Ian Beattie,19.5,4.09,6.58,M/2,34.5kg,$13.00,350,X45,15/10/2023,healesville
+878,3,Settlement Day (1),Peter Inguanti,19.57,5.2,6.57,M/1,30.6kg,$2.70,350,X45,15/10/2023,healesville
+879,4,Walter Avenue (2),Alice Peat,19.6,5.57,6.7,S/6,35.1kg,$11.00,350,X45,15/10/2023,healesville
+880,5,Master Zorro (7),David Bourke,19.65,6.33,6.63,M/3,35.8kg,$9.00,350,X45,15/10/2023,healesville
+881,6,Broadside (5),Daniel Pell,19.69,6.8,6.66,M/5,36.2kg,$34.00,350,X45,15/10/2023,healesville
+882,1,In The Navy (5),K King,19.56,0.0,6.51,M/1,34.5kg,$3.50,350,5,15/10/2023,healesville
+883,2,Bushman's Prayer (2),Arron Rocke,19.64,1.14,6.63,M/2,29.0kg,$21.00,350,5,15/10/2023,healesville
+884,3,Warcraft (8),MATTHEW NASH,19.71,2.23,6.7,Q/3,32.4kg,$4.00,350,5,15/10/2023,healesville
+885,4,Spirit World (7),Christopher Tilley,19.74,2.64,6.76,M/5,29.6kg,$2.50,350,5,15/10/2023,healesville
+886,5,Roxy Crumpet (1),Suwit Bunchusri,19.89,4.75,6.8,M/6,35.7kg,$12.00,350,5,15/10/2023,healesville
+887,6,Rojo Silver Fox (4),Peter Bartlett,20.06,7.16,6.76,M/4,33.3kg,$8.50,350,5,15/10/2023,healesville
+888,1,Full On Aileen (4),Darren Ryan,16.74,0.0,3.89,M/2,31.6kg,$2.10,300,5,15/10/2023,healesville
+889,2,Green Backs (1),Beverley Pell,16.89,2.23,3.99,S/5,35.4kg,$4.50,300,5,15/10/2023,healesville
+890,3,Furious Angel (7),Sean Lithgow,16.95,3.01,3.91,M/3,25.6kg,$4.40,300,5,15/10/2023,healesville
+891,4,Superior Tom (8),David Condon,17.02,3.96,4.07,M/6,35.9kg,$51.00,300,5,15/10/2023,healesville
+892,5,Long Pocket (2),Donna Knight,17.24,7.2,4.21,S/7,36.6kg,$8.50,300,5,15/10/2023,healesville
+893,6,Change (3),Gary Mcmillan,17.26,7.46,3.92,M/4,30.9kg,$23.00,300,5,15/10/2023,healesville
+894,7,Inga Linda (6),Mary Inguanti,17.38,9.11,3.89,M/1,26.7kg,$13.00,300,5,15/10/2023,healesville
+895,1,Meehan Magpie (7),Jodie Elliott,16.85,0.0,3.83,Q/1,24.7kg,$2.90,300,5,15/10/2023,healesville
+896,2,Duchess Sal (3),Margaret Salvatore,16.96,1.69,3.89,M/3,27.7kg,$2.20,300,5,15/10/2023,healesville
+897,3,Inter Buzz Along (8),Jennifer Thorpe,16.98,1.87,3.88,Q/2,32.5kg,$14.00,300,5,15/10/2023,healesville
+898,4,Magic Bee (2),Phillip Pollutro,17.04,2.79,3.94,M/4,28.1kg,$4.80,300,5,15/10/2023,healesville
+899,5,On The Gins (6),Susan Richards,17.07,3.27,3.97,M/5,24.9kg,$21.00,300,5,15/10/2023,healesville
+900,6,Cosmic Holiday (4),Susan Richards,17.16,4.43,4.06,M/6,32.0kg,$13.00,300,5,15/10/2023,healesville
+901,7,Inga Luna (1),VITO INGUANTI,17.45,8.66,4.1,M/7,28.6kg,$101.00,300,5,15/10/2023,healesville
+902,1,Salacres Logan (3),P Harnden,27.99,0.0,3.76,1111,33.3kg,$3.60,460,A6,15/10/2023,henlow
+903,2,Longacres Matter (1),J Bloomfield,28.31,4.0,3.84,3322,31.6kg,$3.50,460,A6,15/10/2023,henlow
+904,3,Murrow Honey (5),Fitch,28.39,5.0,3.87,4533,27.0kg,$7.00,460,A6,15/10/2023,henlow
+905,4,Energize Jenz (4),J Bloomfield,28.83,10.5,3.93,6444,25.9kg,$4.50,460,A6,15/10/2023,henlow
+906,5,Norbette Flyer (2),P Harnden,29.33,16.75,3.88,5255,27.0kg,$6.50,460,A6,15/10/2023,henlow
+907,6,Salacres Bonnie (6),P Harnden,29.41,17.75,3.83,2666,29.8kg,$5.50,460,A6,15/10/2023,henlow
+908,1,Concatenation (3),P Philpott,28.33,0.0,3.92,5311,26.5kg,$6.00,460,ORM,15/10/2023,henlow
+909,2,Racenight Bigtom (4),A L Steels,28.63,3.75,3.85,3422,38.1kg,$2.70,460,ORM,15/10/2023,henlow
+910,3,Littletown Hero (5),P Clarke,28.89,7.0,3.82,2543,31.7kg,$4.90,460,ORM,15/10/2023,henlow
+911,4,Ratchies Lilypie (2),A Ioannou,28.97,8.0,3.9,4234,29.3kg,$13.00,460,ORM,15/10/2023,henlow
+912,5,Blacknose Robin (1),M Westwood,30.31,24.75,3.8,1155,34.8kg,$2.50,460,ORM,15/10/2023,henlow
+913,1,Flitwick Foxie (3),P Henman,28.28,0.0,3.8,2221,32.4kg,$3.25,460,ORM,15/10/2023,henlow
+914,2,Blue Range (5),J Gornall,28.34,0.75,3.84,4432,26.4kg,$3.25,460,ORM,15/10/2023,henlow
+915,3,Estefans Tune (4),M Westwood,28.46,2.25,3.86,5644,26.0kg,$3.70,460,ORM,15/10/2023,henlow
+916,4,Bobbing Gnorma (6),P Clarke,28.54,3.25,3.78,1113,26.7kg,$19.00,460,ORM,15/10/2023,henlow
+917,5,Savana Noir (1),A L Steels,28.72,5.5,3.94,6355,27.8kg,$8.00,460,ORM,15/10/2023,henlow
+918,6,Farloe Elton (2),R Yeates,28.86,7.25,3.83,3566,34.3kg,$6.50,460,ORM,15/10/2023,henlow
+919,1,Rapido Drops (5),S M Horner,27.86,0.0,3.79,1111,32.7kg,$1.24,460,OR,15/10/2023,henlow
+920,2,Charls Boy (6),P Crowson,27.88,0.25,3.83,2332,34.8kg,$12.00,460,OR,15/10/2023,henlow
+921,3,Jim The Liar (3),P Philpott,28.24,4.75,3.85,4443,33.5kg,$8.00,460,OR,15/10/2023,henlow
+922,4,Ballymac Diverse (1),C Grasso,28.25,4.9,3.84,3224,34.3kg,$8.00,460,OR,15/10/2023,henlow
+923,5,Taxman (2),P Clarke,28.27,5.15,3.93,5555,29.8kg,$12.00,460,OR,15/10/2023,henlow
+924,1,Bennys Chancer (4),M Newberry,27.31,0.0,3.69,1111,29.5kg,$2.25,460,OR,15/10/2023,henlow
+925,2,Rapido King (3),J Gornall,27.65,4.25,3.79,3322,38.4kg,$2.50,460,OR,15/10/2023,henlow
+926,3,Salacres Finesse (1),P Harnden,27.83,6.5,3.75,2233,24.4kg,$4.20,460,OR,15/10/2023,henlow
+927,4,Outlander (6),P Crowson,27.97,8.25,3.85,4444,35.0kg,$9.50,460,OR,15/10/2023,henlow
+928,1,Salacres Blake (4),P Harnden,27.39,0.0,3.66,1111,32.8kg,$4.20,460,OR,15/10/2023,henlow
+929,2,Swithins Teejay (6),R Yeates,27.59,2.5,3.71,2322,34.0kg,$4.10,460,OR,15/10/2023,henlow
+930,3,Les Of Rhyl (2),P Henman,27.89,6.25,3.73,3443,31.9kg,$8.00,460,OR,15/10/2023,henlow
+931,4,Untold Yen (3),C Weatherall,27.97,7.25,3.87,5554,32.5kg,$2.40,460,OR,15/10/2023,henlow
+932,5,Slider Mccoy (1),J Bloomfield,28.23,10.5,3.86,4235,34.5kg,$5.50,460,OR,15/10/2023,henlow
+933,1,Quagos Jack (6),K Dawson,16.53,0.0,,1-1-,35.6kg,$2.50,277,ORF,15/10/2023,henlow
+934,2,Salthill Sniper (3),R Peckover,16.75,2.75,,3-3-,32.0kg,$2.40,277,ORF,15/10/2023,henlow
+935,3,Kilara Elk (5),C Weatherall,16.76,2.9,,2-2-,36.6kg,$8.00,277,ORF,15/10/2023,henlow
+936,4,Ballyard Shawny (1),J Bloomfield,16.8,3.4,,4-4-,34.5kg,$5.50,277,ORF,15/10/2023,henlow
+937,5,Liffeyside Blake (4),J Bloomfield,16.92,4.9,,5-5-,32.6kg,$26.00,277,ORF,15/10/2023,henlow
+938,6,Hometown Tilly (2),S M Horner,17.34,10.15,,6-6-,29.1kg,$17.00,277,ORF,15/10/2023,henlow
+939,1,Liz Of Rhyl (4),P Henman,33.9,0.0,9.09,2221,26.6kg,$5.50,550,ORM,15/10/2023,henlow
+940,2,Kethro (3),C Grasso,33.92,0.25,9.21,3333,35.0kg,$2.25,550,ORM,15/10/2023,henlow
+941,3,Savana Raven (2),J Bloomfield,33.93,0.4,8.97,1112,28.8kg,$2.40,550,ORM,15/10/2023,henlow
+942,4,Kingswood Magic (5),Fitch,34.15,3.15,9.33,4444,29.8kg,$11.00,550,ORM,15/10/2023,henlow
+943,5,Calico Brin (1),K Hardiman,34.51,7.65,9.44,5555,35.3kg,$17.00,550,ORM,15/10/2023,henlow
+944,1,Marinas Santiago (1),P Philpott,33.94,0.0,8.82,1111,28.2kg,$2.10,550,ORM,15/10/2023,henlow
+945,2,Millbank Queenie (3),K Hardiman,34.14,2.5,8.98,2222,28.0kg,$13.00,550,ORM,15/10/2023,henlow
+946,3,Tullovin Mindy (5),P Harnden,34.15,2.65,9.39,5433,27.3kg,$2.90,550,ORM,15/10/2023,henlow
+947,4,Potty By Nature (2),P Philpott,34.89,11.9,9.37,4344,26.9kg,$8.00,550,ORM,15/10/2023,henlow
+948,5,Farleyhill Diva (6),A Ioannou,34.95,12.65,9.43,6666,27.4kg,$15.00,550,ORM,15/10/2023,henlow
+949,6,Winehouse Dream (4),M Westwood,35.15,15.15,9.3,3555,25.4kg,$6.50,550,ORM,15/10/2023,henlow
+950,1,Botswana Flash (6),J Bloomfield,34.07,0.0,9.07,2222,33.5kg,$1.80,550,OR,15/10/2023,henlow
+951,2,Vinegarhill Bear (3),J Bloomfield,34.11,0.5,9.01,1111,33.5kg,$12.00,550,OR,15/10/2023,henlow
+952,3,Ballycowen Flur (5),A L Steels,34.45,4.75,9.33,5543,26.1kg,$5.50,550,OR,15/10/2023,henlow
+953,4,Megso Potty (1),P Philpott,34.69,7.75,9.2,3334,28.3kg,$6.00,550,OR,15/10/2023,henlow
+954,5,Orange Aoife (2),M Westwood,34.79,9.0,9.24,4455,28.3kg,$4.20,550,OR,15/10/2023,henlow
+955,1,Untold Kwacha (3),C Weatherall,33.47,0.0,9.01,1211,42.0kg,$3.60,550,OR,15/10/2023,henlow
+956,2,Evies Saga (1),S M Horner,33.87,5.0,9.09,3332,26.2kg,$2.50,550,OR,15/10/2023,henlow
+957,3,Tommys Lotto (4),C Grasso,34.03,7.0,9.18,4444,33.7kg,$3.10,550,OR,15/10/2023,henlow
+958,4,Farloe Caprice (2),R Yeates,34.19,9.0,9.02,2123,31.4kg,$6.50,550,OR,15/10/2023,henlow
+959,1,Highview Brand (3),B Heaton,28.36,0.0,5.44,3221,26.4kg,$4.50,462,A6,15/10/2023,kinsley
+960,2,Vote For Pedro (1),K Seville,28.66,3.75,5.69,6645,35.8kg,$2.90,462,A6,15/10/2023,kinsley
+961,3,Punk Poet (6),W Lyons,28.8,5.5,5.32,1312,30.4kg,$4.25,462,A6,15/10/2023,kinsley
+962,4,Crystal Millroad (2),Td Coote,28.88,6.5,5.47,2134,26.8kg,$6.00,462,A6,15/10/2023,kinsley
+963,5,Derrymore Farrah (5),J Zivkovic,28.89,6.65,5.66,5453,27.4kg,$5.00,462,A6,15/10/2023,kinsley
+964,6,Mustang Luca (4),J Robinson,29.07,8.9,5.52,4566,30.4kg,$10.00,462,A6,15/10/2023,kinsley
+965,1,Sparta Sid (3),Bentley,27.95,0.0,5.23,1111,34.2kg,$3.50,462,A3,15/10/2023,kinsley
+966,2,Dairyhills Best (1),J Hayton,28.07,1.5,5.37,3222,35.8kg,$3.10,462,A3,15/10/2023,kinsley
+967,3,Dayinthelife (6),J Robinson,28.21,3.25,5.34,4333,32.8kg,$7.00,462,A3,15/10/2023,kinsley
+968,4,Crystal Tilly (4),Td Coote,28.27,4.0,5.38,5544,27.6kg,$6.00,462,A3,15/10/2023,kinsley
+969,5,Highview Bright (5),B Heaton,28.31,4.5,5.43,6655,29.6kg,$6.00,462,A3,15/10/2023,kinsley
+970,6,Caydans Destiny (2),J Zivkovic,28.69,9.25,5.3,2466,27.6kg,$5.50,462,A3,15/10/2023,kinsley
+971,1,Ay Up Sydney (1),D Cooper,16.07,0.0,,1-1-,35.0kg,$3.75,268,D2,15/10/2023,kinsley
+972,2,Drop The Torpedo (5),S Oakes,16.15,1.0,,4-3-,34.6kg,$3.75,268,D2,15/10/2023,kinsley
+973,3,Ballintine Luna (4),B Heaton,16.27,2.5,,2-2-,29.0kg,$5.50,268,D2,15/10/2023,kinsley
+974,4,De Yonker (6),K Seville,16.41,4.25,,6-5-,27.4kg,$2.70,268,D2,15/10/2023,kinsley
+975,5,Canya Shipaway (3),W Lyons,16.45,4.75,,3-4-,26.6kg,$8.00,268,D2,15/10/2023,kinsley
+976,6,Deacon Twirl (2),Td Coote,16.57,6.25,,5-6-,24.4kg,$13.00,268,D2,15/10/2023,kinsley
+977,1,Ay Up Frederick (3),D Cooper,27.97,0.0,5.24,1111,31.8kg,$3.25,462,A3,15/10/2023,kinsley
+978,2,Burkos Ellie (5),S Smith,28.13,2.0,5.24,3222,30.0kg,$3.75,462,A3,15/10/2023,kinsley
+979,3,Pukka Poppy (4),W Lyons,28.17,2.5,5.24,2333,26.2kg,$10.00,462,A3,15/10/2023,kinsley
+980,4,Outback River (1),R Fletcher,28.23,3.25,5.42,6555,28.2kg,$3.25,462,A3,15/10/2023,kinsley
+981,5,Fearmore Trigger (2),K Seville,28.24,3.4,5.35,5444,31.7kg,$6.00,462,A3,15/10/2023,kinsley
+982,6,Fearmore Rodney (6),K Seville,29.0,12.9,5.32,4666,30.2kg,$8.00,462,A3,15/10/2023,kinsley
+983,1,Malachis Rose (6),W Lyons,28.13,0.0,5.27,3211,25.8kg,$4.00,462,A4,15/10/2023,kinsley
+984,2,Sheriffs Rose (2),D E Fradgley,28.19,0.75,5.44,6652,25.6kg,$8.00,462,A4,15/10/2023,kinsley
+985,3,Glenvale Gav (4),S Oakes,28.31,2.25,5.31,4564,32.0kg,$3.70,462,A4,15/10/2023,kinsley
+986,4,Dysert Rachael (3),J Robinson,28.49,4.5,5.37,5443,27.0kg,$3.75,462,A4,15/10/2023,kinsley
+987,5,Cats Magic (1),Td Coote,28.65,6.5,5.19,1135,28.6kg,$5.50,462,A4,15/10/2023,kinsley
+988,6,Russellstown Guy (5),B Heaton,28.71,7.25,5.28,2326,34.5kg,$5.50,462,A4,15/10/2023,kinsley
+989,1,Corduff Trump (3),K Seville,16.4,0.0,,1-1-,31.8kg,$3.60,268,D2,15/10/2023,kinsley
+990,2,Canya Sunset (1),W Lyons,16.41,0.15,,2-2-,29.0kg,$5.50,268,D2,15/10/2023,kinsley
+991,3,Is It Amy (2),S Oakes,16.61,2.65,,3-4-,23.4kg,$4.30,268,D2,15/10/2023,kinsley
+992,4,Tudar City (5),Td Coote,16.69,3.65,,4-3-,28.6kg,$4.60,268,D2,15/10/2023,kinsley
+993,5,Hollywell Hero (6),J Hayton,16.77,4.65,,6-5-,36.6kg,$8.00,268,D2,15/10/2023,kinsley
+994,6,Fearmore Grotto (4),J Hayton,16.87,5.9,,5-6-,30.4kg,$4.50,268,D2,15/10/2023,kinsley
+995,1,Ross King (3),K Seville,28.42,0.0,5.32,2121,34.2kg,$6.00,462,A5,15/10/2023,kinsley
+996,2,Rural Surprise (5),S Smith,28.48,0.75,5.22,1212,28.4kg,$4.30,462,A5,15/10/2023,kinsley
+997,3,Gainstown Mammy (6),W Lyons,28.52,1.25,5.37,4333,25.2kg,$7.00,462,A5,15/10/2023,kinsley
+998,4,Straight Blast (2),J Hayton,28.7,3.5,5.52,6555,30.0kg,$12.00,462,A5,15/10/2023,kinsley
+999,5,Skyblues Kempo (1),C W Brown,28.72,3.75,5.45,3444,30.6kg,$5.00,462,A5,15/10/2023,kinsley
+1000,6,Crackon Mammy (4),B Heaton,29.24,10.25,5.47,5666,25.4kg,$2.25,462,A5,15/10/2023,kinsley
+1001,1,Pro Princess (5),S Oakes,28.42,0.0,5.43,5433,29.0kg,$3.80,462,A5,15/10/2023,kinsley
+1002,2,Kilara Thyestes (4),W Lyons,28.45,0.4,5.31,2211,29.8kg,$2.75,462,A5,15/10/2023,kinsley
+1003,3,Strike It Josie (6),C W Brown,28.49,0.9,5.35,4344,23.6kg,$5.50,462,A5,15/10/2023,kinsley
+1004,4,Confident Divine (2),J Zivkovic,28.57,1.9,5.28,1122,32.8kg,$9.00,462,A5,15/10/2023,kinsley
+1005,5,Ballymac Blake (1),B Heaton,28.71,3.65,5.5,6555,36.0kg,$10.00,462,A5,15/10/2023,kinsley
+1006,6,Meenagh Madman (3),D E Fradgley,28.77,4.4,5.35,3666,33.6kg,$4.10,462,A5,15/10/2023,kinsley
+1007,1,Tober Lorenzo (2),J Zivkovic,16.11,0.0,,1-1-,31.6kg,$3.80,268,D1,15/10/2023,kinsley
+1008,2,Native Tango (1),K Seville,16.17,0.75,,3-2-,28.2kg,$4.30,268,D1,15/10/2023,kinsley
+1009,3,Blue The Woofoff (4),B Heaton,16.25,1.75,,2-3-,28.2kg,$4.40,268,D1,15/10/2023,kinsley
+1010,4,Jovial Dash (3),D E Fradgley,16.39,3.5,,4-4-,33.6kg,$4.00,268,D1,15/10/2023,kinsley
+1011,5,Memphis Court (6),J Zivkovic,16.63,6.5,,6-6-,33.0kg,$15.00,268,D1,15/10/2023,kinsley
+1012,6,Deacon Destroyer (5),Td Coote,16.67,7.0,,5-5-,27.2kg,$4.20,268,D1,15/10/2023,kinsley
+1013,1,Betsys Minnie (1),B Heaton,27.97,0.0,5.34,4442,26.2kg,$3.00,462,A4,15/10/2023,kinsley
+1014,2,Buzzers Delight (6),B Heaton,28.25,3.5,5.3,3334,33.4kg,$6.00,462,A4,15/10/2023,kinsley
+1015,3,Derrymore Ella (2),K Seville,28.37,5.0,5.18,1111,26.8kg,$3.60,462,A4,15/10/2023,kinsley
+1016,4,Ferndale Tok (5),W Lyons,28.55,7.25,5.34,5555,28.2kg,$13.00,462,A4,15/10/2023,kinsley
+1017,5,Doonanes Ned (4),J Zivkovic,28.57,7.5,5.3,2223,30.6kg,$4.50,462,A4,15/10/2023,kinsley
+1018,6,Sarsfields Lad (3),C W Brown,28.65,8.5,5.36,6666,28.6kg,$5.50,462,A4,15/10/2023,kinsley
+1019,1,Ballymac Dom (3),B Heaton,27.91,0.0,5.2,1111,30.8kg,$3.25,462,A3,15/10/2023,kinsley
+1020,2,Waste House Diva (6),S Oakes,28.15,3.0,5.39,4332,26.6kg,$3.50,462,A3,15/10/2023,kinsley
+1021,3,Wildcat Milza (2),Td Coote,28.19,3.5,5.39,3444,24.8kg,$3.80,462,A3,15/10/2023,kinsley
+1022,4,Springview Zoe (1),D E Fradgley,28.33,5.25,5.49,5555,25.0kg,$4.50,462,A3,15/10/2023,kinsley
+1023,5,Securely Built (4),J Zivkovic,28.43,6.5,5.2,2223,32.6kg,$8.00,462,A3,15/10/2023,kinsley
+1024,6,Marriedinamonth (5),B Heaton,28.73,10.25,5.47,6666,29.0kg,$15.00,462,A3,15/10/2023,kinsley
+1025,1,Ballymac Alyssa (1),B Heaton,27.83,0.0,5.29,2111,27.4kg,$3.60,462,A2,15/10/2023,kinsley
+1026,2,Sober Ballad (4),K Seville,28.07,3.0,5.23,1222,34.0kg,$4.50,462,A2,15/10/2023,kinsley
+1027,3,Gortroe Rainbow (2),D E Fradgley,28.11,3.5,5.31,3333,26.2kg,$7.00,462,A2,15/10/2023,kinsley
+1028,4,Saffron Tiger (3),B Heaton,28.35,6.5,5.36,4444,28.4kg,$15.00,462,A2,15/10/2023,kinsley
+1029,5,Easy Cookie (5),D E Fradgley,28.55,9.0,5.38,5555,25.0kg,$4.60,462,A2,15/10/2023,kinsley
+1030,6,Castlehill Jim (6),J Zivkovic,29.05,15.25,5.45,6666,34.6kg,$3.00,462,A2,15/10/2023,kinsley
+1031,1,Rough Rocko (5),McQuillan,17.91,0.0,4.47,2-2-,31.8kg,$1.50,297,ON2,15/10/2023,lifford
+1032,2,Swanley Duchess (3),Jf Mcgee,17.98,1.0,4.41,1-1-,26.8kg,$3.00,297,ON2,15/10/2023,lifford
+1033,3,Westrock Girl (2),D Mccomb,18.14,3.25,4.54,3-3-,28.2kg,$5.00,297,ON2,15/10/2023,lifford
+1034,4,Halo John (4),T Kelly,18.35,6.25,4.49,4-4-,30.0kg,$5.00,297,ON2,15/10/2023,lifford
+1035,5,Thats Life (1),N McGarry,18.45,7.75,4.6,5-5-,24.5kg,$7.00,297,ON2,15/10/2023,lifford
+1036,1,Hawkfield Abbie (2),Jf Mcgee,28.71,0.0,2.64,1111,26.8kg,$3.00,480,A1,15/10/2023,lifford
+1037,2,Wilms Blake (3),T Caughey,29.01,4.25,2.71,3222,33.2kg,$2.50,480,A1,15/10/2023,lifford
+1038,3,Fridays Dance (1),P Whyte,29.02,4.4,2.86,4333,30.5kg,$6.00,480,A1,15/10/2023,lifford
+1039,4,Xhaka (5),C Coyle,29.23,7.4,2.89,6554,33.6kg,$5.00,480,A1,15/10/2023,lifford
+1040,5,Flying Honours (4),N McGarry,29.38,9.65,2.79,5666,31.8kg,$13.00,480,A1,15/10/2023,lifford
+1041,6,Monroes Kiss (6),R White,29.52,11.65,2.7,2345,28.6kg,$7.00,480,A1,15/10/2023,lifford
+1042,1,John Boy Pakie (4),C Coyle,17.67,0.0,4.33,1-1-,35.9kg,$3.90,297,OR,15/10/2023,lifford
+1043,2,Oakfront Herbie (6),M Taggart,17.69,0.45,4.38,4-2-,31.4kg,$7.00,297,OR,15/10/2023,lifford
+1044,3,Shesanicelady (1),A Cullen,18.07,5.95,4.35,2-3-,27.7kg,$2.00,297,OR,15/10/2023,lifford
+1045,4,Naldo (5),D Crossan,18.11,6.6,4.46,6-4-,34.1kg,$9.00,297,OR,15/10/2023,lifford
+1046,5,Ontimeforthree (2),P Hughes,18.41,10.85,4.38,3-5-,33.2kg,$4.90,297,OR,15/10/2023,lifford
+1047,DNF,Lynseys Maddog (3),R Morrow,,,4.43,5-6-,28.6kg,,297,OR,15/10/2023,lifford
+1048,1,Corgrigg Tobben (6),,29.46,0.0,2.59,1111,34.1kg,$3.50,480,A6,15/10/2023,lifford
+1049,2,Glengar Wilder (5),,29.47,0.15,2.79,4322,32.7kg,$3.10,480,A6,15/10/2023,lifford
+1050,3,Kilbride Parish (3),J Hughes,29.73,3.9,2.83,5554,35.9kg,$5.00,480,A6,15/10/2023,lifford
+1051,4,No Reply (4),B Campbell,29.98,7.4,2.97,6665,27.7kg,$4.90,480,A6,15/10/2023,lifford
+1052,5,Harriestown Kid (1),J Aldridge,29.99,7.7,2.75,3446,30.9kg,$5.00,480,A6,15/10/2023,lifford
+1053,6,Serene Wildcat (2),D Ward,30.09,9.2,2.75,2233,34.1kg,$2.20,480,A6,15/10/2023,lifford
+1054,1,Do It Nidge (6),R White,17.85,0.0,4.52,4-1-,34.1kg,$1.65,297,S4,15/10/2023,lifford
+1055,2,Drowsy Sydney (4),T Caughey,18.2,5.0,4.37,2-2-,37.7kg,$5.00,297,S4,15/10/2023,lifford
+1056,3,Mayahs News (1),K O'kane,18.29,6.25,4.51,3-3-,26.8kg,$5.00,297,S4,15/10/2023,lifford
+1057,4,Brother Len (3),N Lecky,18.36,7.25,4.5,5-5-,32.7kg,$7.00,297,S4,15/10/2023,lifford
+1058,5,Tavneymore (2),B Campbell,18.46,8.75,4.37,1-4-,23.6kg,$7.00,297,S4,15/10/2023,lifford
+1059,1,Liberty Katy (4),S Radcliffe,29.03,0.0,2.75,3321,28.2kg,$3.10,480,A3,15/10/2023,lifford
+1060,2,Diggy Liggy Lo (2),M Taggart,29.38,5.0,2.71,1112,35.9kg,$3.20,480,A3,15/10/2023,lifford
+1061,3,Fridays Accolade (1),P Whyte,29.55,7.5,2.95,4444,28.2kg,$7.00,480,A3,15/10/2023,lifford
+1062,4,Breaghmore Mike (6),C Coyle,29.56,7.65,2.7,2233,38.6kg,$3.00,480,A3,15/10/2023,lifford
+1063,5,Townsend Jay (3),Jj Porter,29.81,11.15,2.83,5555,31.8kg,$11.00,480,A3,15/10/2023,lifford
+1064,6,Eager Princess (5),,30.21,16.9,2.79,6666,29.5kg,$7.00,480,A3,15/10/2023,lifford
+1065,1,Blastoff Buzz (5),A Cullen,17.69,0.0,4.53,2-1-,31.4kg,$1.80,297,S2,15/10/2023,lifford
+1066,2,Kilbride Classic (1),D Crossan,17.76,1.0,4.37,1-2-,30.9kg,$5.00,297,S2,15/10/2023,lifford
+1067,3,Starcash Barry (4),D Toland,17.97,4.0,4.48,3-4-,30.0kg,$11.00,297,S2,15/10/2023,lifford
+1068,3,Cool Trend (6),G Gibbons,17.97,4.0,4.56,5-3-,33.2kg,$7.00,297,S2,15/10/2023,lifford
+1069,5,Hells Fire (2),R Brolly,18.14,6.5,4.47,4-6-,34.1kg,$11.00,297,S2,15/10/2023,lifford
+1070,6,Peads Tip (3),C Nugent,18.16,6.95,4.54,6-5-,29.1kg,$3.40,297,S2,15/10/2023,lifford
+1071,1,Stefans Kid (6),S Campbell,28.91,0.0,2.64,2211,34.5kg,$2.10,480,A2,15/10/2023,lifford
+1072,2,She Did It (1),C Coyle,29.22,4.5,2.64,1122,31.8kg,$4.00,480,A2,15/10/2023,lifford
+1073,3,Manalishi Reb (2),J Kerr,29.35,6.25,2.7,4433,32.7kg,$4.10,480,A2,15/10/2023,lifford
+1074,4,Little Gambler (4),M Taggart,29.43,7.5,2.65,3344,35.9kg,$5.00,480,A2,15/10/2023,lifford
+1075,5,Kerrera (5),A Maxwell,29.68,11.0,2.77,5555,28.6kg,$11.00,480,A2,15/10/2023,lifford
+1076,1,Fawn Over You (7),J Udy & D Cottam,18.89,0.0,4.63,111.0,26.0kg,$4.75,318,C0,15/10/2023,manukau
+1077,2,Kapai Lisa (8),R Udy & L Bliek,19.0,1.7,,422.0,30.4kg,$8.00,318,C0,15/10/2023,manukau
+1078,3,Hunter Lou (3),R Udy & L Bliek,19.15,4.2,,733.0,30.1kg,$3.70,318,C0,15/10/2023,manukau
+1079,4,Stella Marie (6),Danielle M Elder,19.32,6.9,,344.0,28.0kg,$15.00,318,C0,15/10/2023,manukau
+1080,5,Not Quite White (4),Peter M Heterick,19.47,9.4,,565.0,25.4kg,$8.00,318,C0,15/10/2023,manukau
+1081,6,Waerenga Rosie (1),R Udy & L Bliek,19.47,9.6,,256.0,24.5kg,$23.00,318,C0,15/10/2023,manukau
+1082,7,Dashing Blazer (5),Norman P Green,19.57,11.1,,687.0,24.6kg,$4.75,318,C0,15/10/2023,manukau
+1083,8,Paddy's Finest (2),M & J Smith,19.58,11.4,,878.0,33.9kg,$7.00,318,C0,15/10/2023,manukau
+1084,1,Purple Heart (2),Emma Potts,18.59,0.0,,311.0,27.2kg,$2.05,318,C1,15/10/2023,manukau
+1085,2,Big Time Cherry (3),R & N O'Regan,19.06,7.7,,722.0,28.4kg,$16.00,318,C1,15/10/2023,manukau
+1086,3,Big Time Goat (1),R & N O'Regan,19.11,8.7,,833.0,25.2kg,$51.00,318,C1,15/10/2023,manukau
+1087,4,Jam Packed (4),J Udy & D Cottam,19.12,9.0,,254.0,28.5kg,$6.50,318,C1,15/10/2023,manukau
+1088,5,Joe Bananas (8),Danielle M Elder,19.18,10.0,,445.0,32.8kg,$11.00,318,C1,15/10/2023,manukau
+1089,6,Tate (7),Ian S O'Neill,19.27,11.5,,576.0,25.5kg,$3.10,318,C1,15/10/2023,manukau
+1090,7,Baby Bop (5),R & N O'Regan,19.3,12.0,,667.0,25.5kg,$41.00,318,C1,15/10/2023,manukau
+1091,8,Photonic Shadow (6),R Udy & L Bliek,19.46,14.7,4.74,188.0,29.0kg,$29.00,318,C1,15/10/2023,manukau
+1092,1,Idol Hit (2),Hayley V Mullane,31.11,0.0,,32111.0,28.6kg,$21.00,527,C1,15/10/2023,manukau
+1093,2,Opawa Wine (3),Sean Codlin,31.18,1.3,,64222.0,22.1kg,$3.90,527,C1,15/10/2023,manukau
+1094,3,Opawa Web (4),R & N O'Regan,31.31,3.3,,75433.0,35.5kg,$19.00,527,C1,15/10/2023,manukau
+1095,4,Boy Panda (8),Peter M Heterick,31.41,5.0,,23544.0,28.7kg,$2.60,527,C1,15/10/2023,manukau
+1096,5,Grace Foot (1),Justin P Foot,31.48,6.3,4.83,11355.0,28.4kg,$11.00,527,C1,15/10/2023,manukau
+1097,6,Omaticaya (7),Peter M Heterick,31.54,7.3,,46666.0,33.4kg,$5.50,527,C1,15/10/2023,manukau
+1098,7,Big Time Foxy (5),R & N O'Regan,31.55,7.6,,57777.0,27.9kg,$11.00,527,C1,15/10/2023,manukau
+1099,8,Hit The Nail (6),Norman P Green,31.83,12.3,,88888.0,31.8kg,$10.00,527,C1,15/10/2023,manukau
+1100,1,Bundee Bomber (7),Norman P Green,18.78,0.0,4.68,111.0,28.8kg,$9.50,318,C2,15/10/2023,manukau
+1101,2,Golden Fern (3),M & J Smith,19.06,4.7,,332.0,34.0kg,$1.70,318,C2,15/10/2023,manukau
+1102,3,Thrilling Vespa (1),Emma Potts,19.08,5.0,,223.0,27.5kg,$14.00,318,C2,15/10/2023,manukau
+1103,4,Thrilling Violet (2),J Udy & D Cottam,19.12,5.5,,544.0,26.8kg,$18.00,318,C2,15/10/2023,manukau
+1104,5,Allegro Kane (8),R & N O'Regan,19.28,8.2,,875.0,36.0kg,$8.50,318,C2,15/10/2023,manukau
+1105,6,Pina Colada (4),J Udy & D Cottam,19.28,8.3,,656.0,29.7kg,$19.00,318,C2,15/10/2023,manukau
+1106,7,Waiterimu Gem (6),R Udy & L Bliek,19.34,9.3,,767.0,26.7kg,$15.00,318,C2,15/10/2023,manukau
+1107,8,Midnight Faith (5),Allen J Christiansen,19.77,16.6,,488.0,27.2kg,$8.00,318,C2,15/10/2023,manukau
+1108,1,Opawa Barns (2),Samuel W Lozell,18.42,0.0,4.56,111.0,33.5kg,$3.40,318,C5,15/10/2023,manukau
+1109,2,You Ready Boots (7),Tracey & Lisa Craik,18.59,2.7,,322.0,29.7kg,$6.50,318,C5,15/10/2023,manukau
+1110,3,Smile A While (4),Tracey & Lisa Craik,18.85,7.2,,733.0,35.7kg,$7.50,318,C5,15/10/2023,manukau
+1111,4,Go Clifford (8),W & T Steele,18.96,8.9,,544.0,33.1kg,$12.00,318,C5,15/10/2023,manukau
+1112,5,Where's Neville (3),Tracey & Lisa Craik,19.0,9.6,,655.0,34.0kg,$4.75,318,C5,15/10/2023,manukau
+1113,6,Miss Rowdy (1),Allen J Christiansen,19.17,12.3,,466.0,29.4kg,$4.75,318,C5,15/10/2023,manukau
+1114,7,Ten After Four (5),Tracey & Lisa Craik,19.21,13.0,,877.0,36.8kg,$18.00,318,C5,15/10/2023,manukau
+1115,8,Zoe Star (6),Peter M Heterick,19.49,17.5,,288.0,27.9kg,$21.00,318,C5,15/10/2023,manukau
+1116,1,Hallow Night (5),J Udy & D Cottam,18.8,0.0,,311.0,25.3kg,$11.00,318,C1,15/10/2023,manukau
+1117,2,Cat Napping Nana (3),Kay T Herbert,18.85,0.7,,422.0,26.3kg,$3.90,318,C1,15/10/2023,manukau
+1118,3,Thrilling Dodge (2),Danielle M Elder,18.88,1.2,,833.0,35.5kg,$2.20,318,C1,15/10/2023,manukau
+1119,4,Tilly Wormwood (1),R & N O'Regan,19.1,4.9,4.73,144.0,26.0kg,$19.00,318,C1,15/10/2023,manukau
+1120,5,Smash Zone (4),R Udy & L Bliek,19.13,5.4,,255.0,25.4kg,$34.00,318,C1,15/10/2023,manukau
+1121,6,Starlink (8),Peter M Heterick,19.18,6.1,,566.0,24.6kg,$41.00,318,C1,15/10/2023,manukau
+1122,7,Big Time Gucci (7),R & N O'Regan,19.34,8.8,,787.0,29.1kg,$41.00,318,C1,15/10/2023,manukau
+1123,8,Ruidosa (6),Allen J Christiansen,19.4,9.8,,678.0,27.9kg,$4.10,318,C1,15/10/2023,manukau
+1124,1,Portland Lisa (4),Tracey & Lisa Craik,18.65,0.0,4.65,111.0,27.8kg,$1.50,318,C2,15/10/2023,manukau
+1125,2,Lar Grand Oaks (8),Hayley V Mullane,18.68,0.5,,422.0,28.6kg,$6.50,318,C2,15/10/2023,manukau
+1126,3,Coolibah Kid (2),J Udy & D Cottam,18.92,4.5,,233.0,31.6kg,$7.50,318,C2,15/10/2023,manukau
+1127,4,Dark Smoke (6),R Udy & L Bliek,18.98,5.2,,654.0,26.2kg,$12.00,318,C2,15/10/2023,manukau
+1128,5,Allegro Bryan (1),R & N O'Regan,18.98,5.3,,745.0,34.3kg,$19.00,318,C2,15/10/2023,manukau
+1129,6,Chipper's Choice (7),Norman P Green,19.1,7.3,,366.0,29.3kg,$21.00,318,C2,15/10/2023,manukau
+1130,7,Persian Chief (3),M & J Smith,19.17,8.6,,577.0,34.9kg,$14.00,318,C2,15/10/2023,manukau
+1131,1,Paddy Field (1),Glennis R Farrell,18.61,0.0,,411,25.5kg,$1.85,318,C4,15/10/2023,manukau
+1132,2,Maxima (6),Peter M Heterick,18.92,5.3,,332,25.4kg,$12.00,318,C4,15/10/2023,manukau
+1133,3,Ammonite (5),Tracey & Lisa Craik,18.92,5.5,,223,26.7kg,$8.50,318,C4,15/10/2023,manukau
+1134,4,Go Amber (4),W & T Steele,19.06,7.8,,854,23.8kg,$26.00,318,C4,15/10/2023,manukau
+1135,5,Rocked It (2),W & T Steele,19.06,8.0,,545,30.6kg,$10.00,318,C4,15/10/2023,manukau
+1136,6,Big Time Sticker (8),R & N O'Regan,19.17,9.7,,766,26.5kg,$13.00,318,C4,15/10/2023,manukau
+1137,7,Portland Trey (7),Tracey & Lisa Craik,19.26,11.2,,677,34.8kg,$7.00,318,C4,15/10/2023,manukau
+1138,8,Cappiello (3),Robert K Roper,19.54,15.9,4.64,188,26.3kg,$11.00,318,C4,15/10/2023,manukau
+1139,1,Opawa Sandy (4),W & T Steele,30.87,0.0,,31111,25.9kg,$7.00,527,C4,15/10/2023,manukau
+1140,2,Opawa Isaac (1),Glennis R Farrell,30.9,0.5,,74332,32.0kg,$4.25,527,C4,15/10/2023,manukau
+1141,3,Opawa Arlo (7),Glennis R Farrell,30.94,1.0,,46223,33.6kg,$10.00,527,C4,15/10/2023,manukau
+1142,4,Thrilling Tommy (8),M & J Smith,31.4,8.7,,22444,30.6kg,$11.00,527,C4,15/10/2023,manukau
+1143,5,Sweet Banjo (6),W & T Steele,31.41,9.0,,67555,31.9kg,$29.00,527,C4,15/10/2023,manukau
+1144,6,Hunter Jill (5),Robert K Roper,31.48,10.0,4.68,13666,25.6kg,$2.80,527,C4,15/10/2023,manukau
+1145,DNF,Irish Coffee (2),Daniel R Laing,,,,55f,33.6kg,,527,C4,15/10/2023,manukau
+1146,1,Apache Blyde (7),R Udy & L Bliek,18.73,0.0,,221.0,27.4kg,$10.00,318,C3,15/10/2023,manukau
+1147,2,Waerenga Nova (5),J Udy & D Cottam,18.77,0.7,4.57,112.0,26.4kg,$9.50,318,C3,15/10/2023,manukau
+1148,3,Thrilling Eva (4),Sean Codlin,18.82,1.4,,333.0,27.0kg,$2.80,318,C3,15/10/2023,manukau
+1149,4,Opawa Cody (8),Corey D Steele,18.89,2.7,,754.0,32.2kg,$8.00,318,C3,15/10/2023,manukau
+1150,5,Kettle Pot (1),Tracey & Lisa Craik,19.04,5.2,,445.0,33.8kg,$4.75,318,C3,15/10/2023,manukau
+1151,6,Rowdy Esmay (2),Allen J Christiansen,19.2,7.9,,876.0,27.9kg,$8.50,318,C3,15/10/2023,manukau
+1152,7,Suffice (6),Danielle M Elder,19.24,8.6,,587.0,33.2kg,$8.50,318,C3,15/10/2023,manukau
+1153,8,Big Time Audi (3),J Udy & D Cottam,19.24,8.8,,668.0,29.0kg,$15.00,318,C3,15/10/2023,manukau
+1154,1,Hunter Jack (1),Robert K Roper,30.6,0.0,,22211.0,32.1kg,$3.00,527,C23,15/10/2023,manukau
+1155,2,Opawa Hit (2),Glennis R Farrell,30.85,4.0,,53322.0,33.0kg,$4.60,527,C23,15/10/2023,manukau
+1156,3,Goofy Adobe (8),Corey D Steele,30.96,6.0,,36643.0,27.0kg,$8.50,527,C23,15/10/2023,manukau
+1157,4,Opawa Jenny (3),Glennis R Farrell,31.06,7.5,4.66,11134.0,26.0kg,$4.50,527,C23,15/10/2023,manukau
+1158,5,Opawa Pick (5),Corey D Steele,31.11,8.2,,87785.0,28.5kg,$8.50,527,C23,15/10/2023,manukau
+1159,6,Jay Ashley (7),W & T Steele,31.19,9.7,,44456.0,27.6kg,$19.00,527,C23,15/10/2023,manukau
+1160,7,Thrilling Nash (4),J Udy & D Cottam,31.2,10.0,,65567.0,35.6kg,$11.00,527,C23,15/10/2023,manukau
+1161,8,Quetzal Bale (6),Peter M Heterick,31.23,10.5,,78878.0,34.0kg,$29.00,527,C23,15/10/2023,manukau
+1162,1,Major Margaret (7),Tracey & Lisa Craik,18.67,0.0,,111.0,28.8kg,$6.00,318,C3,15/10/2023,manukau
+1163,2,Rowdy All Day (5),Allen J Christiansen,18.76,1.5,,222.0,28.2kg,$11.00,318,C3,15/10/2023,manukau
+1164,3,Loyal Redeemer (6),Danielle M Elder,18.79,2.0,,353.0,33.1kg,$21.00,318,C3,15/10/2023,manukau
+1165,3,Dapper Jabber (8),J Udy & D Cottam,18.79,2.0,,543.0,30.4kg,$5.50,318,C3,15/10/2023,manukau
+1166,5,You Pick One (1),Norman P Green,18.82,2.5,,435.0,26.3kg,$3.30,318,C3,15/10/2023,manukau
+1167,6,Big Time Lotus (2),J Udy & D Cottam,18.88,3.5,,766.0,27.9kg,$13.00,318,C3,15/10/2023,manukau
+1168,7,Big Time Harmony (3),Peter M Heterick,18.9,3.8,,677.0,28.0kg,$9.50,318,C3,15/10/2023,manukau
+1169,8,Highview Jess (4),Hayley V Mullane,19.0,5.5,,888.0,25.9kg,$4.75,318,C3,15/10/2023,manukau
+1170,1,Redshift Uniform (1),Jason Newman,43.6,0.0,16.55,,29.2kg,$1.55,732,SNP,15/10/2023,mount-gambier
+1171,2,Zipping Jazz (5),David Peckham,44.04,6.25,16.56,,33.3kg,$13.00,732,SNP,15/10/2023,mount-gambier
+1172,3,Send It Blue (4),Melissa Freitag,44.12,7.5,16.68,,30.5kg,$9.00,732,SNP,15/10/2023,mount-gambier
+1173,4,Iverson (6),Elizabeth Steel,44.17,8.25,16.74,,28.9kg,$26.00,732,SNP,15/10/2023,mount-gambier
+1174,5,Son Of Kimetto (7),Garry Elliott,44.26,9.25,16.96,,34.2kg,$9.50,732,SNP,15/10/2023,mount-gambier
+1175,6,Maximum Refusal (2),David Peckham,44.28,9.75,16.68,,33.2kg,$7.00,732,SNP,15/10/2023,mount-gambier
+1176,7,Ebby Justice (3),Tracie Price,44.34,10.5,16.19,,30.4kg,$10.00,732,SNP,15/10/2023,mount-gambier
+1177,8,Tigger's Run (8),David Green,44.36,10.75,16.95,,30.5kg,$15.00,732,SNP,15/10/2023,mount-gambier
+1178,1,Wild Milly (8),Tracie Price,23.29,0.0,11.05,,26.4kg,$2.60,400,M,15/10/2023,mount-gambier
+1179,2,Mr. Tandiki (7),Tracie Price,23.66,5.25,11.23,,31.7kg,$1.85,400,M,15/10/2023,mount-gambier
+1180,3,Can Get Thirsty (4),PETER KEANE,23.91,8.75,11.27,,26.9kg,$16.00,400,M,15/10/2023,mount-gambier
+1181,4,Jolly Roger (5),Raymond Mahony,24.15,12.25,11.52,,39.7kg,$21.00,400,M,15/10/2023,mount-gambier
+1182,5,Smart Operator (2),John Cameron,24.26,13.75,11.79,,29.8kg,$11.00,400,M,15/10/2023,mount-gambier
+1183,6,Kahu (1),John Cameron,24.29,14.25,11.55,,31.7kg,$9.00,400,M,15/10/2023,mount-gambier
+1184,1,Wild Banker (8),Tracie Price,23.23,0.0,10.79,,33.9kg,$2.30,400,J,15/10/2023,mount-gambier
+1185,2,Compton Charlie (1),Tracie Price,23.27,0.75,10.8,,33.8kg,$1.70,400,J,15/10/2023,mount-gambier
+1186,3,Mister Cadillac (4),Captain Abbott,23.49,3.75,11.19,,30.3kg,$11.00,400,J,15/10/2023,mount-gambier
+1187,4,Matetsi (5),Brendan Casey,23.69,6.5,11.24,,23.2kg,$21.00,400,J,15/10/2023,mount-gambier
+1188,5,Compton Brockie (2),Tracie Price,23.69,6.5,11.07,,31.4kg,$17.00,400,J,15/10/2023,mount-gambier
+1189,6,Paw Some Shade (7),David Green,23.94,10.0,11.33,,24.8kg,$101.00,400,J,15/10/2023,mount-gambier
+1190,1,Pursuit (7),Peter Crawley,17.47,0.0,5.79,,32.3kg,$6.50,305,O,15/10/2023,mount-gambier
+1191,2,Two Fifty Three (8),Adam Mackereth,17.68,3.0,5.83,,29.6kg,$9.00,305,O,15/10/2023,mount-gambier
+1192,3,Texas Alexis (4),Tracie Price,17.84,5.25,5.99,,26.9kg,$20.00,305,O,15/10/2023,mount-gambier
+1193,4,Federal Flash (3),David Peckham,17.96,7.0,,,32.6kg,$2.25,305,O,15/10/2023,mount-gambier
+1194,5,Banjo Bert (2),Tracie Price,18.11,9.25,5.86,,36.1kg,$7.50,305,O,15/10/2023,mount-gambier
+1195,6,Cadillac Ragtop (1),Kerry Lucy Hawker,18.14,9.5,5.87,,28.4kg,$3.25,305,O,15/10/2023,mount-gambier
+1196,7,Curly Fries (6),Peter Byrne,18.25,11.0,5.92,,32.3kg,$24.00,305,O,15/10/2023,mount-gambier
+1197,8,Robin's Choice (5),John Cameron,18.43,13.75,6.04,,31.5kg,$90.00,305,O,15/10/2023,mount-gambier
+1198,1,Bad Move (4),Tracie Price,17.56,0.0,5.84,,29.9kg,$4.75,305,O,15/10/2023,mount-gambier
+1199,2,Fend Them Off (2),Raymond Mahony,17.65,1.25,5.8,,30.9kg,$7.00,305,O,15/10/2023,mount-gambier
+1200,3,Buster Banjo (6),Tracie Price,17.69,1.75,5.86,,33.7kg,$3.00,305,O,15/10/2023,mount-gambier
+1201,4,All Damiro (1),Jason Newman,17.88,4.5,5.76,,27.0kg,$34.00,305,O,15/10/2023,mount-gambier
+1202,5,Aston Secret (3),Nicole Stanley,17.9,4.75,5.8,,24.5kg,$3.00,305,O,15/10/2023,mount-gambier
+1203,6,Aston Jerry (5),Aaron Blake,17.94,5.25,5.93,,32.4kg,$30.00,305,O,15/10/2023,mount-gambier
+1204,7,Cadillac Girl (7),Captain Abbott,18.01,6.25,5.86,,23.1kg,$14.00,305,O,15/10/2023,mount-gambier
+1205,8,Remo Trigger (8),Steven Colpoys,18.01,6.25,5.81,,22.3kg,$11.00,305,O,15/10/2023,mount-gambier
+1206,1,Camargo (4),Nicole Stanley,23.47,0.0,11.1,,25.4kg,$3.20,400,6,15/10/2023,mount-gambier
+1207,2,Cadillac Belle (7),Kerry Lucy Hawker,23.48,0.1,10.96,,26.0kg,$10.00,400,6,15/10/2023,mount-gambier
+1208,3,Oakvale Spirit (6),Melissa Freitag,23.68,3.0,11.16,,27.2kg,$4.00,400,6,15/10/2023,mount-gambier
+1209,4,Lynette Ann (1),David Peckham,23.72,3.5,10.91,,27.2kg,$3.00,400,6,15/10/2023,mount-gambier
+1210,5,Flax Mill (5),Brendan Casey,23.76,4.25,11.25,,28.5kg,$6.50,400,6,15/10/2023,mount-gambier
+1211,6,Velocity Georgia (2),Peter Crawley,23.94,6.5,11.17,,27.6kg,$15.00,400,6,15/10/2023,mount-gambier
+1212,7,Over Opal (8),Neville Lenehan,24.15,9.75,11.33,,26.9kg,$61.00,400,6,15/10/2023,mount-gambier
+1213,8,Rise As One (3),Richard Clayfield,24.16,9.75,11.31,,31.6kg,$41.00,400,6,15/10/2023,mount-gambier
+1214,1,Cadillac Lloyd (2),Kerry Lucy Hawker,23.29,0.0,10.96,,34.2kg,$2.90,400,6,15/10/2023,mount-gambier
+1215,2,Compton Lass (6),Tracie Price,23.47,2.5,11.03,,26.7kg,$4.40,400,6,15/10/2023,mount-gambier
+1216,3,Applejack Strait (1),Neville Lenehan,23.61,4.5,11.31,,26.9kg,$8.50,400,6,15/10/2023,mount-gambier
+1217,4,Chessmen (4),Elizabeth Steel,23.68,5.5,11.29,,32.4kg,$9.50,400,6,15/10/2023,mount-gambier
+1218,5,Swirling Miss (3),Allan Brookes,23.85,8.0,11.05,,24.4kg,$3.75,400,6,15/10/2023,mount-gambier
+1219,6,Saint Kimetto (7),Peter Byrne,23.96,9.5,11.59,,33.2kg,$9.00,400,6,15/10/2023,mount-gambier
+1220,7,Velocity Devine (8),Peter Crawley,24.16,12.25,11.47,,29.3kg,$29.00,400,6,15/10/2023,mount-gambier
+1221,8,Agnes (5),John Cameron,24.27,14.0,11.58,,26.0kg,$41.00,400,6,15/10/2023,mount-gambier
+1222,1,Gypsy Chick (1),Jason Newman,23.09,0.0,10.66,,30.0kg,$2.60,400,5,15/10/2023,mount-gambier
+1223,2,Paw Some Sloane (8),Melissa Freitag,23.26,2.25,10.98,,30.0kg,$2.50,400,5,15/10/2023,mount-gambier
+1224,3,Lektra Ringo (6),Jason Newman,23.38,4.25,11.02,,30.2kg,$11.00,400,5,15/10/2023,mount-gambier
+1225,4,Typhoon Thomas (5),PETER KEANE,23.41,4.5,10.79,,29.8kg,$4.90,400,5,15/10/2023,mount-gambier
+1226,5,My Madonna (3),Malcolm Keenan,23.74,9.25,11.24,,26.5kg,$14.00,400,5,15/10/2023,mount-gambier
+1227,6,Hey Tootle (7),Elizabeth Steel,24.23,16.25,11.17,,29.4kg,$51.00,400,5,15/10/2023,mount-gambier
+1228,7,Classic Scotch (2),David Fennell,24.52,20.25,11.07,,29.3kg,$34.00,400,5,15/10/2023,mount-gambier
+1229,8,Tanamera (4),Jason Newman,24.58,21.25,11.09,,33.3kg,$17.00,400,5,15/10/2023,mount-gambier
+1230,1,Paw Some Storm (8),David Green,23.07,0.0,10.85,,27.6kg,$1.30,400,O,15/10/2023,mount-gambier
+1231,2,Nitrogen Outlaw (6),Melissa Freitag,23.14,1.0,10.77,,35.1kg,$5.00,400,O,15/10/2023,mount-gambier
+1232,3,De La Cruz (1),Nicole Stanley,23.31,3.5,10.94,,29.8kg,$7.00,400,O,15/10/2023,mount-gambier
+1233,1,Chief Pow Wow (4),Noel Perry,30.27,0.0,4.49,,33.1kg,$11.00,512,6,15/10/2023,mount-gambier
+1234,2,Judiciary (1),Peter Crawley,30.29,0.25,4.62,,32.7kg,$2.75,512,6,15/10/2023,mount-gambier
+1235,3,Black Jester (8),Mary Blake,30.81,7.75,4.52,,33.2kg,$2.40,512,6,15/10/2023,mount-gambier
+1236,4,Sins To Burn (5),Lorraine Goodwin,30.83,8.0,4.48,,32.7kg,$4.30,512,6,15/10/2023,mount-gambier
+1237,5,Spot On Yvonne (7),Tracie Price,30.93,9.25,4.52,,28.8kg,$9.50,512,6,15/10/2023,mount-gambier
+1238,6,Silver Bella (2),Aaron Blake,31.02,10.5,4.54,,26.9kg,$101.00,512,6,15/10/2023,mount-gambier
+1239,1,Top Cadillac (1),Captain Abbott,29.64,0.0,,,31.8kg,$1.80,512,X345,15/10/2023,mount-gambier
+1240,2,Four Longnecks (8),Adam Mackereth,29.81,2.25,4.43,,29.7kg,$15.00,512,X345,15/10/2023,mount-gambier
+1241,3,Nero Valentino (2),Kerry Lucy Hawker,29.83,2.5,4.41,,31.7kg,$3.40,512,X345,15/10/2023,mount-gambier
+1242,4,Hannah Rocks (4),Tracie Price,30.25,8.75,4.52,,27.6kg,$15.00,512,X345,15/10/2023,mount-gambier
+1243,5,Compton Redeemer (5),Tracie Price,30.31,9.5,4.59,,34.8kg,$5.00,512,X345,15/10/2023,mount-gambier
+1244,6,Velocity Lotus (7),Jason Newman,30.39,10.5,4.53,,29.0kg,$19.00,512,X345,15/10/2023,mount-gambier
+1245,1,Devilish Child (7),Elysia Bartholomew,30.03,0.0,4.36,,28.0kg,$1.65,512,5,15/10/2023,mount-gambier
+1246,2,Velocity Seize (1),Peter Crawley,30.04,0.1,4.47,,28.0kg,$5.00,512,5,15/10/2023,mount-gambier
+1247,3,Grumpy Sailor (8),Raymond Mahony,30.17,2.0,4.54,,35.3kg,$15.00,512,5,15/10/2023,mount-gambier
+1248,4,Sugar Freak (4),Tracie Price,30.54,7.25,4.48,,26.1kg,$4.90,512,5,15/10/2023,mount-gambier
+1249,5,Rough Girl Skye (5),Noel Perry,30.59,8.0,4.48,,28.7kg,$8.50,512,5,15/10/2023,mount-gambier
+1250,1,Bawn Promise (4),D Byrne,29.88,0.0,3.5,2222,33.2kg,$4.50,480,A7,15/10/2023,mullingar
+1251,2,Droopys Katie (6),W Berry,29.98,1.5,3.53,1111,29.1kg,$2.50,480,A7,15/10/2023,mullingar
+1252,3,Dubawi (1),J Slevin,30.51,9.0,3.63,4333,30.9kg,$4.20,480,A7,15/10/2023,mullingar
+1253,4,House Rules (3),A Price,30.86,14.0,3.6,5544,26.8kg,$3.80,480,A7,15/10/2023,mullingar
+1254,5,Hawkfield Dream (2),P Doran,31.0,16.0,3.51,3455,25.0kg,$10.00,480,A7,15/10/2023,mullingar
+1255,6,Anytime Blue (5),C Loughman,31.45,22.5,3.61,6666,30.5kg,$13.00,480,A7,15/10/2023,mullingar
+1256,1,Abrakebabra Rock (1),W Berry,30.09,0.0,3.66,3331,32.3kg,$3.50,480,A6,15/10/2023,mullingar
+1257,2,Aintree Magic (2),J Slevin,30.23,2.0,3.69,5542,34.5kg,$9.50,480,A6,15/10/2023,mullingar
+1258,3,Jaxx Tebow (6),J J Cummins,30.3,3.0,3.57,2223,30.9kg,$3.00,480,A6,15/10/2023,mullingar
+1259,4,Bandit Fullswing (5),A Conlon,30.32,3.45,3.49,1114,26.4kg,$3.20,480,A6,15/10/2023,mullingar
+1260,5,Cardi Lilly (4),P Doran,30.34,3.9,3.63,4455,26.4kg,$12.00,480,A6,15/10/2023,mullingar
+1261,6,Kiltippin Paudge (3),C Loughman,30.41,4.9,3.67,6666,31.4kg,$5.50,480,A6,15/10/2023,mullingar
+1262,1,Margarets Rocky (1),D O'Neill,30.04,0.0,3.53,1111,30.0kg,$5.00,480,A6,15/10/2023,mullingar
+1263,2,Horseleap Betty (3),S Mcguinness,30.06,0.45,3.65,4332,31.4kg,$0.00,480,A6,15/10/2023,mullingar
+1264,3,Ballymurphy Teri (6),W Berry,30.09,1.1,3.67,5443,30.0kg,$5.00,480,A6,15/10/2023,mullingar
+1265,4,Home Niamh (5),M Campbell,30.16,2.1,3.54,2224,25.9kg,$7.50,480,A6,15/10/2023,mullingar
+1266,5,Runaround Daisy (2),C Loughman,30.44,6.1,3.58,3555,31.4kg,$3.25,480,A6,15/10/2023,mullingar
+1267,6,Moneyhill Beauty (4),D Doonan,30.76,10.6,3.68,6666,27.7kg,$8.00,480,A6,15/10/2023,mullingar
+1268,1,Bective Ink (5),Jj Quirke,29.79,0.0,3.55,2221,25.0kg,$4.10,480,A5,15/10/2023,mullingar
+1269,2,Bandit Pebbles (4),A Conlon,29.93,2.0,3.51,1112,26.4kg,$12.00,480,A5,15/10/2023,mullingar
+1270,3,Jaxx Noreen (1),B Steiner,29.94,2.3,3.58,3333,25.5kg,$4.00,480,A5,15/10/2023,mullingar
+1271,4,Lahinch Bowly (2),D Doonan,30.08,4.3,3.58,4444,30.9kg,$7.50,480,A5,15/10/2023,mullingar
+1272,5,Lahinch Roxy (3),P J Cleary,30.18,5.8,3.54,5555,26.8kg,$4.00,480,A5,15/10/2023,mullingar
+1273,6,Phoenix Sugarray (6),I Reilly,30.67,12.8,3.55,6666,29.1kg,$3.00,480,A5,15/10/2023,mullingar
+1274,1,Twenty (4),A Price,29.94,0.0,3.44,1121,31.4kg,$8.00,480,A4,15/10/2023,mullingar
+1275,1,Bective Ender (5),Jj Quirke,29.94,0.0,3.42,2212,27.3kg,$3.00,480,A4,15/10/2023,mullingar
+1276,3,Knockmonlea Joe (6),C Duffy,30.08,2.0,3.56,3443,31.4kg,$6.00,480,A4,15/10/2023,mullingar
+1277,4,Abrakebabra Duke (3),W Berry,30.15,3.0,3.44,4334,32.7kg,$3.00,480,A4,15/10/2023,mullingar
+1278,5,Dromrich Scathac (1),J Durrigan,30.18,3.65,3.57,6555,25.5kg,$4.20,480,A4,15/10/2023,mullingar
+1279,6,Lingrawn Billy (2),M Jones,30.46,7.65,3.55,5666,33.2kg,$9.50,480,A4,15/10/2023,mullingar
+1280,1,Private Jet (2),M Crowley,29.87,0.0,3.5,2211,33.6kg,$2.50,480,A4,15/10/2023,mullingar
+1281,2,Phoenix Minnie (4),I Reilly,29.89,0.45,3.38,1122,24.1kg,$8.00,480,A4,15/10/2023,mullingar
+1282,3,Bawn Buster (6),D Byrne,29.91,0.9,3.6,5443,32.7kg,$7.00,480,A4,15/10/2023,mullingar
+1283,4,Bandit Ella (3),A Conlon,29.98,1.9,3.58,4334,26.4kg,$6.50,480,A4,15/10/2023,mullingar
+1284,5,Drumroe Rocky (1),J J Cummins,30.22,5.4,3.58,6655,32.3kg,$4.00,480,A4,15/10/2023,mullingar
+1285,6,High Profile (5),J Slevin,31.24,19.9,3.46,3566,29.1kg,$4.50,480,A4,15/10/2023,mullingar
+1286,1,Clygeen Julie (1),B Kenny,29.45,0.0,3.45,1111,27.3kg,$4.50,480,A4,15/10/2023,mullingar
+1287,2,Lingrawn Woody (6),L Jones,29.8,5.0,3.43,2222,32.3kg,$11.00,480,A4,15/10/2023,mullingar
+1288,3,Barking Mad (2),C Loughman,29.87,6.0,3.54,4443,26.8kg,$5.00,480,A4,15/10/2023,mullingar
+1289,4,Sunshine Jewel (4),O Bray,30.04,8.5,3.45,3334,29.5kg,$3.10,480,A4,15/10/2023,mullingar
+1290,5,Horseleap Edel (5),S Mcguinness,30.08,9.15,3.57,5555,30.9kg,$4.50,480,A4,15/10/2023,mullingar
+1291,6,Bective Cherry (3),Jj Quirke,30.36,13.15,3.64,6666,27.7kg,$4.50,480,A4,15/10/2023,mullingar
+1292,1,Lingrawn Buzz (1),L Jones,29.52,0.0,3.45,1111,32.3kg,$4.10,480,A3,15/10/2023,mullingar
+1293,2,Lahinch Jake (4),P J Cleary,29.73,3.0,3.49,2222,32.7kg,$2.75,480,A3,15/10/2023,mullingar
+1294,3,Bective Silver (2),Jj Quirke,29.76,3.65,3.55,4433,27.3kg,$5.00,480,A3,15/10/2023,mullingar
+1295,4,Urban Parade (3),A Hamilton,29.83,4.65,3.54,5554,39.1kg,$7.50,480,A3,15/10/2023,mullingar
+1296,5,Gainstown Comet (6),J Slevin,29.94,6.15,3.45,3345,30.0kg,$3.90,480,A3,15/10/2023,mullingar
+1297,6,Ballycairn Banjo (5),E Henrick,30.01,7.15,3.76,6666,28.6kg,$10.00,480,A3,15/10/2023,mullingar
+1298,1,Home Cathal (5),M Campbell,29.35,0.0,3.44,1111,33.2kg,$4.30,480,A3,15/10/2023,mullingar
+1299,2,Revilo Ruby (6),P Fitzpatrick,29.45,1.5,3.49,3222,26.8kg,$4.90,480,A3,15/10/2023,mullingar
+1300,3,Chameleon (4),A Price,29.66,4.5,3.58,4333,29.1kg,$4.00,480,A3,15/10/2023,mullingar
+1301,4,Lingrawn Lola (2),M Jones,29.98,9.0,3.5,2444,25.9kg,$9.00,480,A3,15/10/2023,mullingar
+1302,5,Bective Hope (3),Jj Quirke,30.22,12.5,3.75,6665,28.6kg,$9.50,480,A3,15/10/2023,mullingar
+1303,6,Phoenix Kingdom (1),I Reilly,30.29,13.5,3.58,5556,33.6kg,$2.50,480,A3,15/10/2023,mullingar
+1304,1,Home Rian (3),M Campbell,29.48,0.0,3.39,2211,32.3kg,$4.00,480,A2,15/10/2023,mullingar
+1305,2,Faydas Charm (1),A Hamilton,29.51,0.65,3.44,4332,27.7kg,$3.50,480,A2,15/10/2023,mullingar
+1306,3,Lingrawn Aoife (2),L Jones,29.69,3.15,3.4,1123,29.1kg,$3.90,480,A2,15/10/2023,mullingar
+1307,4,Phoenix Zara (5),I Reilly,29.76,4.15,3.64,6554,26.8kg,$9.00,480,A2,15/10/2023,mullingar
+1308,5,Dutch Pammi (6),D O'Neill,29.9,6.15,3.49,5665,29.1kg,$8.50,480,A2,15/10/2023,mullingar
+1309,6,Roll It Baby (4),L Cummins,30.07,8.65,3.41,3446,27.3kg,$3.40,480,A2,15/10/2023,mullingar
+1310,1,Ridleys Outlook (5),D Curry,26.54,0.0,5.58,2111,27.2kg,$3.75,435,A4,15/10/2023,pelaw-grange
+1311,2,Monevassia (4),C Campbell,26.58,0.5,5.75,5322,24.5kg,$4.60,435,A4,15/10/2023,pelaw-grange
+1312,3,Kylevan Jade (6),D Campbell,26.9,4.5,5.82,6554,26.1kg,$4.30,435,A4,15/10/2023,pelaw-grange
+1313,4,Hollyhill Magic (3),MJ Watson,27.06,6.5,5.57,1233,32.3kg,$7.00,435,A4,15/10/2023,pelaw-grange
+1314,5,Missouri Control (2),G Walker,27.34,10.0,5.61,4445,32.2kg,$3.10,435,A4,15/10/2023,pelaw-grange
+1315,6,Millies Raven (1),K Kennedy,27.38,10.5,5.61,3666,26.6kg,$13.00,435,A4,15/10/2023,pelaw-grange
+1316,1,Mad Woman (3),G Walker,26.37,0.0,5.45,1111,28.0kg,$3.60,435,A4,15/10/2023,pelaw-grange
+1317,2,Border Comet (6),L Eagleton,26.43,0.75,5.55,2222,30.6kg,$3.50,435,A4,15/10/2023,pelaw-grange
+1318,3,Taplagh Tom (1),MJ Watson,26.59,2.75,5.56,4333,32.2kg,$3.80,435,A4,15/10/2023,pelaw-grange
+1319,4,Rackethall Alex (2),R Rotherham,26.73,4.5,5.61,5455,35.0kg,$9.50,435,A4,15/10/2023,pelaw-grange
+1320,5,Katies Starburst (5),C Raymond,26.81,5.5,5.6,3544,26.9kg,$4.00,435,A4,15/10/2023,pelaw-grange
+1321,6,Dipton Ranger (4),R Bennett,28.05,21.0,5.81,6666,27.2kg,$13.00,435,A4,15/10/2023,pelaw-grange
+1322,1,Ryecroft Rosa (4),K Kennedy,27.22,0.0,6.08,4543,23.8kg,$2.50,435,A7,15/10/2023,pelaw-grange
+1323,2,Gypsy Sam (2),H Burton,27.32,1.25,5.94,5222,32.5kg,$7.50,435,A7,15/10/2023,pelaw-grange
+1324,3,Gypsy Molly (1),H Burton,27.4,2.25,5.82,3111,27.9kg,$4.60,435,A7,15/10/2023,pelaw-grange
+1325,4,Havana Yvonne (3),K Kennedy,27.8,7.25,6.03,2435,26.7kg,$2.70,435,A7,15/10/2023,pelaw-grange
+1326,5,Gypsy Bobby (5),H Burton,27.96,9.25,5.99,1354,33.9kg,$10.00,435,A7,15/10/2023,pelaw-grange
+1327,6,Havana Post (6),K Kennedy,27.98,9.5,6.14,6666,26.1kg,$17.00,435,A7,15/10/2023,pelaw-grange
+1328,1,Alecs Garden (2),S Maxwell,26.24,0.0,5.7,5311,26.0kg,$3.00,435,A6,15/10/2023,pelaw-grange
+1329,2,Glengiblin Buick (6),R McCarthy,26.54,3.75,5.76,6442,34.4kg,$4.00,435,A6,15/10/2023,pelaw-grange
+1330,3,Pennylane Knight (5),L Eagleton,26.72,6.0,5.68,3234,29.5kg,$6.00,435,A6,15/10/2023,pelaw-grange
+1331,4,Syds Lad (3),C J Murray,26.9,8.25,5.65,4555,28.3kg,$3.40,435,A6,15/10/2023,pelaw-grange
+1332,5,Fawn Aldinho (4),C Campbell,26.94,8.75,5.62,1123,31.4kg,$13.00,435,A6,15/10/2023,pelaw-grange
+1333,6,Glengiblin Sweep (1),R McCarthy,28.26,25.25,5.66,2666,33.3kg,$6.00,435,A6,15/10/2023,pelaw-grange
+1334,1,Great Redemption (4),R Knights,26.29,0.0,5.65,5432,34.6kg,$5.00,435,A5,15/10/2023,pelaw-grange
+1335,2,Sandyhill Jess (2),MJ Watson,26.3,0.15,5.5,2111,27.7kg,$3.10,435,A5,15/10/2023,pelaw-grange
+1336,3,Emers Maeve (5),R Rotherham,26.6,3.9,5.49,1223,28.9kg,$6.00,435,A5,15/10/2023,pelaw-grange
+1337,4,Shine Time (6),L Eagleton,26.64,4.4,5.67,6655,27.5kg,$4.50,435,A5,15/10/2023,pelaw-grange
+1338,5,Ridleys Banner (3),D Curry,26.72,5.4,5.59,3344,34.8kg,$8.00,435,A5,15/10/2023,pelaw-grange
+1339,6,So Its Power (1),L Eagleton,26.74,5.65,5.69,4566,32.6kg,$4.25,435,A5,15/10/2023,pelaw-grange
+1340,1,Alec The Miner (2),S Maxwell,26.1,0.0,5.65,6311,30.9kg,$1.70,435,A5,15/10/2023,pelaw-grange
+1341,2,Glengiblin Jet (1),R McCarthy,26.3,2.5,5.74,5432,27.5kg,$7.00,435,A5,15/10/2023,pelaw-grange
+1342,3,Great Diva (3),C J Murray,26.36,3.25,5.65,2243,29.2kg,$4.50,435,A5,15/10/2023,pelaw-grange
+1343,4,Glengiblinpippin (5),R McCarthy,26.62,6.5,5.69,3555,26.6kg,$6.00,435,A5,15/10/2023,pelaw-grange
+1344,5,Dingys Sienna (4),K Kennedy,26.63,6.65,5.58,1124,24.5kg,$17.00,435,A5,15/10/2023,pelaw-grange
+1345,6,Butterbridge Kaz (6),R Rotherham,27.03,11.65,5.77,4666,30.4kg,$9.00,435,A5,15/10/2023,pelaw-grange
+1346,1,Bowline Velasco (2),Kearney,26.11,0.0,5.58,3221,33.0kg,$4.40,435,A3,15/10/2023,pelaw-grange
+1347,2,Diegos Lugelle (6),R McCarthy,26.12,0.15,5.42,1112,27.0kg,$3.50,435,A3,15/10/2023,pelaw-grange
+1348,3,Toffee Trippett (1),I Hopper,26.18,0.9,5.63,2333,32.5kg,$4.30,435,A3,15/10/2023,pelaw-grange
+1349,4,Classy Afternoon (5),S J Storrie,26.46,4.4,5.57,6544,25.5kg,$6.00,435,A3,15/10/2023,pelaw-grange
+1350,5,Jaguar Emma (3),G Walker,26.54,5.4,5.57,4455,28.8kg,$3.75,435,A3,15/10/2023,pelaw-grange
+1351,6,Arlos Saint Lucy (4),S Maxwell,26.62,6.4,5.59,5666,25.5kg,$10.00,435,A3,15/10/2023,pelaw-grange
+1352,1,Annadown Cuddles (5),R Knights,25.74,0.0,5.5,2221,28.8kg,$2.90,435,A2,15/10/2023,pelaw-grange
+1353,2,Milagro (4),L Eagleton,25.98,3.0,5.43,1112,32.3kg,$3.60,435,A2,15/10/2023,pelaw-grange
+1354,3,Ellie O (3),Kearney,26.22,6.0,5.55,3333,30.0kg,$9.50,435,A2,15/10/2023,pelaw-grange
+1355,4,Ballymac Stormi (2),Kearney,26.58,10.5,5.82,5555,26.4kg,$5.00,435,A2,15/10/2023,pelaw-grange
+1356,5,Mustang Tyson (1),I Hopper,26.78,13.0,5.63,4444,33.3kg,$3.40,435,A2,15/10/2023,pelaw-grange
+1357,1,Salems Bewitched (6),K Kennedy,26.56,0.0,5.6,3322,32.8kg,$1.90,435,A7,15/10/2023,pelaw-grange
+1358,2,Ross Endeavour (1),D Wilkinson,26.76,2.5,5.61,2111,31.0kg,$4.20,435,A7,15/10/2023,pelaw-grange
+1359,3,Berts Sabre (2),P Richardson,26.9,4.25,5.63,4443,33.0kg,$2.60,435,A7,15/10/2023,pelaw-grange
+1360,4,Chuffing Mary (5),H Burton,27.02,5.75,5.87,5555,26.7kg,$17.00,435,A7,15/10/2023,pelaw-grange
+1361,5,Loffas Bruno (3),H Burton,27.46,11.25,5.61,1234,28.9kg,$20.00,435,A7,15/10/2023,pelaw-grange
+1362,1,Glengiblin Star (6),R McCarthy,26.82,0.0,5.56,1111,28.1kg,$6.50,435,A6,15/10/2023,pelaw-grange
+1363,2,Glengiblinpickle (1),R McCarthy,27.22,5.0,5.73,3323,26.6kg,$8.00,435,A6,15/10/2023,pelaw-grange
+1364,3,Jaguar Wizard (5),K Kennedy,27.28,5.75,5.61,2432,27.0kg,$4.90,435,A6,15/10/2023,pelaw-grange
+1365,4,Breakthru Oax (3),H Burton,27.34,6.5,5.76,6665,28.9kg,$3.70,435,A6,15/10/2023,pelaw-grange
+1366,5,Thats Cool Sport (4),G Walker,27.4,7.25,5.62,4244,34.5kg,$3.80,435,A6,15/10/2023,pelaw-grange
+1367,6,Granada Flame (2),C Raymond,27.54,9.0,5.72,5556,26.8kg,$3.80,435,A6,15/10/2023,pelaw-grange
+1368,1,Au Contraire (7),Sam Sultana,18.18,0.0,2.18,111.0,25.0kg,$1.55,320,M,15/10/2023,richmond
+1369,2,Crockett's Flyer (5),John Chapman,18.62,6.25,2.23,464.0,33.6kg,$14.00,320,M,15/10/2023,richmond
+1370,3,She Said Yes (8),Sam Simonetta,18.77,8.25,2.27,373.0,29.2kg,$15.00,320,M,15/10/2023,richmond
+1371,4,Summer's Dream (6),Angela Murray,19.01,11.75,2.17,832.0,26.4kg,$13.00,320,M,15/10/2023,richmond
+1372,5,Forgotten Few (1),Darren Wort,19.21,14.5,2.21,655.0,33.1kg,$10.00,320,M,15/10/2023,richmond
+1373,6,You Got This (2),Brian Smoothy,19.46,18.25,2.82,786.0,34.1kg,$21.00,320,M,15/10/2023,richmond
+1374,7,Our Little Dream (3),Helen Lomas,19.57,19.75,2.19,248.0,27.3kg,$8.00,320,M,15/10/2023,richmond
+1375,8,Really Quiet (4),Darren Wort,19.88,24.25,2.18,527.0,30.6kg,$9.00,320,M,15/10/2023,richmond
+1376,1,Astro Girl (5),Jason Magri,22.95,0.0,6.7,311.0,27.5kg,$1.60,401,M,15/10/2023,richmond
+1377,2,Go Go Ethics (2),Samantha-Jade Rathbone,23.39,6.25,6.95,553.0,29.2kg,$41.00,401,M,15/10/2023,richmond
+1378,3,Steal A March (4),Melinda Finn,23.4,6.25,6.9,134.0,30.0kg,$2.60,401,M,15/10/2023,richmond
+1379,4,Luxio Wave (7),Victor Sultana,23.47,7.5,6.83,422.0,29.8kg,$11.00,401,M,15/10/2023,richmond
+1380,5,Lady Sif (8),Fay Wotton,23.55,8.5,6.91,245.0,26.6kg,$34.00,401,M,15/10/2023,richmond
+1381,6,Mighty Dukey (3),Lewis Galea,23.83,12.5,7.18,766.0,32.6kg,$34.00,401,M,15/10/2023,richmond
+1382,7,Roman Wolf (6),Andrew Bell,23.9,13.5,7.22,677.0,33.1kg,$101.00,401,M,15/10/2023,richmond
+1383,8,Fast Rock Harada (1),John Chapman,24.32,19.5,7.28,888.0,28.6kg,$17.00,401,M,15/10/2023,richmond
+1384,1,Zipping Savannah (4),John Finn,18.38,0.0,2.15,311.0,27.8kg,$3.75,320,5,15/10/2023,richmond
+1385,2,Both Bowers Ace (5),Melinda Finn,18.42,0.75,2.21,542.0,31.9kg,$3.10,320,5,15/10/2023,richmond
+1386,3,Dumpling (1),Christopher Green,18.71,4.75,2.19,763.0,27.2kg,$4.00,320,5,15/10/2023,richmond
+1387,4,Marley Emgrand (3),Luke Azzopardi,18.72,4.75,2.22,834.0,27.4kg,$4.90,320,5,15/10/2023,richmond
+1388,5,Zingy Chick (6),Christine Proctor,18.77,5.5,2.2,455.0,32.2kg,$17.00,320,5,15/10/2023,richmond
+1389,6,Emerald Pearl (2),Paul Camilleri,18.86,6.75,2.22,177.0,26.5kg,$61.00,320,5,15/10/2023,richmond
+1390,7,Diva Chick (7),Brian Smoothy,18.93,7.75,2.27,688.0,25.7kg,$22.00,320,5,15/10/2023,richmond
+1391,8,Rainbow's Gold (8),Nathan Hedley,19.07,9.75,2.18,226.0,30.5kg,$17.00,320,5,15/10/2023,richmond
+1392,1,Secrets Revealed (6),Melinda Finn,18.3,0.0,2.15,211.0,29.8kg,$3.10,320,5,15/10/2023,richmond
+1393,2,Sammy My Boy (1),Joseph Sciberras,18.62,4.5,2.24,342.0,32.9kg,$3.10,320,5,15/10/2023,richmond
+1394,3,Jasper Kimetto (4),Darren Mines,18.71,5.75,2.29,776.0,29.7kg,$34.00,320,5,15/10/2023,richmond
+1395,4,Poco Rico (7),Melinda Finn,18.81,7.25,2.16,123.0,32.6kg,$2.25,320,5,15/10/2023,richmond
+1396,5,Flaming Sonia (8),Andrew Bell,18.95,9.25,2.2,534.0,24.4kg,$34.00,320,5,15/10/2023,richmond
+1397,6,Swift And Sassy (5),Christopher Green,18.96,9.25,2.27,468.0,28.1kg,$61.00,320,5,15/10/2023,richmond
+1398,7,Super Jane (3),Lewis Galea,19.06,10.75,2.36,887.0,25.7kg,$90.00,320,5,15/10/2023,richmond
+1399,8,Solar Bright (2),Pauline Moran,19.15,12.25,2.25,655.0,30.1kg,$31.00,320,5,15/10/2023,richmond
+1400,1,Mighty Seven (4),Lewis Galea,18.26,0.0,2.17,553.0,32.2kg,$9.00,320,5,15/10/2023,richmond
+1401,2,Good Odds Honey (1),Andrew Bell,18.56,4.25,2.12,441.0,24.3kg,$3.75,320,5,15/10/2023,richmond
+1402,3,Sally Sunrise (6),Sam Simonetta,18.68,6.0,2.11,224.0,27.2kg,$5.50,320,5,15/10/2023,richmond
+1403,4,Divine Data (5),Luke Azzopardi,18.78,7.5,2.07,112.0,29.8kg,$11.00,320,5,15/10/2023,richmond
+1404,5,Gets Late Early (8),Melinda Finn,18.94,9.75,2.13,335.0,25.8kg,$3.00,320,5,15/10/2023,richmond
+1405,6,Winlock Alex (2),Gregory Stenner,18.97,10.0,2.3,888.0,27.6kg,$23.00,320,5,15/10/2023,richmond
+1406,7,Brownlow Flyer (7),Andrew Meredith,19.26,14.25,2.22,776.0,28.7kg,$7.00,320,5,15/10/2023,richmond
+1407,8,Gledhill Junior (3),Ronald Hoogenboom,19.42,16.5,2.22,667.0,25.1kg,$14.00,320,5,15/10/2023,richmond
+1408,1,Cheeky Cheeky (1),Anthony Messina,18.18,0.0,2.15,741.0,26.4kg,$1.60,320,5,15/10/2023,richmond
+1409,2,Arthur Or Martha (2),Christine Proctor,18.42,3.5,2.12,112.0,34.0kg,$7.50,320,5,15/10/2023,richmond
+1410,3,Zipping Swift (5),John Finn,18.49,4.25,2.18,235.0,27.3kg,$4.10,320,5,15/10/2023,richmond
+1411,4,Flyin' Ethics (8),Andrew Bell,18.65,6.5,2.65,383.0,28.4kg,$24.00,320,5,15/10/2023,richmond
+1412,5,Gledhill's Gal (3),Ronald Hoogenboom,18.69,7.25,2.15,424.0,26.6kg,$21.00,320,5,15/10/2023,richmond
+1413,6,Might Have Been (6),Melinda Finn,18.69,7.25,2.25,667.0,30.0kg,$12.00,320,5,15/10/2023,richmond
+1414,7,Aussie Ollie (7),Joel Baxter,18.95,11.0,2.28,878.0,32.4kg,$51.00,320,5,15/10/2023,richmond
+1415,8,Believe The Hype (4),Christopher Carl,19.03,12.25,2.22,556.0,26.6kg,$34.00,320,5,15/10/2023,richmond
+1416,1,Thing One (1),Andrew Bell,18.51,0.0,2.13,321.0,26.5kg,$5.50,320,5,15/10/2023,richmond
+1417,2,Cruise Or Lose (2),Anthony Messina,18.56,0.75,2.12,212.0,26.7kg,$4.20,320,5,15/10/2023,richmond
+1418,3,Strawberry Shake (3),Brian Smoothy,18.68,2.25,2.22,775.0,30.0kg,$15.00,320,5,15/10/2023,richmond
+1419,4,Solar Space (7),Pauline Moran,18.82,4.25,2.13,846.0,27.7kg,$7.50,320,5,15/10/2023,richmond
+1420,5,Spark Ricciardo (4),Christopher Green,18.87,5.25,2.17,553.0,34.6kg,$2.40,320,5,15/10/2023,richmond
+1421,6,Burner Up Burner (5),Vicki Byrnes,18.94,6.0,2.23,668.0,31.3kg,$10.00,320,5,15/10/2023,richmond
+1422,7,Cosmic Boom (6),Leonard Polidano,19.0,7.0,2.3,487.0,31.4kg,$16.00,320,5,15/10/2023,richmond
+1423,8,Optimus Eli (8),N Auld,19.62,15.75,2.14,134.0,31.4kg,$34.00,320,5,15/10/2023,richmond
+1424,1,All Up Jimmy (6),Joseph Sciberras,23.06,0.0,6.86,432.0,31.7kg,$3.00,401,5,15/10/2023,richmond
+1425,2,Black Rocket (1),Christos Arletos,23.34,4.0,6.75,511.0,33.1kg,$6.00,401,5,15/10/2023,richmond
+1426,3,Princess Albert (8),Lewis Galea,23.39,4.75,6.88,144.0,27.3kg,$3.50,401,5,15/10/2023,richmond
+1427,4,Lanmor Beauty (2),Pauline Moran,23.51,6.25,6.87,223.0,26.1kg,$15.00,401,5,15/10/2023,richmond
+1428,5,Speedy Sonic (7),John Polidano,23.63,8.25,6.99,365.0,27.6kg,$24.00,401,5,15/10/2023,richmond
+1429,6,Hard Choice (4),Graham Roylett,23.79,10.25,6.96,757.0,32.4kg,$15.00,401,5,15/10/2023,richmond
+1430,7,Zarude (5),John Polidano,23.82,10.75,7.08,688.0,28.9kg,$34.00,401,5,15/10/2023,richmond
+1431,8,Officer Dibble (3),Christine Proctor,24.25,17.0,6.97,876.0,32.1kg,$4.00,401,5,15/10/2023,richmond
+1432,1,Lithgow Road (7),Paul Roach,29.86,0.0,4.38,3111.0,30.6kg,$1.60,520,X45,15/10/2023,richmond
+1433,2,Solo Chopper (4),Ian Forno,30.38,7.5,4.58,6642.0,40.5kg,$6.00,520,X45,15/10/2023,richmond
+1434,3,Fool Around (1),Trevor Jansen,30.78,13.25,4.47,5454.0,31.8kg,$3.00,520,X45,15/10/2023,richmond
+1435,4,Pattaya Pete (8),Mathew Wotton,30.92,15.0,4.45,2333.0,33.4kg,$23.00,520,X45,15/10/2023,richmond
+1436,5,Aussie Jade (6),Andrew Bell,31.24,19.75,4.48,4566.0,27.4kg,$34.00,520,X45,15/10/2023,richmond
+1437,DNF,Black Book (2),Fay Wotton,,,,1225.0,31.7kg,,520,X45,15/10/2023,richmond
+1438,1,Danika Vella (1),Darren Sultana,22.9,0.0,6.63,411,29.6kg,$2.60,401,X45,15/10/2023,richmond
+1439,2,Probation (8),Christopher Brennen,23.11,3.0,6.89,542,33.2kg,$8.50,401,X45,15/10/2023,richmond
+1440,3,Mrs. Chop (2),Caroline Hughes,23.16,3.75,6.79,623,30.6kg,$2.75,401,X45,15/10/2023,richmond
+1441,4,Stretch Around (3),Trevor Jansen,23.25,5.0,6.93,765,30.6kg,$4.40,401,X45,15/10/2023,richmond
+1442,5,Mean Blake (4),Andrew Bell,23.42,7.5,6.81,134,30.3kg,$51.00,401,X45,15/10/2023,richmond
+1443,6,Too Cool Lad (6),Darren Wort,23.58,9.75,6.92,256,30.3kg,$11.00,401,X45,15/10/2023,richmond
+1444,7,Sophie Did It (7),Ashley Marshall,25.16,32.25,7.38,377,27.8kg,$41.00,401,X45,15/10/2023,richmond
+1445,1,Bodacious Star (6),John Chapman,18.4,0.0,2.15,332.0,34.2kg,$4.25,320,M23,15/10/2023,richmond
+1446,2,Corless Crazy (5),Tayt Corless,18.62,3.0,2.13,111.0,33.5kg,$3.20,320,M23,15/10/2023,richmond
+1447,3,Blakey Boy (2),Mackayla Clarke,18.71,4.25,2.22,665.0,29.5kg,$15.00,320,M23,15/10/2023,richmond
+1448,4,Wet Socks (1),Anthony Messina,18.78,5.25,2.16,543.0,30.7kg,$5.50,320,M23,15/10/2023,richmond
+1449,5,Pacific Gold (3),Andrew Meredith,18.81,5.75,2.13,224.0,32.8kg,$3.50,320,M23,15/10/2023,richmond
+1450,6,Acting Foolish (7),Joanne Zammit,18.87,6.5,2.15,456.0,31.7kg,$8.00,320,M23,15/10/2023,richmond
+1451,7,Good Job Bob (4),Brian Smoothy,19.04,9.25,2.26,777.0,32.7kg,$81.00,320,M23,15/10/2023,richmond
+1452,1,Ambrosia Tux (1),Bruce King,18.39,0.0,2.1,431,25.6kg,$2.25,320,X34,15/10/2023,richmond
+1453,2,Sweet Venom (4),Gregory Sutherland,18.49,1.5,2.18,552,29.9kg,$21.00,320,X34,15/10/2023,richmond
+1454,3,Angel Child (7),Brian Smoothy,18.53,2.0,2.18,664,25.2kg,$6.00,320,X34,15/10/2023,richmond
+1455,4,Zeroed In (5),Patricia Chaker,18.58,2.5,2.14,346,25.6kg,$3.50,320,X34,15/10/2023,richmond
+1456,5,Miss Go Between (8),Victor Sultana,18.63,3.5,2.1,113,28.7kg,$5.00,320,X34,15/10/2023,richmond
+1457,6,Snowy Ethics (2),Andrew Bell,18.74,5.0,2.09,225,22.9kg,$17.00,320,X34,15/10/2023,richmond
+1458,1,Aussie Can Fly (5),Dawn Johnston,24.66,0.0,5.28,M/222,30.9kg,$24.00,435,X67,15/10/2023,sale
+1459,2,Omega Travis (1),Barry Harper,24.66,0.04,5.23,Q/111,31.3kg,$2.00,435,X67,15/10/2023,sale
+1460,3,Omega Texas (6),Barry Harper,24.69,0.47,5.4,S/533,31.8kg,$3.20,435,X67,15/10/2023,sale
+1461,4,Bingo Beanie (7),Kathleen Fogarty,24.86,2.81,5.39,M/444,35.3kg,$10.00,435,X67,15/10/2023,sale
+1462,5,Victory Bend (4),Adrian Smit,24.98,4.5,5.29,Q/355,31.3kg,$26.00,435,X67,15/10/2023,sale
+1463,6,Victory Chad (3),Adrian Smit,25.11,6.4,5.44,M/776,30.4kg,$13.00,435,X67,15/10/2023,sale
+1464,7,Fergus Bale (8),Mark Delbridge,25.2,7.63,5.43,M/667,33.9kg,$11.00,435,X67,15/10/2023,sale
+1465,8,Steele Jakit (2),Andrew Wood,25.21,7.84,5.54,M/888,32.4kg,$24.00,435,X67,15/10/2023,sale
+1466,1,Dr. Dot (1),Emily McMahon,24.92,0.0,5.27,Q/211,24.4kg,$3.50,435,RW,15/10/2023,sale
+1467,2,Midnight Mash (5),Michael Bewley,25.15,3.34,5.38,M/733,28.6kg,$7.00,435,RW,15/10/2023,sale
+1468,3,Platinum Bow (8),M Wilkins,25.18,3.75,5.27,M/322,26.5kg,$5.50,435,RW,15/10/2023,sale
+1469,4,Ohana Paige (6),Rowan Wagenaar,25.22,4.37,5.48,S/845,28.9kg,$14.00,435,RW,15/10/2023,sale
+1470,5,Dr. Linda May (7),Emily McMahon,25.36,6.31,5.28,M/454,25.3kg,$21.00,435,RW,15/10/2023,sale
+1471,6,Golden Spolly (3),Steven Spoljaric,25.5,8.3,5.37,M/666,28.5kg,$14.00,435,RW,15/10/2023,sale
+1472,7,Evie Jean (2),Andrew Wood,25.79,12.43,5.37,M/588,27.8kg,$15.00,435,RW,15/10/2023,sale
+1473,8,Valencia Bella (4),Jennifer Gieschen,25.85,13.37,5.25,M/177,25.2kg,$3.25,435,RW,15/10/2023,sale
+1474,1,Spring Blessing (4),Lisa Delbridge,24.86,0.0,5.22,Q/111,26.1kg,$3.00,435,5,15/10/2023,sale
+1475,2,Go Stevie (7),CHRIS JOHANNSEN,25.07,3.01,5.38,M/332,34.5kg,$5.50,435,5,15/10/2023,sale
+1476,3,Bella Sugar (1),Lisa Delbridge,25.15,4.16,5.36,M/223,28.1kg,$5.00,435,5,15/10/2023,sale
+1477,4,Major Mike (8),Tyllah Cornell,25.23,5.27,5.42,M/644,32.8kg,$6.50,435,5,15/10/2023,sale
+1478,5,Knicked Off (6),Elaine Johannsen,25.28,6.07,5.42,M/555,32.5kg,$12.00,435,5,15/10/2023,sale
+1479,6,Galloping Star (5),Robert Conway,25.51,9.3,5.41,M/466,30.1kg,$30.00,435,5,15/10/2023,sale
+1480,7,Spicy Piper (3),Chloe Kerr,25.71,12.21,5.42,M/777,25.3kg,$21.00,435,5,15/10/2023,sale
+1481,8,One Collinda (2),Samuel Tyler,25.76,12.86,5.44,M/888,33.2kg,$6.50,435,5,15/10/2023,sale
+1482,1,Highly Alert (6),Matthew Clark,24.53,0.0,5.31,M/211,30.1kg,$6.00,435,5,15/10/2023,sale
+1483,2,El Crimp Adore (8),Dawn Johnston,24.71,2.6,5.32,S/333,32.9kg,$4.10,435,5,15/10/2023,sale
+1484,3,Xanadu (4),CHRIS JOHANNSEN,24.79,3.71,5.43,M/644,28.9kg,$6.50,435,5,15/10/2023,sale
+1485,4,Vendetta Reef (7),Mark Delbridge,24.87,4.84,5.2,M/122,24.8kg,$4.80,435,5,15/10/2023,sale
+1486,5,Black Viper (1),Matthew Clark,25.01,6.84,5.38,M/555,33.2kg,$5.50,435,5,15/10/2023,sale
+1487,6,Shaka Big Tonks (3),Debbie Bewley,25.21,9.77,5.54,M/888,34.3kg,$11.00,435,5,15/10/2023,sale
+1488,7,Black Edition (5),David Kerr,25.3,11.07,5.33,M/476,27.3kg,$41.00,435,5,15/10/2023,sale
+1489,8,Heavy Load (2),Corry Kas,25.34,11.54,5.5,M/767,31.2kg,$10.00,435,5,15/10/2023,sale
+1490,1,Mepunga Sunset (2),Jeffrey Britton,37.04,0.0,6.12,Q/1112,28.9kg,$7.50,640,RW,15/10/2023,sale
+1491,2,Dewana Payout (6),Brendan Dewan,37.04,0.07,6.38,M/6653,32.0kg,$11.00,640,RW,15/10/2023,sale
+1492,3,Exploded (3),Ian Garland,37.05,0.27,6.28,M/3221,33.3kg,$1.40,640,RW,15/10/2023,sale
+1493,4,Maximum Smiles (4),Ian Garland,37.27,3.36,6.23,M/2334,31.5kg,$24.00,640,RW,15/10/2023,sale
+1494,5,Lakeview Francie (7),Christine Sheilds,37.33,4.14,6.3,M/4445,27.9kg,$6.00,640,RW,15/10/2023,sale
+1495,6,Lilly Intention (5),Todd O'Neill,37.4,5.23,6.31,M/5566,29.9kg,$41.00,640,RW,15/10/2023,sale
+1496,7,Jeremy Spoke (8),Rowan Wagenaar,37.51,6.76,6.52,S/7777,33.4kg,$71.00,640,RW,15/10/2023,sale
+1497,1,Fred Rose (7),Jeffrey Chignell,24.69,0.0,5.53,S/862,36.1kg,$2.75,435,X45,15/10/2023,sale
+1498,2,Irving Bale (3),Robert Camilleri,24.71,0.3,5.23,M/211,32.7kg,$4.80,435,X45,15/10/2023,sale
+1499,3,Ashley Hook (4),Charlie Galea,24.92,3.25,5.32,M/343,27.0kg,$3.40,435,X45,15/10/2023,sale
+1500,4,Jack Hook (2),Charlie Galea,25.0,4.39,5.39,S/434,30.7kg,$11.00,435,X45,15/10/2023,sale
+1501,5,Mr. Wallace (5),CHRIS JOHANNSEN,25.08,5.57,5.41,M/757,33.4kg,$41.00,435,X45,15/10/2023,sale
+1502,6,Akina Lad (8),Samantha Mckay,25.21,7.41,5.39,M/588,36.8kg,$151.00,435,X45,15/10/2023,sale
+1503,7,Mediator (1),Lindsay Fulford,25.22,7.57,5.21,Q/126,35.2kg,$6.50,435,X45,15/10/2023,sale
+1504,8,Lofty (6),Lyn Smith,25.24,7.87,5.41,M/675,27.7kg,$17.00,435,X45,15/10/2023,sale
+1505,1,Departed (2),Jeffrey Britton,29.08,0.0,9.12,M/111,32.4kg,$1.10,510,5H,15/10/2023,sale
+1506,2,Albies Cruiser (1),Matthew Clark,29.23,2.14,9.26,Q/335,26.4kg,$31.00,510,5H,15/10/2023,sale
+1507,3,Cailah's Pistol (8),Brendan Brady,29.36,4.09,9.53,S/654,34.5kg,$10.00,510,5H,15/10/2023,sale
+1508,4,Dr. Buzz (4),JENNIFER GILL,29.41,4.8,9.44,M/443,32.0kg,$61.00,510,5H,15/10/2023,sale
+1509,5,Rear View Mirror (3),Rowan Wagenaar,29.44,5.2,9.26,M/222,35.1kg,$24.00,510,5H,15/10/2023,sale
+1510,6,Madalia Snoopy (6),Peter Mckenzie,29.53,6.5,9.47,M/566,34.7kg,$13.00,510,5H,15/10/2023,sale
+1511,7,Marcia Hook (7),Charlie Galea,29.67,8.5,9.53,M/777,29.0kg,$14.00,510,5H,15/10/2023,sale
+1512,1,Winston Town (8),Paul Galea,29.12,0.0,9.19,S/211,33.4kg,$2.90,510,5H,15/10/2023,sale
+1513,2,Our Redemption (1),Robert Conway,29.23,1.63,9.12,Q/133,24.2kg,$3.25,510,5H,15/10/2023,sale
+1514,3,Our Darling (2),Jennifer Gieschen,29.25,1.81,9.26,M/322,31.0kg,$9.50,510,5H,15/10/2023,sale
+1515,4,Brocky Sands (4),Leslie Hughes,29.42,4.31,9.4,M/444,31.8kg,$5.50,510,5H,15/10/2023,sale
+1516,5,Dewana Burger (7),Matthew Dewan,29.45,4.7,9.66,M/875,31.6kg,$9.00,510,5H,15/10/2023,sale
+1517,6,Cool Summer (3),Lui Forte,29.62,7.07,9.49,M/567,36.3kg,$9.00,510,5H,15/10/2023,sale
+1518,7,Dr. Brooklynn (5),Kimberley McMahon,29.64,7.5,9.54,M/656,29.7kg,$81.00,510,5H,15/10/2023,sale
+1519,8,Madalia Zoom (6),Peter Mckenzie,29.71,8.41,9.63,S/788,35.6kg,$61.00,510,5H,15/10/2023,sale
+1520,1,Dewana Fernando (1),Brendan Dewan,29.05,0.0,9.33,M/222,33.8kg,$2.50,510,5H,15/10/2023,sale
+1521,2,Akina Crusader (3),Phillip Rowley,29.07,0.34,9.21,M/111,35.4kg,$14.00,510,5H,15/10/2023,sale
+1522,3,Minter Dominate (6),Jeffrey Chignell,29.22,2.4,9.37,M/333,31.8kg,$1.90,510,5H,15/10/2023,sale
+1523,4,Shinning Hook (8),Charlie Galea,29.64,8.41,9.49,M/644,36.8kg,$6.00,510,5H,15/10/2023,sale
+1524,5,Yaza (2),JENNIFER GILL,29.75,10.09,9.39,M/455,33.2kg,$81.00,510,5H,15/10/2023,sale
+1525,6,Sweet Kathlene (4),Kathleen Fogarty,29.81,10.94,9.47,M/566,27.8kg,$101.00,510,5H,15/10/2023,sale
+1526,7,Dr. Zeppelin (7),Marcus McMahon,29.9,12.19,9.53,S/777,36.2kg,$81.00,510,5H,15/10/2023,sale
+1527,1,Here Comes Artie (8),Des Douch,29.12,0.0,9.44,S/421,33.1kg,$1.90,510,5H,15/10/2023,sale
+1528,2,Monkey's Style (4),CHRIS JOHANNSEN,29.35,3.34,9.35,M/212,33.5kg,$4.00,510,5H,15/10/2023,sale
+1529,3,Dr. Yannis (6),JUDITH MCMAHON,29.43,4.51,9.51,M/553,33.9kg,$24.00,510,5H,15/10/2023,sale
+1530,4,Dusty Old Road (2),COREY FULFORD,29.62,7.16,9.52,M/665,33.9kg,$16.00,510,5H,15/10/2023,sale
+1531,5,Bahrose (7),Debbie Bewley,29.75,9.04,9.6,M/776,29.0kg,$4.00,510,5H,15/10/2023,sale
+1532,6,Charlize (3),JENNIFER GILL,29.82,10.04,9.39,Q/344,28.3kg,$101.00,510,5H,15/10/2023,sale
+1533,7,Dash Of Crimson (1),Dawn Johnston,30.0,12.57,9.23,Q/137,25.2kg,$17.00,510,5H,15/10/2023,sale
+1534,1,Granny Roses (5),Sharon-lee Chignell,24.71,0.0,5.45,M/843,29.0kg,$18.00,435,5,15/10/2023,sale
+1535,2,Rio Lily (4),JOHN BORELAND,24.73,0.3,5.22,M/111,30.1kg,$4.60,435,5,15/10/2023,sale
+1536,3,Hartley Bale (1),Robert Camilleri,24.81,1.5,5.29,Q/332,31.7kg,$12.00,435,5,15/10/2023,sale
+1537,4,Nyali King (2),Lisa Delbridge,24.98,3.91,5.26,Q/224,26.0kg,$2.60,435,5,15/10/2023,sale
+1538,5,Spring Ammo (3),Lisa Delbridge,25.13,6.1,5.38,M/655,32.5kg,$4.80,435,5,15/10/2023,sale
+1539,6,Explosive Debt (8),Lisa Delbridge,25.47,10.89,5.31,M/466,35.1kg,$7.00,435,5,15/10/2023,sale
+1540,7,Lakeview Lass (7),Luke Whelan,25.5,11.29,5.33,M/578,31.6kg,$23.00,435,5,15/10/2023,sale
+1541,8,Blinkin' Blue (6),Dawn Johnston,25.67,13.75,5.45,M/787,34.7kg,$61.00,435,5,15/10/2023,sale
+1542,1,One Trick Pony (8),Ian Garland,24.58,0.0,5.29,M/311,26.3kg,$2.25,435,RW,15/10/2023,sale
+1543,2,Reema Bale (7),Robert Camilleri,24.62,0.5,5.4,S/632,28.8kg,$9.50,435,RW,15/10/2023,sale
+1544,3,Dahlia (2),Billy Stockdale,24.81,3.3,5.28,M/123,26.2kg,$4.50,435,RW,15/10/2023,sale
+1545,4,Bora Burst (6),Rosalie Kerr,24.95,5.33,5.28,M/244,29.9kg,$34.00,435,RW,15/10/2023,sale
+1546,5,Lucknow Gunner (1),Steven Spoljaric,25.08,7.13,5.32,M/455,26.3kg,$2.70,435,RW,15/10/2023,sale
+1547,6,Okay Bingo (3),David Kerr,25.24,9.37,5.39,S/566,26.0kg,$51.00,435,RW,15/10/2023,sale
+1548,1,Premium Equity (2),Angela Langton,29.69,0.0,5.22,M/5311,32.6kg,$1.40,515,M,15/10/2023,sandown-park
+1549,2,West Star (7),Paul Abela,29.88,2.73,5.15,Q/2232,28.0kg,$6.50,515,M,15/10/2023,sandown-park
+1550,3,Serene Equity (6),Angela Langton,30.06,5.4,5.11,Q/1123,25.2kg,$14.00,515,M,15/10/2023,sandown-park
+1551,4,Big Stacks (1),Christian Wilk,30.14,6.47,5.29,M/6544,33.5kg,$41.00,515,M,15/10/2023,sandown-park
+1552,5,Best Of Colour (4),Jane Reynolds,30.33,9.14,5.2,M/4655,33.1kg,$10.00,515,M,15/10/2023,sandown-park
+1553,6,Blazing Frankie (8),Stephen Brincat,30.44,10.83,5.3,M/7886,33.8kg,$51.00,515,M,15/10/2023,sandown-park
+1554,7,His Special (5),John Carr,30.5,11.57,5.18,M/3477,32.8kg,$31.00,515,M,15/10/2023,sandown-park
+1555,8,Dane Mullane (3),Angela Langton,30.54,12.16,5.32,M/8768,28.8kg,$14.00,515,M,15/10/2023,sandown-park
+1556,1,Spot Mullane (4),Jeffrey Britton,29.92,0.0,5.2,M/3111,30.5kg,$1.50,515,X67,15/10/2023,sandown-park
+1557,2,Mepunga Roxy (6),Jeffrey Britton,30.17,3.57,5.2,M/2322,28.9kg,$3.75,515,X67,15/10/2023,sandown-park
+1558,3,Judged (5),James Shaw,30.25,4.64,5.29,S/5533,33.3kg,$6.50,515,X67,15/10/2023,sandown-park
+1559,4,Larry Intention (8),Leonie Dalton,30.4,6.77,5.38,S/7665,41.7kg,$34.00,515,X67,15/10/2023,sandown-park
+1560,5,Little Time (3),Bryan Sykes,30.47,7.79,5.18,Q/1244,26.4kg,$22.00,515,X67,15/10/2023,sandown-park
+1561,6,Riverbank Ben (2),Maria Musselwhite,30.62,9.87,5.2,M/4456,31.7kg,$31.00,515,X67,15/10/2023,sandown-park
+1562,7,Cyclone Season (1),Leonie Dalton,30.77,12.07,5.32,M/6777,27.2kg,$51.00,515,X67,15/10/2023,sandown-park
+1563,1,Quest For Dreams (1),Michelle Mallia-Magri,34.61,0.0,9.25,Q/1111,26.7kg,$3.00,595,RW,15/10/2023,sandown-park
+1564,2,Our Jojo (7),James Shaw,34.62,0.06,9.27,Q/2222,32.1kg,$4.00,595,RW,15/10/2023,sandown-park
+1565,3,Pretty Capri (5),KELVIN ILES,34.97,5.04,9.57,M/4454,28.5kg,$10.00,595,RW,15/10/2023,sandown-park
+1566,4,Red Medusa (4),Donna Dean,34.97,5.11,9.37,Q/3333,25.4kg,$7.50,595,RW,15/10/2023,sandown-park
+1567,5,Mepunga Luna (2),Jeffrey Britton,35.07,6.53,9.6,M/5545,27.5kg,$2.80,595,RW,15/10/2023,sandown-park
+1568,6,Eden's Gift (8),J Musselwhite,35.46,12.01,9.78,M/6666,29.0kg,$51.00,595,RW,15/10/2023,sandown-park
+1569,1,Caribbean (8),Stephen Brincat,34.88,0.0,9.31,M/1111,34.1kg,$13.00,595,RW,15/10/2023,sandown-park
+1570,2,Eden Little Girl (7),Cody Hose,34.92,0.5,9.38,Q/2233,25.8kg,$29.00,595,RW,15/10/2023,sandown-park
+1571,3,Nifty Ned (2),Steven Tyley,34.94,0.81,9.54,M/3322,34.0kg,$4.00,595,RW,15/10/2023,sandown-park
+1572,4,Flying Hot (4),Kim Erenshaw,35.02,2.06,9.73,M/5665,32.6kg,$2.20,595,RW,15/10/2023,sandown-park
+1573,5,Cabao Elderberry (1),Nicole Cachia,35.06,2.56,9.74,S/6556,32.9kg,$8.00,595,RW,15/10/2023,sandown-park
+1574,6,Ernie The Brute (5),Jake Dean,35.11,3.21,9.61,M/4444,34.9kg,$4.30,595,RW,15/10/2023,sandown-park
+1575,1,On The Green (5),Garry Selkrig,29.46,0.0,5.05,Q/1111,33.5kg,$3.00,515,5,15/10/2023,sandown-park
+1576,2,Blue Vendetta (1),Jeffrey Britton,29.6,2.01,5.1,M/2222,34.3kg,$5.00,515,5,15/10/2023,sandown-park
+1577,3,Pirate Kingsley (2),David Bourke,29.6,2.04,5.16,M/5333,32.0kg,$4.75,515,5,15/10/2023,sandown-park
+1578,4,Iron Atlas (4),Rosalyn Hume,29.64,2.53,5.16,M/6644,35.8kg,$3.60,515,5,15/10/2023,sandown-park
+1579,5,Aston Wyatt (7),Raymond Gatt,30.28,11.76,5.14,M/3566,32.8kg,$31.00,515,5,15/10/2023,sandown-park
+1580,6,Little Prince (8),Nicole Cachia,30.29,11.87,5.36,S/8888,32.7kg,$24.00,515,5,15/10/2023,sandown-park
+1581,7,Naval Post (6),Anthony May,30.36,12.86,5.23,M/7777,29.4kg,$34.00,515,5,15/10/2023,sandown-park
+1582,8,Little Edward (3),Arend Gringhuis,30.47,14.4,5.14,M/4455,35.9kg,$14.00,515,5,15/10/2023,sandown-park
+1583,1,Dark Label (2),Andrea Chapple,29.84,0.0,5.14,M/3432,32.3kg,$9.50,515,X45,15/10/2023,sandown-park
+1584,2,Flying Redeemer (7),Kim Erenshaw,29.89,0.73,5.26,S/8775,33.4kg,$6.50,515,X45,15/10/2023,sandown-park
+1585,3,Chapel Road (6),Andrew Xerri,30.0,2.31,5.09,M/2223,33.5kg,$5.50,515,X45,15/10/2023,sandown-park
+1586,4,Snowman (5),Terrence Reid,30.0,2.33,5.07,Q/1111,30.8kg,$41.00,515,X45,15/10/2023,sandown-park
+1587,5,Runnin' Dynasty (8),Andrea Chapple,30.06,3.17,5.21,M/5554,26.7kg,$12.00,515,X45,15/10/2023,sandown-park
+1588,6,Trapper Tears (3),Robert Britton,30.21,5.29,5.23,M/7667,33.0kg,$2.00,515,X45,15/10/2023,sandown-park
+1589,7,Boot A Dream (1),Arend Gringhuis,30.23,5.66,5.19,M/4346,35.2kg,$31.00,515,X45,15/10/2023,sandown-park
+1590,8,Pest Management (4),Paul Mathieson,30.46,8.96,5.23,M/6888,28.5kg,$11.00,515,X45,15/10/2023,sandown-park
+1591,1,Distress (1),Karen Pitt,29.59,0.0,5.02,Q/1111,26.8kg,$2.60,515,5,15/10/2023,sandown-park
+1592,2,Weblec Jewel (8),Jeffrey Britton,29.75,2.29,5.06,Q/2222,29.0kg,$9.00,515,5,15/10/2023,sandown-park
+1593,3,Whiskey Cavalier (7),Steven Mcdonnell,29.84,3.54,5.11,M/4333,33.7kg,$12.00,515,5,15/10/2023,sandown-park
+1594,4,Where Is He (4),Rita Gatt,29.92,4.66,5.21,M/6555,30.7kg,$15.00,515,5,15/10/2023,sandown-park
+1595,5,Soda Success (3),Max Auld,29.95,5.14,5.27,M/8866,34.0kg,$6.50,515,5,15/10/2023,sandown-park
+1596,6,Dash Express (2),Jeffrey Britton,29.99,5.7,5.23,S/7787,32.9kg,$4.50,515,5,15/10/2023,sandown-park
+1597,7,Quest For Pace (6),Michelle Mallia-Magri,30.01,6.0,5.14,S/5444,31.1kg,$8.00,515,5,15/10/2023,sandown-park
+1598,8,Dawny Dream (5),Michael Katsiris,30.17,8.2,5.09,M/3678,30.2kg,$31.00,515,5,15/10/2023,sandown-park
+1599,1,Blazing Dodge (3),Chloe Dew,34.3,0.0,9.09,Q/1111,31.9kg,$3.90,595,X45,15/10/2023,sandown-park
+1600,2,Pearly Tears (8),Robert Britton,34.48,2.54,9.31,M/4544,29.8kg,$3.00,595,X45,15/10/2023,sandown-park
+1601,3,Fighting Boxer (6),Cody Hose,34.48,2.56,9.27,M/3222,31.6kg,$67.00,595,X45,15/10/2023,sandown-park
+1602,4,Chance Take It (1),Ibrahim Kama,34.55,3.6,9.45,S/7665,38.0kg,$2.50,595,X45,15/10/2023,sandown-park
+1603,5,Osprey Storm (5),Angela Langton,34.58,4.03,9.32,M/5433,36.5kg,$13.00,595,X45,15/10/2023,sandown-park
+1604,6,Coppola Bale (4),Les Weeks,34.7,5.77,9.59,M/8886,30.7kg,$17.00,595,X45,15/10/2023,sandown-park
+1605,7,Internal Affairs (7),Justin Bowman,34.76,6.61,9.45,S/6777,31.8kg,$34.00,595,X45,15/10/2023,sandown-park
+1606,8,Louie (2),Michael Vaughan,34.94,9.21,9.27,Q/2358,30.2kg,$31.00,595,X45,15/10/2023,sandown-park
+1607,1,No More Jobs (6),Frank Italia,34.76,0.0,9.2,Q/1111,33.5kg,$10.00,595,RW,15/10/2023,sandown-park
+1608,2,Pretty Hot (3),Gerard O'Keeffe,34.79,0.46,9.41,M/2222,28.8kg,$8.50,595,RW,15/10/2023,sandown-park
+1609,3,No Way Punk (1),Jodi Thorpe,35.11,4.94,9.52,M/4433,30.8kg,$4.00,595,RW,15/10/2023,sandown-park
+1610,4,Yoshi Boy (8),Aaron Blake,35.38,8.81,9.67,M/5544,32.9kg,$61.00,595,RW,15/10/2023,sandown-park
+1611,5,Watching Over (7),Alana Mammone,35.53,10.93,9.71,M/6755,30.7kg,$13.00,595,RW,15/10/2023,sandown-park
+1612,6,Seven Foot Ming (2),Karen Pitt,35.54,11.19,9.81,S/7666,36.5kg,$2.25,595,RW,15/10/2023,sandown-park
+1613,7,Good Deed (4),Justin Bowman,35.76,14.29,9.5,M/3377,30.5kg,$5.50,595,RW,15/10/2023,sandown-park
+1614,1,Little Peg (2),Darren Kee,29.92,0.0,5.12,M/1111,24.4kg,$4.60,515,5NP,15/10/2023,sandown-park
+1615,2,Abysmal (1),Gordon Edwards,30.12,2.87,5.19,M/4222,33.3kg,$3.25,515,5NP,15/10/2023,sandown-park
+1616,3,Bruce's Ruslie (3),Russell Edwards,30.18,3.79,5.3,S/5333,31.3kg,$3.00,515,5NP,15/10/2023,sandown-park
+1617,4,Benji's Button (8),Terrence Reid,30.43,7.41,5.17,M/3444,32.2kg,$7.00,515,5NP,15/10/2023,sandown-park
+1618,5,Black Tuxedo (7),Noel Walsh,30.5,8.34,5.31,S/6555,34.9kg,$8.50,515,5NP,15/10/2023,sandown-park
+1619,6,Starlit Fantasy (4),Christian Wilk,30.51,8.53,5.16,M/2666,26.6kg,$15.00,515,5NP,15/10/2023,sandown-park
+1620,1,Lindenow Grace (7),Maria Musselwhite,29.93,0.0,5.13,M/2321,27.6kg,$10.00,515,5NP,15/10/2023,sandown-park
+1621,2,Daintree Lad (6),John Carr,30.15,3.09,5.27,S/6444,33.7kg,$12.00,515,5NP,15/10/2023,sandown-park
+1622,3,Amazed By You (2),Debra Brandon,30.18,3.53,5.2,M/4555,28.7kg,$2.75,515,5NP,15/10/2023,sandown-park
+1623,4,Idyllic Sky (3),Chloe Dew,30.25,4.57,5.15,M/3212,24.9kg,$3.40,515,5NP,15/10/2023,sandown-park
+1624,5,Property Mogul (1),Noel Walsh,30.27,4.89,5.08,Q/1133,27.2kg,$6.00,515,5NP,15/10/2023,sandown-park
+1625,6,Lillico Nikki (8),Brian Sonneman,30.59,9.47,5.22,M/5666,27.7kg,$5.50,515,5NP,15/10/2023,sandown-park
+1626,1,Just A Jester (3),Aaron Farley,29.95,0.0,5.22,M/3111,32.7kg,$5.00,515,5NP,15/10/2023,sandown-park
+1627,2,Mighty Hercules (7),John Brown,30.04,1.21,5.34,S/7322,38.4kg,$5.00,515,5NP,15/10/2023,sandown-park
+1628,3,Glorious Glory (8),Geoff Smith,30.33,5.39,5.13,M/1233,30.4kg,$4.90,515,5NP,15/10/2023,sandown-park
+1629,4,Fortune Master (2),Chris Armstrong,30.57,8.83,5.33,M/5554,30.7kg,$24.00,515,5NP,15/10/2023,sandown-park
+1630,5,Forbes Debut (6),Scott Forbes,30.62,9.56,5.18,Q/2445,26.3kg,$5.50,515,5NP,15/10/2023,sandown-park
+1631,6,Home Invader (1),Robert Colpoys,30.75,11.41,5.34,M/6777,30.1kg,$4.30,515,5NP,15/10/2023,sandown-park
+1632,7,Herd 'Em Up (4),Susan Dalton,31.21,18.0,5.22,M/4666,28.2kg,$8.50,515,5NP,15/10/2023,sandown-park
+1633,1,Witton Bishop (6),J Sutherst,27.34,0.0,4.97,1111,28.8kg,$3.10,450,A4,15/10/2023,sunderland
+1634,2,Bespoke Knox (4),M Fieldson,27.58,3.0,5.03,3322,30.3kg,$3.50,450,A4,15/10/2023,sunderland
+1635,3,Stan (3),P Miller,28.02,8.5,5.07,4454,32.9kg,$5.50,450,A4,15/10/2023,sunderland
+1636,4,Townsend Tyler (1),D Blackbird,28.06,9.0,5.11,6545,32.6kg,$9.00,450,A4,15/10/2023,sunderland
+1637,5,Coco Conqueror (2),C McNicholas,28.07,9.15,5.04,2233,32.1kg,$3.70,450,A4,15/10/2023,sunderland
+1638,6,Hollyhill Nutter (5),R Thompson,28.25,11.4,5.07,5666,32.4kg,$11.00,450,A4,15/10/2023,sunderland
+1639,1,Scroggy Charlie (6),M Fieldson,28.16,0.0,,5321,35.0kg,$4.50,450,HP,15/10/2023,sunderland
+1640,2,Goulane Willow (3),G Strike,28.64,1.0,,3112,27.5kg,$3.60,450,HP,15/10/2023,sunderland
+1641,3,Slippy Jessie (5),C McNicholas,28.41,1.15,,6644,26.6kg,$2.90,450,HP,15/10/2023,sunderland
+1642,4,El Jefe (2),R Thompson,29.47,7.4,,1233,25.6kg,$10.00,450,HP,15/10/2023,sunderland
+1643,5,Ballyfore Kevin (4),G Strike,29.33,9.65,,4566,32.6kg,$4.50,450,HP,15/10/2023,sunderland
+1644,6,Mayahs Hope (1),C McNicholas,29.81,11.65,,2455,28.3kg,$11.00,450,HP,15/10/2023,sunderland
+1645,1,Rapido Sharon (5),J Sutherst,27.45,0.0,5.0,5332,26.0kg,$3.20,450,A3,15/10/2023,sunderland
+1646,2,Alternative Pick (6),C McNicholas,27.48,0.4,4.92,1111,33.2kg,$5.50,450,A3,15/10/2023,sunderland
+1647,3,Deacon Kissy (4),G Strike,27.7,3.15,5.02,4444,26.6kg,$3.60,450,A3,15/10/2023,sunderland
+1648,4,Away Lady (3),Y Bell,27.71,3.3,5.03,3223,27.0kg,$13.00,450,A3,15/10/2023,sunderland
+1649,5,New Moors Swift (1),J Sutherst,27.74,3.7,5.07,2555,24.5kg,$12.00,450,A3,15/10/2023,sunderland
+1650,6,Yellow Sam (2),P Miller,27.9,5.7,5.11,6666,33.7kg,$3.00,450,A3,15/10/2023,sunderland
+1651,1,Swiss Federer (6),M Fieldson,16.76,0.0,,6-3-,32.3kg,$4.20,261,D4,15/10/2023,sunderland
+1652,2,Spitting Fire (1),S Linley,16.8,0.5,,3-1-,28.8kg,$4.00,261,D4,15/10/2023,sunderland
+1653,3,Millhouse Jimbo (5),S Linley,16.86,1.25,,2-2-,32.7kg,$6.00,261,D4,15/10/2023,sunderland
+1654,4,Maud Com (2),G Strike,16.87,1.4,,1-4-,33.3kg,$3.70,261,D4,15/10/2023,sunderland
+1655,5,Charming Jack (4),D Blackbird,16.91,1.9,,4-5-,27.4kg,$3.90,261,D4,15/10/2023,sunderland
+1656,6,Moonveen Mango (3),G Strike,17.77,12.65,,5-6-,29.5kg,$9.00,261,D4,15/10/2023,sunderland
+1657,1,Trinity Best (6),G Strike,15.84,0.0,,5-1-,31.6kg,$2.25,261,D2,15/10/2023,sunderland
+1658,2,Taketimetothink (5),P Miller,16.06,2.75,,1-2-,30.4kg,$6.00,261,D2,15/10/2023,sunderland
+1659,3,Footfield Wooly (3),G Strike,16.1,3.25,,4-3-,28.6kg,$4.60,261,D2,15/10/2023,sunderland
+1660,4,Mustang Bruce (1),P Miller,16.34,6.25,,3-4-,34.2kg,$13.00,261,D2,15/10/2023,sunderland
+1661,5,Dannys Eva (4),D Blackbird,16.42,7.25,,6-5-,32.6kg,$13.00,261,D2,15/10/2023,sunderland
+1662,6,Witton Clem (2),J Sutherst,16.62,9.75,,2-6-,31.8kg,$3.50,261,D2,15/10/2023,sunderland
+1663,1,Zesty Lemon (2),Y Bell,27.68,0.0,5.1,1111,26.2kg,$3.25,450,A4,15/10/2023,sunderland
+1664,2,Honest And Frank (3),Y Bell,27.71,0.4,5.02,4222,25.1kg,$3.40,450,A4,15/10/2023,sunderland
+1665,3,Sportsmans Brid (1),C McNicholas,27.74,0.8,5.03,2333,24.7kg,$4.60,450,A4,15/10/2023,sunderland
+1666,4,Limerick Hero (5),P Miller,28.22,6.8,4.92,6555,30.4kg,$8.00,450,A4,15/10/2023,sunderland
+1667,5,Millridge Jimmy (4),D Blackbird,28.23,6.95,5.0,3444,30.5kg,$12.00,450,A4,15/10/2023,sunderland
+1668,6,Frosty Morning (6),P Miller,28.24,7.1,5.06,5666,26.9kg,$4.00,450,A4,15/10/2023,sunderland
+1669,1,Fortune Joe (3),S Linley,27.85,0.0,5.01,5211,32.1kg,$4.00,450,A2,15/10/2023,sunderland
+1670,2,Fifth (2),G Strike,27.97,1.5,4.91,2322,25.9kg,$2.60,450,A2,15/10/2023,sunderland
+1671,3,Titanium Wildcat (1),J Sutherst,28.19,4.25,5.23,6444,30.1kg,$8.00,450,A2,15/10/2023,sunderland
+1672,4,Canya Wildcat (5),P Miller,28.2,4.4,4.9,3533,26.9kg,$8.00,450,A2,15/10/2023,sunderland
+1673,5,Wiltshire (6),Y Bell,28.32,5.9,4.99,4665,32.3kg,$6.00,450,A2,15/10/2023,sunderland
+1674,6,Gringos Magico (4),P Miller,28.54,8.65,4.86,1156,35.4kg,$4.60,450,A2,15/10/2023,sunderland
+1675,1,Farloe Cooper (1),D Blackbird,16.46,0.0,,6-1-,35.1kg,$11.00,261,D3,15/10/2023,sunderland
+1676,2,Jaguar Wildcat (6),S Linley,16.54,1.0,,4-2-,36.9kg,$6.00,261,D3,15/10/2023,sunderland
+1677,3,Hollyhill Tilly (2),R Thompson,16.72,3.25,,5-4-,25.7kg,$3.00,261,D3,15/10/2023,sunderland
+1678,4,Popper Edith (4),D Blackbird,16.74,3.5,,3-3-,27.0kg,$8.00,261,D3,15/10/2023,sunderland
+1679,5,Kanturk Leg (5),C McNicholas,17.28,10.25,,1-5-,27.0kg,$4.50,261,D3,15/10/2023,sunderland
+1680,DNF,Allyouneedsluck (3),S Linley,,,,2-0-,34.3kg,,261,D3,15/10/2023,sunderland
+1681,1,Mahoonagh Finn (2),R Thompson,27.98,0.0,4.94,1111,29.2kg,$5.00,450,A5,15/10/2023,sunderland
+1682,2,Port West Bale (6),D Blackbird,28.02,0.5,4.94,2222,29.8kg,$3.75,450,A5,15/10/2023,sunderland
+1683,3,Choctaw Musa (5),C McNicholas,28.34,4.5,5.02,6444,30.7kg,$2.80,450,A5,15/10/2023,sunderland
+1684,4,Burrow Hen (3),P Miller,28.42,5.5,5.01,4333,26.6kg,$3.90,450,A5,15/10/2023,sunderland
+1685,5,Shoot First (1),P Miller,29.18,15.0,5.03,5555,26.1kg,$12.00,450,A5,15/10/2023,sunderland
+1686,DNF,Slippy Dottie (4),C McNicholas,,,4.96,3666,26.6kg,,450,A5,15/10/2023,sunderland
+1687,1,Malbay Billie (3),Y Bell,27.88,0.0,4.88,2111,29.4kg,$2.90,450,A6,15/10/2023,sunderland
+1688,2,Some Standing (6),P Miller,27.98,1.25,5.03,4554,28.9kg,$3.10,450,A6,15/10/2023,sunderland
+1689,3,Lady Of Rivendel (5),G Strike,28.0,1.5,4.85,1222,28.5kg,$5.00,450,A6,15/10/2023,sunderland
+1690,4,Glenside Koda (4),D Blackbird,28.02,1.75,5.01,3333,26.7kg,$6.00,450,A6,15/10/2023,sunderland
+1691,5,Avalon Pestana (1),C McNicholas,28.38,6.25,5.14,6445,32.1kg,$9.00,450,A6,15/10/2023,sunderland
+1692,6,Burrow Wild (2),P Miller,28.42,6.75,5.16,5666,28.6kg,$9.50,450,A6,15/10/2023,sunderland
+1693,1,Slippy Angel (4),C McNicholas,28.06,0.0,4.92,1111,26.7kg,$7.00,450,A5,15/10/2023,sunderland
+1694,2,Newline Rush (6),P Miller,28.12,0.75,5.06,4554,31.4kg,$4.90,450,A5,15/10/2023,sunderland
+1695,3,Dotty (3),Y Bell,28.2,1.75,4.99,2342,27.5kg,$3.40,450,A5,15/10/2023,sunderland
+1696,4,Jackie Chaperal (2),C McNicholas,28.24,2.25,5.12,5435,26.4kg,$4.00,450,A5,15/10/2023,sunderland
+1697,5,Da Other One (5),P Miller,28.32,3.25,4.97,3223,26.3kg,$3.80,450,A5,15/10/2023,sunderland
+1698,6,Donals Lass (1),Y Bell,28.66,7.5,5.28,6666,26.2kg,$8.00,450,A5,15/10/2023,sunderland
+1699,1,Cash Trap (6),P Miller,27.75,0.0,5.08,5553,26.3kg,$3.80,450,A3,15/10/2023,sunderland
+1700,2,Zonin (5),G Strike,27.76,0.15,5.0,4322,33.8kg,$6.00,450,A3,15/10/2023,sunderland
+1701,3,We Never Stop (4),Y Bell,27.82,0.9,4.87,1111,27.1kg,$3.20,450,A3,15/10/2023,sunderland
+1702,4,What A Ceilidh (1),C McNicholas,27.92,2.15,5.13,3444,29.6kg,$4.50,450,A3,15/10/2023,sunderland
+1703,5,Emers Leader (2),D Blackbird,27.93,2.3,5.16,6666,30.3kg,$11.00,450,A3,15/10/2023,sunderland
+1704,6,Black Crow (3),D Blackbird,28.11,4.55,5.0,2235,26.1kg,$4.40,450,A3,15/10/2023,sunderland
+1705,1,Droopys Custard (5),D Mullins,16.14,0.0,,4-2-,,$3.25,270,OR,15/10/2023,towcester
+1706,2,Caseys Lee Elena (1),S Atkinson,16.15,0.15,,2-3-,,$3.00,270,OR,15/10/2023,towcester
+1707,3,Unlikely Rosie (2),S Rayner,16.27,1.65,,1-1-,,$3.80,270,OR,15/10/2023,towcester
+1708,4,Deanridge Skippy (6),A Kelly-Pilgrim,16.39,3.15,,3-4-,,$9.50,270,OR,15/10/2023,towcester
+1709,5,Tuck Up Two (3),J Mullins,16.47,4.15,,5-5-,,$5.50,270,OR,15/10/2023,towcester
+1710,1,Ela Maestro (3),Cd Hamblin,29.82,0.0,4.28,4332,,$1.70,500,ORM,15/10/2023,towcester
+1711,2,Ballymac Neems (1),J J Fenwick,29.84,0.25,4.08,1111,,$8.00,500,ORM,15/10/2023,towcester
+1712,3,Brynhall Bocko (2),G A Griffiths,30.14,4.0,4.15,2223,,$3.40,500,ORM,15/10/2023,towcester
+1713,4,Sizzling Ivy (4),R Peckham,30.18,4.5,4.35,5544,,$13.00,500,ORM,15/10/2023,towcester
+1714,5,Savana Mbappe (5),J Bloomfield,30.34,6.5,4.24,3455,,$7.00,500,ORM,15/10/2023,towcester
+1715,1,Savana Bailey (1),D Henry,44.0,0.0,15.94,2111,36.1kg,$2.30,712,ORM,15/10/2023,towcester
+1716,2,Broadway Mural (6),S White,44.12,1.5,16.25,5222,32.4kg,$1.85,712,ORM,15/10/2023,towcester
+1717,3,Barmouth Pearl (4),J Bloomfield,44.56,7.0,16.52,4443,25.8kg,$9.00,712,ORM,15/10/2023,towcester
+1718,4,Ballymull Dinger (2),C Joyce,44.84,10.5,16.42,1334,33.6kg,$23.00,712,ORM,15/10/2023,towcester
+1719,5,Sparta Perfect (3),S Thompson,44.96,12.0,16.71,3555,27.3kg,$20.00,712,ORM,15/10/2023,towcester
+1720,1,Savana Top Cat (4),Cd Hamblin,29.39,0.0,4.1,1111,32.7kg,$1.50,500,OR2,15/10/2023,towcester
+1721,2,Singalong Stacey (3),K Hutton,29.79,5.0,4.25,3322,28.7kg,$7.00,500,OR2,15/10/2023,towcester
+1722,3,Deanridge Twowon (6),A Kelly-Pilgrim,29.95,7.0,4.12,2233,30.8kg,$17.00,500,OR2,15/10/2023,towcester
+1723,4,Romeo Kodi (1),K Hutton,30.03,8.0,4.31,6444,36.0kg,$3.25,500,OR2,15/10/2023,towcester
+1724,5,Finborough Flyer (5),N Hunt,30.15,9.5,4.26,4555,34.9kg,$41.00,500,OR2,15/10/2023,towcester
+1725,6,Coppice Ebby (2),W Russell,30.49,13.75,4.28,5666,34.1kg,$51.00,500,OR2,15/10/2023,towcester
+1726,1,Romeo Crusade (2),D Mullins,29.7,0.0,4.01,1111,33.4kg,$6.00,500,ORP,15/10/2023,towcester
+1727,2,Ballymac Camilla (1),J J Fenwick,29.98,3.5,4.27,4333,29.3kg,$5.00,500,ORP,15/10/2023,towcester
+1728,3,Doodlebug Lad (3),R Rees,29.99,3.65,4.23,3222,34.0kg,$2.25,500,ORP,15/10/2023,towcester
+1729,4,Romeo Cypher (5),D Mullins,30.23,6.65,4.27,5444,33.2kg,$3.40,500,ORP,15/10/2023,towcester
+1730,5,Noduff Sahara (4),C Fereday,30.25,6.9,4.19,2555,34.7kg,$10.00,500,ORP,15/10/2023,towcester
+1731,1,Signet Goofy (6),J Mullins,29.29,0.0,4.16,2111,35.3kg,$1.80,500,OR2,15/10/2023,towcester
+1732,2,Bang On Polly (5),N Hunt,29.93,8.0,4.23,4222,29.1kg,$13.00,500,OR2,15/10/2023,towcester
+1733,3,Westwell Dora (4),W Russell,29.99,8.75,4.3,5544,27.6kg,$41.00,500,OR2,15/10/2023,towcester
+1734,4,Signet Otis (2),K Hutton,30.03,9.25,4.21,3333,35.0kg,$4.20,500,OR2,15/10/2023,towcester
+1735,5,Moments Of Magic (1),K Hutton,30.09,10.0,4.22,1455,30.6kg,$3.30,500,OR2,15/10/2023,towcester
+1736,1,Ballymac Taylor (2),M Wallis,43.56,0.0,16.63,4432,27.9kg,$1.28,712,OR,15/10/2023,towcester
+1737,2,Lightfoot Clark (1),J J Fenwick,43.92,4.5,16.17,3111,36.1kg,$6.00,712,OR,15/10/2023,towcester
+1738,3,She Loves You (6),M P Brown,43.98,5.25,16.43,1223,28.0kg,$10.00,712,OR,15/10/2023,towcester
+1739,4,Aayamza Dancer (3),J Mullins,44.0,5.5,16.84,5544,28.5kg,$8.00,712,OR,15/10/2023,towcester
+1740,5,Antons Maggie (4),M P Brown,44.36,10.0,16.6,2355,25.5kg,$26.00,712,OR,15/10/2023,towcester
+1741,1,March On Monster (6),M Wallis,29.7,0.0,4.08,1111,31.7kg,$8.00,500,ORM,15/10/2023,towcester
+1742,2,Savana Jumbo (4),J Bloomfield,29.82,1.5,4.27,4333,37.1kg,$7.00,500,ORM,15/10/2023,towcester
+1743,3,Forest Leo (5),Cd Hamblin,29.98,3.5,4.27,5544,35.0kg,$2.70,500,ORM,15/10/2023,towcester
+1744,4,Crossfield Edel (2),S Rayner,29.99,3.65,4.15,2222,26.7kg,$2.90,500,ORM,15/10/2023,towcester
+1745,5,Roxs Of Cashel (1),S J Roberts,30.05,4.4,4.4,6655,30.4kg,$7.00,500,ORM,15/10/2023,towcester
+1746,6,Caseys Jetsam (3),S Atkinson,30.17,5.9,4.18,3466,31.6kg,$8.00,500,ORM,15/10/2023,towcester
+1747,1,Brockbank (4),R Peckham,29.53,0.0,4.1,1221,35.4kg,$13.00,500,OR,15/10/2023,towcester
+1748,2,Burj Khalifa (6),D Henry,29.73,2.5,4.27,6533,38.8kg,$2.40,500,OR,15/10/2023,towcester
+1749,3,Fabulous Sonique (1),M Wallis,29.74,2.65,4.2,4454,25.7kg,$7.00,500,OR,15/10/2023,towcester
+1750,4,Tommys Boss (3),R Allder,29.86,4.15,4.12,2112,37.0kg,$6.50,500,OR,15/10/2023,towcester
+1751,5,Forest Icon (5),K Hutton,30.0,5.9,4.31,5666,32.7kg,$2.90,500,OR,15/10/2023,towcester
+1752,6,Deanridge Sparky (2),A Kelly-Pilgrim,30.12,7.4,4.17,3345,32.9kg,$9.00,500,OR,15/10/2023,towcester
+1753,1,Rentfrew Lad (2),R Turney,15.95,0.0,,1-1-,34.2kg,$4.90,270,OR,15/10/2023,towcester
+1754,2,Macaulies Storm (3),C Fereday,15.99,0.5,,3-2-,25.3kg,$6.50,270,OR,15/10/2023,towcester
+1755,3,Pennys Oxo (5),J Mullins,16.07,1.5,,2-3-,36.2kg,$2.00,270,OR,15/10/2023,towcester
+1756,4,Tromora Rain (1),L Tuffin,16.27,4.0,,4-4-,29.7kg,$3.75,270,OR,15/10/2023,towcester
+1757,5,Early Knight (6),R Peckham,16.33,4.75,,5-5-,36.9kg,$10.00,270,OR,15/10/2023,towcester
+1758,1,Ballymac Diana (3),M Wallis,29.8,0.0,4.31,4222,29.3kg,$1.80,500,ORM,15/10/2023,towcester
+1759,2,Ivy Hill Bonnie (6),S Rayner,29.94,1.75,4.18,1111,27.9kg,$7.00,500,ORM,15/10/2023,towcester
+1760,3,Eilleens Daisy (4),G A Griffiths,30.02,2.75,4.28,2333,33.3kg,$2.90,500,ORM,15/10/2023,towcester
+1761,4,Xmarksthespot (2),Cd Hamblin,30.4,7.5,4.43,5444,36.1kg,$9.50,500,ORM,15/10/2023,towcester
+1762,5,Kathys Gem (1),M P Brown,30.88,13.5,4.33,3555,27.8kg,$17.00,500,ORM,15/10/2023,towcester
+1763,1,Newinn Ranger (3),M Wallis,29.2,0.0,4.15,3111,33.7kg,$2.50,500,OR,15/10/2023,towcester
+1764,2,Your Kidding (1),R Allder,29.56,4.5,4.17,5222,32.0kg,$9.00,500,OR,15/10/2023,towcester
+1765,3,Tommys Bolt (2),C Fereday,29.62,5.25,4.18,4433,30.9kg,$26.00,500,OR,15/10/2023,towcester
+1766,4,Coppice Warrior (4),K Hutton,29.72,6.5,4.21,6654,35.0kg,$2.60,500,OR,15/10/2023,towcester
+1767,5,Brown Eyed Boy (5),J Mullins,29.86,8.25,4.14,2345,33.2kg,$4.50,500,OR,15/10/2023,towcester
+1768,6,Caseys Tommy (6),S Atkinson,30.04,10.5,4.11,1566,33.1kg,$11.00,500,OR,15/10/2023,towcester
+1769,1,Mrs Doyle (2),R Peckham,30.21,0.0,4.34,5333,27.2kg,$7.00,500,A4,15/10/2023,towcester
+1770,2,Jetts Moon (6),L Tuffin,30.31,1.25,4.25,1222,26.8kg,$4.00,500,A4,15/10/2023,towcester
+1771,3,Azeri (3),J Bloomfield,30.35,1.75,4.4,6544,28.0kg,$4.60,500,A4,15/10/2023,towcester
+1772,4,Caseys Dave (1),S Atkinson,30.45,3.0,4.34,3111,29.4kg,$5.50,500,A4,15/10/2023,towcester
+1773,5,Caseys Linda (5),S Atkinson,30.57,4.5,4.32,4655,25.0kg,$6.00,500,A4,15/10/2023,towcester
+1774,6,Nolas Barnzee (4),M P Brown,30.73,6.5,4.29,2466,27.0kg,$3.20,500,A4,15/10/2023,towcester
+1775,1,Tickity Tilly (2),S Atkinson,16.24,0.0,,2-2-,26.5kg,$3.10,270,D2,15/10/2023,towcester
+1776,2,Oldcastle Pearl (4),A Ioannou,16.3,0.75,,1-1-,28.8kg,$4.50,270,D2,15/10/2023,towcester
+1777,3,Waddos Georgie (5),L Tuffin,16.36,1.5,,4-3-,29.3kg,$6.00,270,D2,15/10/2023,towcester
+1778,4,Greencroft Deb (3),S Rayner,16.42,2.25,,3-4-,28.1kg,$12.00,270,D2,15/10/2023,towcester
+1779,5,Crossfield Wayne (6),S Rayner,16.64,5.0,,5-5-,33.3kg,$2.75,270,D2,15/10/2023,towcester
+1780,6,Doohoma Range (1),S Rayner,16.68,5.5,,6-6-,32.5kg,$10.00,270,D2,15/10/2023,towcester

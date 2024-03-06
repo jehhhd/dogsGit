@@ -1,0 +1,1018 @@
+,Plc,Name (Box),Trainer,Time,Mgn,Split,In Run,Wgt,SP,Distance,RaceGrade,date,Track
+0,1,Lets Party (5),J Watson,26.33,0.0,5.62,2222.0,34.3kg,$0.00,435,A5,31/12/2023,pelaw-grange
+1,2,Ridleys Banner (4),D Curry,26.39,0.75,5.55,1111.0,35.1kg,$0.00,435,A5,31/12/2023,pelaw-grange
+2,3,Rackethall Alex (1),R Rotherham,26.49,2.0,5.64,3333.0,34.9kg,$0.00,435,A5,31/12/2023,pelaw-grange
+3,4,Whitburn Wizard (3),H Burton,26.69,4.5,5.63,4444.0,29.3kg,$0.00,435,A5,31/12/2023,pelaw-grange
+4,5,Holdem Sheriff (6),M Sillars,27.21,11.0,5.73,5555.0,32.1kg,$0.00,435,A5,31/12/2023,pelaw-grange
+5,DNF,Great Diva (2),C J Murray,,,5.67,6000.0,29.3kg,,435,A5,31/12/2023,pelaw-grange
+6,1,Daysea's Katie (7),Claude Dacey,23.3,0.0,10.59,2.0,24.2kg,$26.00,395,M,24/01/2024,albion-park
+7,2,Bogie Cannon (3),Michael Brauer,23.34,0.75,10.55,1.0,32.1kg,$7.00,395,M,24/01/2024,albion-park
+8,3,Orara Joe (2),Gary Smith,23.4,1.5,10.85,3.0,34.2kg,$5.00,395,M,24/01/2024,albion-park
+9,4,Swift Mike (4),Cynthia Elson,23.53,3.25,10.88,4.0,29.6kg,$3.00,395,M,24/01/2024,albion-park
+10,5,Divorce Source (8),Gary Smith,23.61,4.25,10.91,5.0,31.3kg,$9.00,395,M,24/01/2024,albion-park
+11,6,Single Ladies (1),Cameron Austin,23.77,6.5,11.01,6.0,26.9kg,$2.70,395,M,24/01/2024,albion-park
+12,7,Piccolo Girl (5),Andrew Hagicostas,24.13,11.75,11.04,7.0,24.3kg,$71.00,395,M,24/01/2024,albion-park
+13,8,Nanna's Lucy (6),David Bailey,24.58,18.25,11.63,8.0,24.7kg,$34.00,395,M,24/01/2024,albion-park
+14,1,Write This Book (2),Warren Nicholls,23.01,0.0,10.59,1.0,25.6kg,$4.40,395,M,24/01/2024,albion-park
+15,2,Daysea's Kirby (1),Claude Dacey,23.36,5.0,11.03,3.0,31.7kg,$3.30,395,M,24/01/2024,albion-park
+16,3,Rita's Speed (7),Travis Elson,23.39,5.25,10.86,2.0,23.6kg,$5.50,395,M,24/01/2024,albion-park
+17,4,Pikelet Spirit (3),Linda Ashford,24.03,14.5,11.12,4.0,24.9kg,$23.00,395,M,24/01/2024,albion-park
+18,5,Howdy Emma (5),Cynthia Elson,24.06,15.0,11.29,7.0,23.7kg,$17.00,395,M,24/01/2024,albion-park
+19,6,Mighty River (4),Renald Attard,24.21,17.25,11.48,8.0,33.3kg,$23.00,395,M,24/01/2024,albion-park
+20,7,Travis's Scrub (6),Travis Elson,24.41,20.0,11.2,6.0,25.9kg,$3.40,395,M,24/01/2024,albion-park
+21,8,Hara's Nelly (8),Rebecca Franks,24.73,24.5,11.15,5.0,25.2kg,$13.00,395,M,24/01/2024,albion-park
+22,1,Howdy Lana (4),Cynthia Elson,22.85,0.0,10.58,2.0,25.6kg,$3.40,395,N,24/01/2024,albion-park
+23,2,Cyndie's Swift (3),Cynthia Elson,23.05,2.75,10.53,1.0,24.8kg,$3.60,395,N,24/01/2024,albion-park
+24,3,Rare Beauty (1),Angela Hagicostas,23.08,3.25,10.82,3.0,31.8kg,$6.00,395,N,24/01/2024,albion-park
+25,4,Kahlia's Pride (2),Kevin Kemp,23.56,10.0,11.0,4.0,27.1kg,$34.00,395,N,24/01/2024,albion-park
+26,5,Raptor's Magic (7),Travis Elson,23.57,10.25,11.16,6.0,29.1kg,$34.00,395,N,24/01/2024,albion-park
+27,6,Geneva Bale (5),Stephen Neary,23.75,12.75,11.03,5.0,27.4kg,$21.00,395,N,24/01/2024,albion-park
+28,7,Tiny Rocket (8),David Bailey,24.06,17.25,11.28,7.0,23.5kg,$51.00,395,N,24/01/2024,albion-park
+29,8,Orara Tom (6),Gary Smith,27.3,63.5,14.44,8.0,27.7kg,$2.80,395,N,24/01/2024,albion-park
+30,1,Impress Dressel (1),Dave Irwin,29.92,0.0,5.53,11.0,33.7kg,$1.60,520,MA5,24/01/2024,albion-park
+31,2,Duelling Banjos (3),Lyndall Brand,30.23,4.25,5.6,22.0,31.6kg,$4.20,520,MA5,24/01/2024,albion-park
+32,3,Hello Cyndie (7),Cynthia Elson,30.77,12.25,5.68,33.0,25.4kg,$5.50,520,MA5,24/01/2024,albion-park
+33,4,Don't Tell Helen (5),Christine Bourke,30.88,13.75,5.73,56.0,31.4kg,$15.00,520,MA5,24/01/2024,albion-park
+34,5,Long Black Lass (4),Mark Rothwell,31.06,16.25,5.83,75.0,28.3kg,$71.00,520,MA5,24/01/2024,albion-park
+35,6,Maywyn Idris (6),Robert Essex,31.15,17.5,5.83,87.0,28.4kg,$41.00,520,MA5,24/01/2024,albion-park
+36,7,Human Touch (2),Kevin Kemp,31.24,18.75,5.81,64.0,29.3kg,$81.00,520,MA5,24/01/2024,albion-park
+37,8,Zipping Demi (8),Warren Nicholls,31.27,19.25,5.72,48.0,27.3kg,$18.00,520,MA5,24/01/2024,albion-park
+38,1,Magical Cyndie (7),Cynthia Elson,30.16,0.0,5.55,21.0,27.2kg,$2.30,520,MA5,24/01/2024,albion-park
+39,2,Darkseid (6),Shane Staples,30.51,5.0,5.75,54.0,33.9kg,$5.00,520,MA5,24/01/2024,albion-park
+40,3,Speedy Paws (2),David Fitzgerald,30.69,7.5,5.66,45.0,29.9kg,$8.00,520,MA5,24/01/2024,albion-park
+41,4,Midnight Bandit (8),Gregory Paull,30.95,11.25,5.83,87.0,34.6kg,$51.00,520,MA5,24/01/2024,albion-park
+42,5,Disaster Piece (5),G Broadrick,31.0,12.0,5.57,33.0,31.7kg,$5.50,520,MA5,24/01/2024,albion-park
+43,6,My Genie (4),Renald Attard,31.14,14.0,5.76,66.0,28.1kg,$41.00,520,MA5,24/01/2024,albion-park
+44,7,Lula's Ruby (3),Roan Enright,31.39,17.5,5.53,12.0,25.1kg,$4.60,520,MA5,24/01/2024,albion-park
+45,8,Lady Charm (1),David Bailey,31.49,19.0,5.78,78.0,29.8kg,$26.00,520,MA5,24/01/2024,albion-park
+46,1,Dixie Gambles (4),Tom Tzouvelis,30.23,0.0,5.58,11.0,25.9kg,$2.10,520,MA5,24/01/2024,albion-park
+47,2,Blazing Smoke (8),Renald Attard,30.43,2.75,5.77,53.0,35.7kg,$4.60,520,MA5,24/01/2024,albion-park
+48,3,Where's The Ford (3),Noel Evans,30.77,7.75,5.76,44.0,31.6kg,$3.50,520,MA5,24/01/2024,albion-park
+49,4,Springview Hawk (2),Jacob White,30.89,9.25,5.59,22.0,33.0kg,$7.00,520,MA5,24/01/2024,albion-park
+50,5,Allegation (5),Ken Boody,31.1,12.25,5.89,76.0,31.5kg,$34.00,520,MA5,24/01/2024,albion-park
+51,6,Me And You (7),David Bailey,31.3,15.25,5.92,87.0,26.6kg,$26.00,520,MA5,24/01/2024,albion-park
+52,7,Mazikeen Smith (1),Ned Snow,31.82,22.5,5.74,35.0,30.0kg,$81.00,520,MA5,24/01/2024,albion-park
+53,DNF,Dynamite Cyndie (6),Cynthia Elson,,,,68.0,28.2kg,,520,MA5,24/01/2024,albion-park
+54,1,Big Town Hero (1),Sandra Hunt,30.68,0.0,5.67,11.0,31.7kg,$2.15,520,MA5,24/01/2024,albion-park
+55,2,Rebel Ethics (8),Jacob White,30.73,0.75,5.7,33.0,31.8kg,$4.20,520,MA5,24/01/2024,albion-park
+56,3,Hopeful Bella (2),Cynthia Elson,30.74,0.75,5.73,45.0,28.8kg,$5.50,520,MA5,24/01/2024,albion-park
+57,4,Lucky Lance (5),Robert Ayres,30.75,1.0,5.77,64.0,34.3kg,$15.00,520,MA5,24/01/2024,albion-park
+58,5,Hoover (3),Cecil Druery,30.82,2.0,5.68,22.0,31.3kg,$34.00,520,MA5,24/01/2024,albion-park
+59,6,Say Some Words (7),Darren Taylor,31.26,8.25,5.74,57.0,28.5kg,$5.50,520,MA5,24/01/2024,albion-park
+60,7,Maywyn Ulysses (4),Robert Essex,31.46,11.0,5.8,86.0,31.6kg,$31.00,520,MA5,24/01/2024,albion-park
+61,8,Mr. Fawnstone (6),Jamie Mchugh,34.07,48.25,5.78,78.0,35.5kg,$34.00,520,MA5,24/01/2024,albion-park
+62,1,Respectability (6),Michael Patterson,29.88,0.0,5.61,11.0,32.4kg,$1.50,520,MA5,24/01/2024,albion-park
+63,2,Hopeful Lana (2),Cynthia Elson,30.72,12.0,5.65,22.0,28.1kg,$5.00,520,MA5,24/01/2024,albion-park
+64,3,Zipping Tedesco (3),C Buhner,30.79,13.0,5.73,43.0,31.6kg,$7.50,520,MA5,24/01/2024,albion-park
+65,4,Make It Count (7),Cameron Austin,30.82,13.25,5.72,34.0,33.6kg,$23.00,520,MA5,24/01/2024,albion-park
+66,5,Any Given Sunday (1),Terry Priest,30.92,14.75,5.82,65.0,30.6kg,$12.00,520,MA5,24/01/2024,albion-park
+67,6,Hozier Monelli (8),Gary Keep,31.32,20.5,5.86,86.0,33.8kg,$51.00,520,MA5,24/01/2024,albion-park
+68,7,Oreo Ethics (4),Peter O'Reilly,31.69,25.75,5.83,78.0,32.2kg,$101.00,520,MA5,24/01/2024,albion-park
+69,8,Laughing Les (5),Sidney Goodwin,31.93,29.25,5.74,57.0,33.1kg,$15.00,520,MA5,24/01/2024,albion-park
+70,1,Paying Dividends (5),John Dart,22.44,0.0,10.44,2.0,26.5kg,$4.40,395,5,24/01/2024,albion-park
+71,2,Waikarie Misty (6),Graham Chalmers,22.84,5.75,10.55,3.0,26.6kg,$6.00,395,5,24/01/2024,albion-park
+72,3,Logan Alpha (3),C Buhner,22.91,6.5,10.41,1.0,31.2kg,$4.00,395,5,24/01/2024,albion-park
+73,4,Danger Zone (7),Travis Elson,23.05,8.75,10.76,5.0,31.0kg,$3.10,395,5,24/01/2024,albion-park
+74,5,Super Stacey (2),Sandra Hunt,23.14,10.0,10.8,6.0,28.8kg,$9.00,395,5,24/01/2024,albion-park
+75,6,Lionel Hutz (8),Josephine Warbroek,23.2,10.75,10.67,4.0,30.2kg,$26.00,395,5,24/01/2024,albion-park
+76,7,Matt's Magic (1),Travis Elson,23.45,14.25,10.92,7.0,29.9kg,$12.00,395,5,24/01/2024,albion-park
+77,8,Hawk's Responder (4),Christopher Riordon,23.55,15.75,11.09,8.0,39.0kg,$34.00,395,5,24/01/2024,albion-park
+78,1,Obliging Lionel (6),Cynthia Elson,22.76,0.0,10.51,2.0,31.6kg,$8.00,395,X34,24/01/2024,albion-park
+79,2,Whole Truth (3),Sandra Hunt,22.86,1.5,10.39,1.0,28.5kg,$3.90,395,X34,24/01/2024,albion-park
+80,3,Feel The Beat (5),Sandra Hunt,22.99,3.25,10.77,4.0,34.2kg,$3.60,395,X34,24/01/2024,albion-park
+81,4,Out Of Austrian (1),Ned Snow,23.08,4.5,10.57,3.0,33.5kg,$4.00,395,X34,24/01/2024,albion-park
+82,5,Kingsbrae Wendy (7),John Dart,23.18,6.0,10.89,6.0,26.3kg,$7.00,395,X34,24/01/2024,albion-park
+83,6,Viking Rio (4),Jeff Cumming,23.36,8.5,10.9,7.0,31.9kg,$41.00,395,X34,24/01/2024,albion-park
+84,7,Final Countdown (8),Rusty Dillon,23.47,10.0,10.89,5.0,35.2kg,$12.00,395,X34,24/01/2024,albion-park
+85,8,Dreamy Dan (2),Robert Dacey,23.55,11.25,11.02,8.0,29.9kg,$14.00,395,X34,24/01/2024,albion-park
+86,1,Galway Governor (7),Sean Galloway,22.99,0.0,10.62,1.0,29.2kg,$26.00,395,5,24/01/2024,albion-park
+87,2,Sorrento Breeze (2),Stephen Neary,23.02,0.5,10.81,3.0,27.7kg,$6.00,395,5,24/01/2024,albion-park
+88,3,Daysea's Sam (1),Robert Dacey,23.36,5.25,10.79,2.0,33.8kg,$1.90,395,5,24/01/2024,albion-park
+89,4,Attorney At Law (3),Darren Taylor,23.46,6.5,10.83,4.0,32.0kg,$7.00,395,5,24/01/2024,albion-park
+90,5,Future's Changed (8),Michael Brauer,23.57,8.25,11.12,8.0,29.3kg,$51.00,395,5,24/01/2024,albion-park
+91,6,Sirius Lizzie (6),Darren Johnstone,23.72,10.25,10.98,7.0,29.4kg,$11.00,395,5,24/01/2024,albion-park
+92,7,Obliging Hope (5),Cynthia Elson,23.75,10.75,10.98,6.0,26.8kg,$6.00,395,5,24/01/2024,albion-park
+93,8,Miss Mel (4),Ty Henzell,23.91,13.25,10.89,5.0,27.2kg,$13.00,395,5,24/01/2024,albion-park
+94,1,Farmor Power (1),Cecil Druery,22.77,0.0,10.46,1.0,33.5kg,$3.20,395,5,24/01/2024,albion-park
+95,2,Wild As Her (4),Warren Nicholls,22.92,2.0,10.6,3.0,25.9kg,$5.00,395,5,24/01/2024,albion-park
+96,3,Nicole Maria (8),John Dart,22.99,3.0,10.73,5.0,25.9kg,$9.50,395,5,24/01/2024,albion-park
+97,4,Here's Howie (2),Jayson Valentine,23.03,3.75,10.65,4.0,33.8kg,$5.50,395,5,24/01/2024,albion-park
+98,5,Rochill Moon (3),Michael Brauer,23.11,4.75,10.57,2.0,27.5kg,$8.00,395,5,24/01/2024,albion-park
+99,6,Daysea's Unique (5),Robert Dacey,23.48,10.0,10.78,6.0,30.1kg,$13.00,395,5,24/01/2024,albion-park
+100,7,Phantom Star (7),Darren Taylor,23.68,13.0,11.03,8.0,28.6kg,$4.40,395,5,24/01/2024,albion-park
+101,8,Sirius Jennifer (6),Darren Johnstone,23.77,14.25,10.99,7.0,28.3kg,$51.00,395,5,24/01/2024,albion-park
+102,1,Argyle Axle (4),Raymond Morgan,24.63,0.0,6.68,M221,32.2kg,$4.80,425,T3-M,24/01/2024,bendigo
+103,2,Nana's Rebel (6),Judith Condo,24.84,2.91,6.87,S742,29.5kg,$12.00,425,T3-M,24/01/2024,bendigo
+104,3,Tornado Jack (7),Thomas Boehmke,24.98,4.89,6.87,M665,28.2kg,$9.00,425,T3-M,24/01/2024,bendigo
+105,4,Ritza Dale (1),Mark Faulkner,24.99,5.03,6.8,M533,25.0kg,$8.00,425,T3-M,24/01/2024,bendigo
+106,5,Singing Billy (2),John Bray,25.05,5.87,6.67,M114,34.4kg,$4.80,425,T3-M,24/01/2024,bendigo
+107,6,Vulcan Icon (8),Gary Edwards,25.06,6.14,6.98,M887,39.2kg,$4.80,425,T3-M,24/01/2024,bendigo
+108,7,Charlie Boo (5),Peter Knott,25.35,10.2,6.75,M478,25.2kg,$10.00,425,T3-M,24/01/2024,bendigo
+109,8,Bakali Lass (3),Kate Jackson,25.41,11.06,6.68,M356,27.0kg,$15.00,425,T3-M,24/01/2024,bendigo
+110,1,Typhoon Cameron (6),Scott Stefanos,24.52,0.0,6.75,M311,31.3kg,$3.20,425,T3-M,24/01/2024,bendigo
+111,2,Run Pebbles Run (8),Michael Chilcott,25.03,7.31,6.9,M872,24.5kg,$12.00,425,T3-M,24/01/2024,bendigo
+112,3,Hello Luna (1),Kate Jackson,25.1,8.25,6.76,M553,25.3kg,$8.00,425,T3-M,24/01/2024,bendigo
+113,4,Kris Bar Paddy (5),Wayne Hooke,25.25,10.39,6.84,S726,32.3kg,$10.00,425,T3-M,24/01/2024,bendigo
+114,5,Little Tic (2),Judith Condo,25.3,11.23,6.79,M684,27.1kg,$7.50,425,T3-M,24/01/2024,bendigo
+115,6,Mincher Magic (3),Brian Brown,25.37,12.21,6.75,S465,31.0kg,$6.00,425,T3-M,24/01/2024,bendigo
+116,7,Pablo's Call (7),Jason Formosa,25.71,17.01,6.73,M237,33.0kg,$21.00,425,T3-M,24/01/2024,bendigo
+117,8,Midnight Press (4),John Bray,25.75,17.54,6.68,M148,36.9kg,$4.80,425,T3-M,24/01/2024,bendigo
+118,1,Especial Digger (8),Elise Knott,24.14,0.0,6.56,M111,27.0kg,$10.00,425,T3-7,24/01/2024,bendigo
+119,2,Cooper Summer (6),Kevin Ashton,24.38,3.39,6.77,M433,29.0kg,$10.00,425,T3-7,24/01/2024,bendigo
+120,3,Orson As (1),Briana Robertson -Leech,24.45,4.44,6.63,M222,25.3kg,$5.50,425,T3-7,24/01/2024,bendigo
+121,4,Tom Tom (7),Briana Robertson -Leech,24.5,5.2,6.81,M554,31.4kg,$12.00,425,T3-7,24/01/2024,bendigo
+122,5,Hollywood Franky (5),Brian Brown,24.58,6.21,6.89,M775,30.2kg,$3.60,425,T3-7,24/01/2024,bendigo
+123,6,Coconut Oakland (4),Paul Gabriel,24.68,7.71,7.03,S886,36.0kg,$16.00,425,T3-7,24/01/2024,bendigo
+124,7,Move Of Magnus (2),Josh Duncan,24.78,9.09,6.68,M347,30.4kg,$4.60,425,T3-7,24/01/2024,bendigo
+125,8,Strike A Night (3),John Bray,24.88,10.61,6.86,M668,33.8kg,$4.00,425,T3-7,24/01/2024,bendigo
+126,1,Yeah Sweetie (3),Cameron Hudson,24.4,0.0,6.79,M321,30.5kg,$6.00,425,T3-5,24/01/2024,bendigo
+127,2,My Compass (7),Brian Brown,24.55,2.07,6.72,M212,33.8kg,$10.00,425,T3-5,24/01/2024,bendigo
+128,3,Mcivor Jack (4),Julie Priest,24.58,2.56,6.8,M563,30.6kg,$4.80,425,T3-5,24/01/2024,bendigo
+129,4,Immersive (5),Scott Stefanos,24.64,3.33,6.79,M444,24.5kg,$3.40,425,T3-5,24/01/2024,bendigo
+130,5,Swanny River (6),Glenn Maxwell,24.85,6.33,6.82,M755,27.3kg,$9.00,425,T3-5,24/01/2024,bendigo
+131,6,Sam's Boy (2),Briana Robertson -Leech,24.91,7.3,6.87,M876,30.3kg,$10.00,425,T3-5,24/01/2024,bendigo
+132,7,Sunshine Gold (1),Douglas Sheridan,24.92,7.36,6.8,M688,30.3kg,$7.50,425,T3-5,24/01/2024,bendigo
+133,8,Burdock (8),Robert Hayes,24.99,8.34,6.71,M137,33.8kg,$21.00,425,T3-5,24/01/2024,bendigo
+134,1,Minnie The Minx (3),Sheila Donlon,24.27,0.0,6.7,M111,28.6kg,$7.50,425,T3-5,24/01/2024,bendigo
+135,2,Rapidfire Forest (8),Claire Allen,24.39,1.73,6.81,M422,35.9kg,$3.00,425,T3-5,24/01/2024,bendigo
+136,3,Fernbank Flyer (1),Briana Robertson -Leech,24.66,5.56,6.82,M533,25.9kg,$4.60,425,T3-5,24/01/2024,bendigo
+137,4,Impassioned (5),Scott Stefanos,24.68,5.83,6.75,Q255,25.7kg,$8.00,425,T3-5,24/01/2024,bendigo
+138,5,Urana Fernando (7),Peter Trim,24.71,6.27,6.87,M864,32.5kg,$16.00,425,T3-5,24/01/2024,bendigo
+139,6,Battle Axle (4),William Donlon,24.72,6.43,6.75,M346,30.4kg,$12.00,425,T3-5,24/01/2024,bendigo
+140,7,Clara Stella (2),Elise Knott,24.89,8.83,6.87,M787,24.4kg,$9.00,425,T3-5,24/01/2024,bendigo
+141,8,Speedy Mouse (6),Darren Fisher,24.92,9.34,6.83,M678,26.0kg,$6.00,425,T3-5,24/01/2024,bendigo
+142,1,Kraken Rover (5),Barry Hall,24.76,0.0,6.75,M441,29.7kg,$10.00,425,T3-5,24/01/2024,bendigo
+143,2,No Holds Barred (6),Wendy Hansen,24.79,0.47,6.71,M135,31.9kg,$3.00,425,T3-5,24/01/2024,bendigo
+144,3,Hydro Glide (1),Kevin Ashton,24.88,1.75,6.73,S322,33.6kg,$9.00,425,T3-5,24/01/2024,bendigo
+145,4,Trending Power (3),Donna Knight,24.94,2.63,6.82,M564,33.9kg,$5.00,425,T3-5,24/01/2024,bendigo
+146,5,Hot Cross (2),Joe Uglietta,24.96,2.93,6.71,M213,33.2kg,$12.00,425,T3-5,24/01/2024,bendigo
+147,6,Redshift Romeo (7),Kenneth Kubik,25.11,5.03,6.83,S657,36.9kg,$9.00,425,T3-5,24/01/2024,bendigo
+148,7,Flying Speed (4),Colin Goodman,25.64,12.6,6.83,M776,30.7kg,$12.00,425,T3-5,24/01/2024,bendigo
+149,8,Aaron Alpaca (8),Benjamin Abela,25.7,13.46,6.9,M888,27.0kg,$5.00,425,T3-5,24/01/2024,bendigo
+150,1,Cool Cabang (5),Gregory Berry,28.68,0.0,6.75,M511,35.0kg,$3.60,500,T3-RW,24/01/2024,bendigo
+151,2,Fire Wire (8),Cameron Knott,28.76,1.03,6.74,M422,32.1kg,$6.00,500,T3-RW,24/01/2024,bendigo
+152,3,Call Me John (6),Gary Hansen,29.02,4.81,6.7,M233,30.9kg,$8.00,500,T3-RW,24/01/2024,bendigo
+153,4,Ducks A Flying (3),Michael Chilcott,29.06,5.41,6.91,M755,33.3kg,$18.00,500,T3-RW,24/01/2024,bendigo
+154,5,Aston Arielle (1),Andrew Mooney,29.14,6.53,6.73,Q366,27.1kg,$4.60,500,T3-RW,24/01/2024,bendigo
+155,6,Flaming Smudger (7),Paul Ellis,29.15,6.6,6.66,M144,29.7kg,$4.20,500,T3-RW,24/01/2024,bendigo
+156,7,Loved By You (4),Peter Desmond,29.25,8.1,6.86,M677,31.7kg,$7.50,500,T3-RW,24/01/2024,bendigo
+157,1,Fayetteville (5),Donna Knight,28.75,0.0,6.65,M211,32.7kg,$16.00,500,T3-5,24/01/2024,bendigo
+158,2,Coach Beard (4),Jye Formosa,28.79,0.69,6.82,M522,36.6kg,$3.40,500,T3-5,24/01/2024,bendigo
+159,3,Under Arrest (7),Jordan Formosa,28.81,0.96,6.94,M744,36.3kg,$6.00,500,T3-5,24/01/2024,bendigo
+160,4,Nanna's Blue Boy (6),Taylor Edwards,28.82,1.13,6.87,M633,32.0kg,$6.00,500,T3-5,24/01/2024,bendigo
+161,5,Mighty Thanos (8),Ronald Fisher,29.12,5.39,6.82,M455,32.6kg,$4.00,500,T3-5,24/01/2024,bendigo
+162,6,Crackerjack Pop (1),Darren Petersen,29.18,6.27,6.81,M376,33.4kg,$14.00,500,T3-5,24/01/2024,bendigo
+163,7,Jedda Milne (3),Brent Merton,29.83,15.5,6.6,M167,24.9kg,$8.00,500,T3-5,24/01/2024,bendigo
+164,1,Vinegar Chips (4),Kevin Lingard,24.22,0.0,6.63,Q111,27.1kg,$5.00,425,T3-7,24/01/2024,bendigo
+165,2,Demoness (6),Nicole Johnston,24.33,1.5,6.75,M333,28.2kg,$6.00,425,T3-7,24/01/2024,bendigo
+166,3,Little Fast Bull (5),Elise Knott,24.34,1.66,6.68,M222,25.3kg,$2.80,425,T3-7,24/01/2024,bendigo
+167,4,Speedy Fynn (2),Wayne Hooke,24.49,3.84,6.75,M444,32.2kg,$4.60,425,T3-7,24/01/2024,bendigo
+168,5,Back Pay (3),Chananchida Sriboon,24.81,8.44,6.76,M555,33.8kg,$21.00,425,T3-7,24/01/2024,bendigo
+169,6,Perfect Stranger (7),Joe Uglietta,24.85,8.9,6.97,S887,32.4kg,$12.00,425,T3-7,24/01/2024,bendigo
+170,7,Beryl The Peril (1),Paul Radstock,24.89,9.47,6.76,M666,26.5kg,$12.00,425,T3-7,24/01/2024,bendigo
+171,8,Leroy (8),Chananchida Sriboon,25.07,12.14,6.85,M778,34.9kg,$12.00,425,T3-7,24/01/2024,bendigo
+172,1,Rabada (2),Simone Fisher,24.33,0.0,6.69,M311,31.7kg,$3.40,425,T3-6,24/01/2024,bendigo
+173,2,Sweet Chevelle (7),Aroha Hemingway,24.47,2.13,6.71,M443,26.2kg,$10.00,425,T3-6,24/01/2024,bendigo
+174,3,Workout (4),Gary Hansen,24.5,2.43,6.65,M122,24.5kg,$4.20,425,T3-6,24/01/2024,bendigo
+175,4,Kaori (3),Peter Knott,24.54,3.06,6.78,M654,25.6kg,$4.80,425,T3-6,24/01/2024,bendigo
+176,5,Bubsy Fernando (8),Adriano Moro,24.75,6.07,6.69,Q235,24.9kg,$6.00,425,T3-6,24/01/2024,bendigo
+177,6,Mister Shoeman (5),Gary Robinson,24.76,6.21,6.73,M566,30.1kg,$6.00,425,T3-6,24/01/2024,bendigo
+178,7,Lovely Romeo (6),Joe Uglietta,25.0,9.63,6.92,S877,34.0kg,$21.00,425,T3-6,24/01/2024,bendigo
+179,8,Rhapsody Blue (1),Richard Boehm,25.56,17.61,6.83,M788,33.5kg,$12.00,425,T3-6,24/01/2024,bendigo
+180,1,Con Cabang (8),Gregory Berry,24.16,0.0,6.78,S411,34.6kg,$4.80,425,T3-5,24/01/2024,bendigo
+181,2,Speedy Muffin (2),Simone Fisher,24.72,7.9,6.72,M222,27.0kg,$6.00,425,T3-5,24/01/2024,bendigo
+182,3,Colour Me (1),Scott Stefanos,24.87,10.13,6.85,S643,27.7kg,$7.00,425,T3-5,24/01/2024,bendigo
+183,4,Smiling Spaniard (7),Arron Rocke,24.93,10.91,6.71,M134,33.6kg,$14.00,425,T3-5,24/01/2024,bendigo
+184,5,Sacrificial (3),Donna Knight,24.97,11.56,6.85,M566,27.4kg,$12.00,425,T3-5,24/01/2024,bendigo
+185,6,Blue Tick Maya (6),Julie Chilcott,25.03,12.33,6.77,M355,25.4kg,$10.00,425,T3-5,24/01/2024,bendigo
+186,7,Kelsey's Girl (4),Michael Chilcott,25.17,14.34,6.91,M877,26.1kg,$4.20,425,T3-5,24/01/2024,bendigo
+187,8,Beat The Falcon (5),Philip Dower,25.3,16.29,6.86,M788,36.2kg,$4.60,425,T3-5,24/01/2024,bendigo
+188,1,Spellman (8),Sandra Elmes,24.4,0.0,6.62,M111,30.1kg,$9.00,425,T3-5,24/01/2024,bendigo
+189,2,Missy Ha Ha (3),Alan Bayliss,24.4,0.15,6.74,M333,26.8kg,$16.00,425,T3-5,24/01/2024,bendigo
+190,3,Cindy's Kyle (4),Andrew Mooney,24.49,1.3,6.8,M444,38.4kg,$8.00,425,T3-5,24/01/2024,bendigo
+191,4,Denis The Menace (2),Darren Petersen,24.63,3.25,6.71,M222,32.0kg,$10.00,425,T3-5,24/01/2024,bendigo
+192,5,Blue Bale (1),Donna Knight,24.79,5.59,6.84,S655,35.5kg,$3.40,425,T3-5,24/01/2024,bendigo
+193,6,Summer Season (5),Kevin Ashton,24.93,7.53,6.83,M566,28.4kg,$12.00,425,T3-5,24/01/2024,bendigo
+194,7,Roxy Eggnog (7),Donna Knight,24.99,8.5,6.94,M877,34.6kg,$4.80,425,T3-5,24/01/2024,bendigo
+195,8,Van Diemen (6),Peter Frost,25.29,12.71,6.91,M788,37.3kg,$3.60,425,T3-5,24/01/2024,bendigo
+196,1,Foreign Capital (7),Victor Sultana,19.18,0.0,3.42,211.0,33.5kg,$4.00,340,M,24/01/2024,bulli
+197,2,Lucky Winner (2),John Callaughan,19.47,4.25,3.61,653.0,36.9kg,$1.70,340,M,24/01/2024,bulli
+198,3,To The Station (5),Grante Andersen,19.77,8.25,3.52,344.0,31.1kg,$4.20,340,M,24/01/2024,bulli
+199,4,Dazzlin' Ethics (4),Samantha-Jade Rathbone,20.03,12.25,3.51,122.0,33.2kg,$34.00,340,M,24/01/2024,bulli
+200,5,Phoenix Moon (6),Raymond Thomas,20.12,13.25,3.51,435.0,28.3kg,$4.20,340,M,24/01/2024,bulli
+201,6,Major Johnson (1),Michael Johnson,20.13,13.5,3.7,566.0,33.2kg,$21.00,340,M,24/01/2024,bulli
+202,DNF,Mighty Shimmy (8),Lewis Galea,,,,,24.7kg,,340,M,24/01/2024,bulli
+203,1,Suave Ethics (2),Glen Goodwin,19.19,0.0,3.37,321,29.7kg,$1.60,340,5,24/01/2024,bulli
+204,2,Lady Luck Ethics (4),David Smith,19.34,2.0,3.34,112,28.7kg,$5.00,340,5,24/01/2024,bulli
+205,3,Oh So Classy (5),Nathan Summers,19.4,3.0,3.38,433,30.1kg,$5.00,340,5,24/01/2024,bulli
+206,4,Purify Virtuoso (8),George Micallef,19.64,6.25,3.42,655,35.2kg,$9.00,340,5,24/01/2024,bulli
+207,5,Rockstar Louise (1),Shaun Evans,19.7,7.25,3.43,264,27.8kg,$21.00,340,5,24/01/2024,bulli
+208,6,Mount York (7),Charlie Micallef,19.75,8.0,3.38,546,32.4kg,$26.00,340,5,24/01/2024,bulli
+209,1,Supreme Osti (2),Ashley Dwyer,27.23,0.0,,551,34.1kg,$1.95,472,5,24/01/2024,bulli
+210,2,Luigi Wave (8),Victor Sultana,27.24,0.13,,332,32.2kg,$4.60,472,5,24/01/2024,bulli
+211,3,Mister Tweedie (1),James Cortis,27.24,0.13,,663,30.7kg,$8.00,472,5,24/01/2024,bulli
+212,4,Flash Hunter (7),Annette Fleming,27.26,0.5,,224,29.9kg,$7.00,472,5,24/01/2024,bulli
+213,5,Calla Charlie (4),John Callaughan,27.35,1.75,,445,33.5kg,$19.00,472,5,24/01/2024,bulli
+214,6,Magic Aussie (5),James Cortis,27.54,4.25,,116,31.5kg,$6.00,472,5,24/01/2024,bulli
+215,1,Awesome Ethics (5),David Smith,26.23,0.0,,121,32.1kg,$4.40,472,5,24/01/2024,bulli
+216,2,Chester's Light (2),Lakis Michael,26.56,4.75,,412,33.5kg,$4.00,472,5,24/01/2024,bulli
+217,3,Cawbourne Speech (7),Bailey Dickinson,26.72,7.0,,333,31.0kg,$3.50,472,5,24/01/2024,bulli
+218,4,Go Forward Layla (4),Adam Campton,26.75,7.5,,544,30.6kg,$7.00,472,5,24/01/2024,bulli
+219,5,Express Pearl (1),Antonio Teofilo,26.79,8.0,,665,30.2kg,$14.00,472,5,24/01/2024,bulli
+220,6,Catastrophize (8),Nathan Summers,26.93,10.0,,256,35.0kg,$4.20,472,5,24/01/2024,bulli
+221,1,Bald Head Sally (7),Brett Richardson,22.88,0.0,6.56,411.0,26.7kg,$4.40,400,5,24/01/2024,bulli
+222,2,Girl's Night (6),Garry Erwin,23.16,4.0,6.62,222.0,28.7kg,$31.00,400,5,24/01/2024,bulli
+223,3,Mount Tate (3),Charlie Micallef,23.19,4.25,6.81,665.0,28.7kg,$13.00,400,5,24/01/2024,bulli
+224,4,Thundering Blue (4),Gregory Sutherland,23.27,5.5,6.71,354.0,37.6kg,$5.00,400,5,24/01/2024,bulli
+225,5,Zipping Striker (8),Shaun Flaherty,23.29,5.75,6.65,533.0,34.6kg,$1.80,400,5,24/01/2024,bulli
+226,6,Fortunate Boy (2),Keith Waddington,23.51,9.0,6.67,146.0,31.9kg,$11.00,400,5,24/01/2024,bulli
+227,1,Shinkansen (3),Mackayla Clarke,19.31,0.0,3.33,232,33.4kg,$26.00,340,5,24/01/2024,bulli
+228,2,Doonside Lewis (8),Lewis Galea,19.32,0.13,3.41,865,32.5kg,$4.60,340,5,24/01/2024,bulli
+229,3,Atomic Charlie (2),Raymond Maitland,19.42,1.5,3.3,111,31.1kg,$6.50,340,5,24/01/2024,bulli
+230,4,Screaming Envy (1),Bradley Richardson,19.44,1.75,3.41,553,31.1kg,$19.00,340,5,24/01/2024,bulli
+231,5,Milo Rules (4),John Callaughan,19.48,2.25,3.47,786,38.0kg,$5.50,340,5,24/01/2024,bulli
+232,6,Tilly Banner (6),Lee Rodgers,19.51,2.75,3.32,324,27.2kg,$9.00,340,5,24/01/2024,bulli
+233,7,Woolgoolga Gal (7),Jason Keller,19.63,4.5,3.37,647,26.9kg,$2.20,340,5,24/01/2024,bulli
+234,8,Tony Intention (5),Robert Blakely,19.89,8.25,3.42,478,32.7kg,$51.00,340,5,24/01/2024,bulli
+235,1,Brilliant Light (6),George Tyrpenou,19.11,0.0,3.35,331.0,35.9kg,$4.00,340,5,24/01/2024,bulli
+236,2,Woolgoolga Lass (8),Jason Keller,19.45,4.75,3.32,523.0,24.2kg,$1.60,340,5,24/01/2024,bulli
+237,3,Lumbar Puncture (5),John Callaughan,19.71,8.5,3.45,765.0,30.3kg,$9.50,340,5,24/01/2024,bulli
+238,4,Mellcat Kiss (4),Garry Erwin,19.71,8.5,3.27,112.0,26.3kg,$61.00,340,5,24/01/2024,bulli
+239,5,Sure Is Minty (1),Heath Eggleton,19.81,10.0,3.4,244.0,25.4kg,$23.00,340,5,24/01/2024,bulli
+240,6,Two Doors Down (3),Nathan Summers,19.85,10.5,3.42,456.0,27.8kg,$6.00,340,5,24/01/2024,bulli
+241,7,George Intention (7),Robert Blakely,20.11,14.25,3.46,677.0,33.2kg,$61.00,340,5,24/01/2024,bulli
+242,1,Tulsi Banner (1),Barry Gibbons,22.24,0.0,6.41,111.0,26.4kg,$3.10,400,5,24/01/2024,bulli
+243,2,Interstate Mac (6),John Jackson,22.28,0.75,6.5,433.0,31.0kg,$21.00,400,5,24/01/2024,bulli
+244,3,Hush Hush (4),Sam Sultana,22.38,2.0,6.63,544.0,34.1kg,$1.90,400,5,24/01/2024,bulli
+245,4,Doonside Deadly (2),Jason Keller,22.66,6.0,6.43,222.0,30.9kg,$11.00,400,5,24/01/2024,bulli
+246,5,Saint Rico (5),Charlie Gatt,22.89,9.25,6.75,676.0,35.6kg,$12.00,400,5,24/01/2024,bulli
+247,6,Fabulous Ryan (3),Charlie Gatt,22.99,10.5,6.7,365.0,28.5kg,$17.00,400,5,24/01/2024,bulli
+248,7,Unleash Havoc (7),Ian Forno,23.06,11.75,6.8,788.0,32.1kg,$14.00,400,5,24/01/2024,bulli
+249,8,Gypsy Parade (8),Leonard Studders,23.19,13.5,6.69,857.0,29.0kg,$41.00,400,5,24/01/2024,bulli
+250,1,Wally Wombat (7),Victor Sultana,22.44,0.0,6.54,511,30.9kg,$6.00,400,5,24/01/2024,bulli
+251,2,Slippery Gunn (8),Raymond Toomey,22.71,3.75,6.54,722,25.3kg,$31.00,400,5,24/01/2024,bulli
+252,3,Fantastic Spike (1),Jason Fletcher,22.78,4.75,6.69,256,35.3kg,$1.55,400,5,24/01/2024,bulli
+253,4,Complainer (4),Leonard Studders,22.96,7.5,6.77,475,35.3kg,$17.00,400,5,24/01/2024,bulli
+254,5,Nina The Hyena (6),Dylan Goodger,23.05,8.75,6.63,133,26.9kg,$31.00,400,5,24/01/2024,bulli
+255,6,Handbrake's Off (2),Therese Simmons,23.13,9.75,6.67,344,32.1kg,$4.60,400,5,24/01/2024,bulli
+256,7,Luke No Figure (3),Victor Sultana,23.34,12.75,6.89,888,31.5kg,$26.00,400,5,24/01/2024,bulli
+257,8,Major Soko (5),Michael Johnson,23.41,13.75,6.72,667,29.3kg,$71.00,400,5,24/01/2024,bulli
+258,1,Nangar Archie (4),Caitlyn Brewer,22.44,0.0,6.41,111.0,33.6kg,$5.00,400,X45,24/01/2024,bulli
+259,2,Ferocious Amigo (1),Shaun Flaherty,22.65,3.0,6.55,233.0,32.8kg,$2.70,400,X45,24/01/2024,bulli
+260,3,Rockstar Aloha (5),Shaun Evans,22.68,3.5,6.5,322.0,28.0kg,$41.00,400,X45,24/01/2024,bulli
+261,4,Sweet Venom (2),Gregory Sutherland,22.85,5.75,6.67,454.0,29.4kg,$34.00,400,X45,24/01/2024,bulli
+262,5,Harrison Keeping (3),James Cortis,23.06,8.75,6.7,565.0,34.4kg,$23.00,400,X45,24/01/2024,bulli
+263,6,Usain Bark (7),Brett Richardson,23.23,11.25,6.58,646.0,27.8kg,$31.00,400,X45,24/01/2024,bulli
+264,DNF,Me Me Celebrity (6),David Smith,,,,,27.1kg,,400,X45,24/01/2024,bulli
+265,DNF,Nando Banner (8),Barry Gibbons,,,,,33.3kg,,400,X45,24/01/2024,bulli
+266,1,Angelo (8),Charlie Gatt,22.32,0.0,6.46,611,35.1kg,$2.40,400,5,24/01/2024,bulli
+267,2,Midnight Star (5),Mackayla Clarke,22.59,3.75,6.54,122,28.5kg,$16.00,400,5,24/01/2024,bulli
+268,3,Rockstar Cabello (4),Christopher Nutt,22.78,6.5,6.58,233,28.1kg,$6.50,400,5,24/01/2024,bulli
+269,4,Classic Move (1),Sam Simonetta,22.83,7.25,6.66,476,34.5kg,$2.80,400,5,24/01/2024,bulli
+270,5,Rio Ripley (2),Sam Simonetta,22.94,8.75,6.81,785,35.7kg,$23.00,400,5,24/01/2024,bulli
+271,6,Hey Party Girl (3),Bradley Richardson,23.05,10.25,6.65,364,29.2kg,$23.00,400,5,24/01/2024,bulli
+272,7,Aussie Cortis (6),James Cortis,23.39,15.25,6.64,548,32.3kg,$13.00,400,5,24/01/2024,bulli
+273,8,Papa Joe (7),Guiseppe Denardo,23.53,17.25,6.64,857,34.0kg,$11.00,400,5,24/01/2024,bulli
+274,1,Amanda Kiss (5),Bradley Cook,16.23,0.0,5.6,21.0,,$0.00,275,N,24/01/2024,cannington
+275,2,Marley Cruise (2),Barry Mcpherson,16.48,3.75,5.71,54.0,,$0.00,275,N,24/01/2024,cannington
+276,3,Michigan Mia (1),John Graham,16.49,3.78,5.66,33.0,,$0.00,275,N,24/01/2024,cannington
+277,4,Simply Out There (8),Trudi Mitchem,16.54,4.53,5.7,45.0,,$0.00,275,N,24/01/2024,cannington
+278,5,Lightning Strike (6),Michael Rylands,16.59,5.28,5.6,12.0,,$0.00,275,N,24/01/2024,cannington
+279,6,Shinboner Archer (4),Graeme Hall,16.67,6.53,5.8,66.0,,$0.00,275,N,24/01/2024,cannington
+280,7,Shinboner Proud (7),May Leach,16.74,7.53,5.83,77.0,,$0.00,275,N,24/01/2024,cannington
+281,8,Shinboner Twist (3),Graeme Hall,16.87,9.28,5.96,88.0,,$0.00,275,N,24/01/2024,cannington
+282,1,Yingluck (8),Joseph Dailly,22.14,0.0,6.7,111.0,,$0.00,380,M,24/01/2024,cannington
+283,2,Zed Gundi (3),Geoffrey Reid,22.81,9.75,7.06,333.0,,$0.00,380,M,24/01/2024,cannington
+284,3,Narnak (1),Eric Campana,22.94,11.75,7.05,222.0,,$0.00,380,M,24/01/2024,cannington
+285,4,Dizzy's Dream (6),Rodney Noden,23.09,13.75,7.17,554.0,,$0.00,380,M,24/01/2024,cannington
+286,5,Mighty Tom (5),Barry Mcpherson,23.46,19.25,7.16,445.0,,$0.00,380,M,24/01/2024,cannington
+287,6,Elsie Flash (7),Rodney Noden,23.74,23.25,7.21,688.0,,$0.00,380,M,24/01/2024,cannington
+288,7,Retire On Me (2),John Magistro,23.75,23.31,7.21,776.0,,$0.00,380,M,24/01/2024,cannington
+289,8,Chill Out (4),Michael Rylands,23.76,23.44,7.31,867.0,,$0.00,380,M,24/01/2024,cannington
+290,1,Touch Of Tommy (3),Joseph Dailly,22.0,0.0,6.52,111.0,,$0.00,380,M,24/01/2024,cannington
+291,2,Mick Will Do (5),Barry Mcpherson,22.57,8.25,6.75,222.0,,$0.00,380,M,24/01/2024,cannington
+292,3,Send It Jack (7),Trudi Mitchem,22.73,10.5,7.09,534.0,,$0.00,380,M,24/01/2024,cannington
+293,4,Zipper One (8),Nicola Minutillo,22.78,11.25,7.02,443.0,,$0.00,380,M,24/01/2024,cannington
+294,5,Twinkle Toes Nod (2),Rodney Noden,23.32,18.75,6.96,355.0,,$0.00,380,M,24/01/2024,cannington
+295,6,Karnya (4),Eric Campana,23.35,19.25,7.24,777.0,,$0.00,380,M,24/01/2024,cannington
+296,7,Anita Gundi (6),Geoffrey Reid,23.4,20.0,7.19,666.0,,$0.00,380,M,24/01/2024,cannington
+297,8,Send It Bree (1),Eric Campana,23.54,22.0,7.31,888.0,,$0.00,380,M,24/01/2024,cannington
+298,1,Scramble Button (2),Eric Campana,30.53,0.0,5.76,3221.0,,$0.00,520,M,24/01/2024,cannington
+299,2,Quick Lands (3),Michael Rylands,30.69,2.25,5.91,8444.0,,$0.00,520,M,24/01/2024,cannington
+300,3,Cosy Corner (7),Kevin Phillips,30.8,3.75,5.76,2333.0,,$0.00,520,M,24/01/2024,cannington
+301,4,Connie Keeping (1),Benjamin Maclean,30.81,3.81,5.62,1112.0,,$0.00,520,M,24/01/2024,cannington
+302,5,Girl Hill (5),Justin Wood,30.87,4.81,5.78,4755.0,,$0.00,520,M,24/01/2024,cannington
+303,6,Westdale Freddy (6),Jai Jormanainen-Davis,31.04,7.31,5.84,7566.0,,$0.00,520,M,24/01/2024,cannington
+304,7,Speed Lee (8),Michael Rylands,31.42,12.81,5.78,5887.0,,$0.00,520,M,24/01/2024,cannington
+305,8,Canya Gulfstream (4),Kody Charles,31.55,14.81,5.79,6678.0,,$0.00,520,M,24/01/2024,cannington
+306,1,Pyroclasm (2),Eric Campana,21.96,0.0,6.63,211.0,,$0.00,380,N,24/01/2024,cannington
+307,2,Confetti Emoji (5),David Hobby,22.01,0.5,6.69,322.0,,$0.00,380,N,24/01/2024,cannington
+308,3,Rogue Runner (6),Peter Glenny,22.3,4.75,6.78,543.0,,$0.00,380,N,24/01/2024,cannington
+309,4,Augusta Star (3),Rodney Noden,22.51,7.75,6.89,776.0,,$0.00,380,N,24/01/2024,cannington
+310,5,Liberty Star (8),Rodney Noden,22.6,9.0,6.69,454.0,,$0.00,380,N,24/01/2024,cannington
+311,6,Roseanna Gundi (7),Geoffrey Reid,22.64,9.5,6.86,667.0,,$0.00,380,N,24/01/2024,cannington
+312,7,Yunderup Thorn (1),Michael Rylands,22.71,10.5,6.98,888.0,,$0.00,380,N,24/01/2024,cannington
+313,8,Opal Deluxe (4),Benjamin Maclean,22.74,10.75,6.62,135.0,,$0.00,380,N,24/01/2024,cannington
+314,1,Mustang Timmy (2),Christopher Halse,29.73,0.0,5.56,1111.0,,$0.00,520,N,24/01/2024,cannington
+315,2,Sunset Serengeti (7),David Hobby,30.06,4.75,5.59,3332.0,,$0.00,520,N,24/01/2024,cannington
+316,3,Vander Harley (1),Enzo Crudeli,30.23,7.25,5.66,6555.0,,$0.00,520,N,24/01/2024,cannington
+317,4,Cadia Gold (3),Cosimo Dagostino,30.24,7.38,5.65,5423.0,,$0.00,520,N,24/01/2024,cannington
+318,5,Maxwell Smart (5),Christine Robartson,30.46,10.63,5.71,8666.0,,$0.00,520,N,24/01/2024,cannington
+319,6,Night Moon (8),Joseph Dailly,30.5,11.13,5.59,2244.0,,$0.00,520,N,24/01/2024,cannington
+320,7,Little Lorelei (4),Shayne Williams,30.55,11.88,5.69,7777.0,,$0.00,520,N,24/01/2024,cannington
+321,8,Oreo Apprentice (6),Colleen Pierson,30.88,16.63,5.6,4888.0,,$0.00,520,N,24/01/2024,cannington
+322,1,West On Fever (4),Christopher Halse,21.63,0.0,6.43,111.0,,$0.00,380,FFA,24/01/2024,cannington
+323,2,Tahiti Dreams (1),Michael Hine,21.84,3.0,6.6,222.0,,$0.00,380,FFA,24/01/2024,cannington
+324,3,Sunset Cobra (2),Benjamin Maclean,22.15,7.25,6.67,433.0,,$0.00,380,FFA,24/01/2024,cannington
+325,4,Ultimate Command (8),Phillip Worthington,22.15,7.31,6.66,344.0,,$0.00,380,FFA,24/01/2024,cannington
+326,5,All Over Katie (6),Bradley Cook,22.25,8.81,6.81,775.0,,$0.00,380,FFA,24/01/2024,cannington
+327,6,Kodja Girl (5),Eric Campana,22.49,12.31,6.83,886.0,,$0.00,380,FFA,24/01/2024,cannington
+328,7,Joe The Lion (3),Kody Charles,23.06,20.56,6.74,567.0,,$0.00,380,FFA,24/01/2024,cannington
+329,8,West On Hazy (7),Benjamin Maclean,23.25,23.06,6.75,658.0,,$0.00,380,FFA,24/01/2024,cannington
+330,1,Finloch Shadows (1),Benjamin Maclean,22.02,0.0,6.55,111,,$0.00,380,X45,24/01/2024,cannington
+331,2,Horoscope (5),Phillip Worthington,22.21,2.75,6.69,333,,$0.00,380,X45,24/01/2024,cannington
+332,3,Close Contact (2),Barry Mcpherson,22.3,4.0,6.69,222,,$0.00,380,X45,24/01/2024,cannington
+333,4,Off The Green (3),Michael Hine,22.36,5.0,6.79,444,,$0.00,380,X45,24/01/2024,cannington
+334,5,Rocky Balboa (6),Gary Nelson,22.4,5.5,6.87,555,,$0.00,380,X45,24/01/2024,cannington
+335,6,Kenny Keeping (8),Wayne Beamish,22.52,7.25,6.97,866,,$0.00,380,X45,24/01/2024,cannington
+336,7,Shian Pedro (7),Maxwell Julien,22.8,11.25,6.97,688,,$0.00,380,X45,24/01/2024,cannington
+337,8,Fantasy Lee (4),Phillip Worthington,22.86,12.25,6.97,777,,$0.00,380,X45,24/01/2024,cannington
+338,1,Sunset Comanche (6),David Hobby,29.96,0.0,5.62,2111,,$0.00,520,X65,24/01/2024,cannington
+339,2,Stranger Within (8),Maxwell Julien,30.19,3.25,5.58,1222,,$0.00,520,X65,24/01/2024,cannington
+340,3,Shy Emoji (4),David Hobby,30.27,4.25,5.7,5444,,$0.00,520,X65,24/01/2024,cannington
+341,4,Azuero (1),Benjamin Maclean,30.48,7.25,5.69,3333,,$0.00,520,X65,24/01/2024,cannington
+342,5,Blue Passion (3),Christopher Halse,30.76,11.25,5.69,4666,,$0.00,520,X65,24/01/2024,cannington
+343,6,Aussie Primrose (2),Bradley Mitchem,30.8,11.75,5.72,6555,,$0.00,520,X65,24/01/2024,cannington
+344,7,Raining Cash (7),Enzo Crudeli,31.09,15.75,5.79,7777,,$0.00,520,X65,24/01/2024,cannington
+345,1,Sassy Snickers (5),Justin Wood,21.84,0.0,6.51,111,,$0.00,380,5,24/01/2024,cannington
+346,2,All About Quartz (6),David Hobby,21.95,1.5,6.68,222,,$0.00,380,5,24/01/2024,cannington
+347,3,Vacillate (1),Eric Campana,22.44,8.5,6.78,333,,$0.00,380,5,24/01/2024,cannington
+348,4,Ace Glamour (4),Benjamin Maclean,22.45,8.63,6.91,544,,$0.00,380,5,24/01/2024,cannington
+349,5,Abby Keeping (2),Bradley Cook,22.57,10.13,6.9,455,,$0.00,380,5,24/01/2024,cannington
+350,6,Classic Style (7),Murray Stewart,22.6,10.63,7.05,666,,$0.00,380,5,24/01/2024,cannington
+351,7,Cash Key (3),Phillip Worthington,22.86,14.13,7.05,777,,$0.00,380,5,24/01/2024,cannington
+352,8,Shake The Dream (8),May Leach,23.01,16.38,7.16,888,,$0.00,380,5,24/01/2024,cannington
+353,1,West On Outlaw (5),Christopher Halse,22.27,0.0,6.73,332.0,,$0.00,380,6,24/01/2024,cannington
+354,2,Black Trinity (7),Murray Stewart,22.39,1.75,6.61,111.0,,$0.00,380,6,24/01/2024,cannington
+355,3,Mango Salsa (3),Graeme Hall,22.51,3.5,6.67,223.0,,$0.00,380,6,24/01/2024,cannington
+356,4,Global Road (2),Phillip Worthington,22.56,4.25,6.91,774.0,,$0.00,380,6,24/01/2024,cannington
+357,5,Victim Of Desire (6),May Leach,22.58,4.5,6.92,886.0,,$0.00,380,6,24/01/2024,cannington
+358,6,Poppy Tahleia (4),Wayne Beamish,22.6,4.75,6.76,445.0,,$0.00,380,6,24/01/2024,cannington
+359,7,Trisha Keeping (8),Benjamin Maclean,22.78,7.25,6.83,558.0,,$0.00,380,6,24/01/2024,cannington
+360,8,Split Decision (1),Bradley Mitchem,22.88,8.5,6.88,667.0,,$0.00,380,6,24/01/2024,cannington
+361,1,Good As Hell (8),Anthony Mallia,22.06,0.0,6.68,221.0,,$0.00,380,6,24/01/2024,cannington
+362,2,Simply Beat That (7),Bradley Mitchem,22.23,2.5,6.57,112.0,,$0.00,380,6,24/01/2024,cannington
+363,3,Wahoo Monelli (5),Phillip Worthington,22.36,4.25,6.82,445.0,,$0.00,380,6,24/01/2024,cannington
+364,4,Max Blazer (6),Barry Mcpherson,22.4,4.75,6.71,333.0,,$0.00,380,6,24/01/2024,cannington
+365,5,Carrie Heffernan (4),Bradley Cook,22.47,5.75,6.84,554.0,,$0.00,380,6,24/01/2024,cannington
+366,6,Lady Tureaud (1),Graeme Hall,22.53,6.75,6.92,766.0,,$0.00,380,6,24/01/2024,cannington
+367,7,Extreme Rip (3),Shayne Williams,22.65,8.5,6.92,878.0,,$0.00,380,6,24/01/2024,cannington
+368,8,El Salvador (2),Wayne Beamish,22.68,9.0,6.84,687.0,,$0.00,380,6,24/01/2024,cannington
+369,1,Tokyo's Gem (6),Wilfried Wormer,20.06,0.0,,,26.1kg,$2.00,366,M,24/01/2024,capalaba
+370,2,Daysea's Rita (2),Robert Dacey,20.18,1.75,,,29.5kg,$16.00,366,M,24/01/2024,capalaba
+371,3,Jaded (1),Joanne Price,20.35,4.25,,,26.1kg,$4.40,366,M,24/01/2024,capalaba
+372,4,Ripple Rhythm (8),Michael Lalicz,20.38,4.5,,,28.0kg,$3.10,366,M,24/01/2024,capalaba
+373,5,Elodie Rose (3),Robert Ayres,20.6,7.75,,,26.2kg,$9.00,366,M,24/01/2024,capalaba
+374,6,Pimmy (4),Craig Cassidy,20.73,9.5,,,24.8kg,$81.00,366,M,24/01/2024,capalaba
+375,7,Bay Bay (7),Kristy Deicmanis,21.4,19.0,,,24.8kg,$101.00,366,M,24/01/2024,capalaba
+376,1,Outlaw Ripple (7),Michael Lalicz,20.66,0.0,,55.0,33.9kg,$4.20,366,M,24/01/2024,capalaba
+377,2,Greystone Hawk (1),Christopher Riordon,20.76,1.5,,88.0,39.1kg,$16.00,366,M,24/01/2024,capalaba
+378,3,Zipping Wesley (5),Christopher Jordan,20.78,1.75,,76.0,32.6kg,$4.40,366,M,24/01/2024,capalaba
+379,4,Daysea's Pete (8),Robert Dacey,20.79,1.75,,22.0,29.2kg,$7.00,366,M,24/01/2024,capalaba
+380,5,Best Kept Secret (4),Stuart Thompson,20.94,4.0,,31.0,29.2kg,$10.00,366,M,24/01/2024,capalaba
+381,6,Western Hawk (3),Christopher Riordon,21.08,6.0,,67.0,38.4kg,$41.00,366,M,24/01/2024,capalaba
+382,7,Outsider (2),Lynette Keep,21.12,6.5,,13.0,35.0kg,$5.50,366,M,24/01/2024,capalaba
+383,8,Dubai Dust (6),Ryan Hall,21.12,6.5,,44.0,33.7kg,$3.70,366,M,24/01/2024,capalaba
+384,1,Rhythm And Blues (2),Evelyn Harris,20.18,0.0,,52,26.4kg,$2.00,366,NPWNP,24/01/2024,capalaba
+385,2,Farmor Smitten (1),Cecil Druery,20.49,4.25,,11,29.1kg,$6.00,366,NPWNP,24/01/2024,capalaba
+386,3,Lenny's Mate (8),Kevin Macintosh,20.56,5.25,,44,32.2kg,$3.50,366,NPWNP,24/01/2024,capalaba
+387,4,Myka (4),Craig Cassidy,20.59,5.75,,23,24.7kg,$8.50,366,NPWNP,24/01/2024,capalaba
+388,5,Split The Night (5),Christopher Riordon,20.88,10.0,,35,28.2kg,$81.00,366,NPWNP,24/01/2024,capalaba
+389,6,Piazza Minerva (7),Jeffrey Henzell,21.32,16.25,,66,26.7kg,$6.50,366,NPWNP,24/01/2024,capalaba
+390,1,Nope Rope (3),Matthew Bourke,20.0,0.0,,74,32.2kg,$3.40,366,N,24/01/2024,capalaba
+391,2,Miss Mira (2),Gregory Stella,20.12,1.75,,32,27.4kg,$2.50,366,N,24/01/2024,capalaba
+392,3,Pay Freeze (7),Corey Mutton,20.27,3.75,,23,28.1kg,$3.40,366,N,24/01/2024,capalaba
+393,4,Cracking Miss (6),Lee Wylie,20.37,5.25,,56,24.7kg,$21.00,366,N,24/01/2024,capalaba
+394,5,Gail Unleashed (5),Barry Jones,20.45,6.25,,87,25.6kg,$15.00,366,N,24/01/2024,capalaba
+395,6,Snow Belle (4),Lee Wylie,20.51,7.25,,11,24.7kg,$71.00,366,N,24/01/2024,capalaba
+396,7,Arctic Hawk (8),Christopher Riordon,20.56,8.0,,68,37.4kg,$14.00,366,N,24/01/2024,capalaba
+397,8,Navada Neveah (1),Stephen Sherwell,20.65,9.25,,45,27.3kg,$21.00,366,N,24/01/2024,capalaba
+398,1,Murgon Mustang (1),Gregory Stella,19.95,0.0,,11.0,34.8kg,$2.80,366,5,24/01/2024,capalaba
+399,2,Power Up Max (8),Rusty Dillon,20.0,0.75,,22.0,33.5kg,$1.80,366,5,24/01/2024,capalaba
+400,3,Lone Hunter (6),Darren Taylor,20.1,2.0,,33.0,33.1kg,$26.00,366,5,24/01/2024,capalaba
+401,4,High Range (2),Raymond Plimmer,20.24,4.25,,65.0,35.4kg,$21.00,366,5,24/01/2024,capalaba
+402,5,Be Desired (7),Amy Broadrick,20.44,7.0,,44.0,27.7kg,$7.50,366,5,24/01/2024,capalaba
+403,6,Mclintock (5),Lee Wylie,20.51,8.0,,77.0,31.9kg,$51.00,366,5,24/01/2024,capalaba
+404,7,Willow's Pride (3),Kristy Deicmanis,20.61,9.25,,56.0,32.2kg,$61.00,366,5,24/01/2024,capalaba
+405,8,Orson Storm (4),Evelyn Harris,20.75,11.5,,88.0,29.9kg,$16.00,366,5,24/01/2024,capalaba
+406,1,Too Much Scotch (6),John Kuhn,19.92,0.0,,22.0,32.1kg,$6.00,366,5,24/01/2024,capalaba
+407,2,Darby Display (8),Evelyn Harris,19.93,0.13,,64.0,29.3kg,$2.70,366,5,24/01/2024,capalaba
+408,3,Born To Rave (1),Matthew Bourke,20.13,3.0,,46.0,26.9kg,$7.00,366,5,24/01/2024,capalaba
+409,4,In A Slipstream (4),Amy Broadrick,20.23,4.25,,11.0,26.5kg,$51.00,366,5,24/01/2024,capalaba
+410,5,Mr Fresh (3),Lee Wylie,20.32,5.75,,55.0,32.6kg,$26.00,366,5,24/01/2024,capalaba
+411,6,Horology (2),Joshua Priest,20.33,5.75,,88.0,29.8kg,$6.00,366,5,24/01/2024,capalaba
+412,7,Farmor Relief (7),Cecil Druery,20.36,6.25,,33.0,32.2kg,$4.60,366,5,24/01/2024,capalaba
+413,8,Kenny Dutton (5),Allan Oshyer,20.42,7.0,,77.0,32.8kg,$9.00,366,5,24/01/2024,capalaba
+414,1,Indigo Destroyer (7),Joanne Price,19.8,0.0,,11.0,36.1kg,$4.40,366,X45,24/01/2024,capalaba
+415,2,Rapid Ripple (1),Michael Lalicz,19.98,2.5,,77.0,29.6kg,$1.90,366,X45,24/01/2024,capalaba
+416,3,Biscuit Roller (3),Gregory Mellen,20.06,3.75,,88.0,33.9kg,$16.00,366,X45,24/01/2024,capalaba
+417,4,Excellent Work (2),Wilfried Wormer,20.09,4.25,,42.0,26.2kg,$5.50,366,X45,24/01/2024,capalaba
+418,5,Rebel Roxi (6),Evelyn Harris,20.1,4.25,,66.0,24.3kg,$31.00,366,X45,24/01/2024,capalaba
+419,6,Crayfish (8),Myra Griffiths,20.17,5.25,,25.0,26.7kg,$21.00,366,X45,24/01/2024,capalaba
+420,7,Bundy Trigger (4),Brett Hastie,20.21,5.75,,54.0,31.1kg,$11.00,366,X45,24/01/2024,capalaba
+421,8,Snow Patrol (5),Lee Wylie,20.33,7.5,,33.0,30.3kg,$18.00,366,X45,24/01/2024,capalaba
+422,1,Hey Wags (7),Joanne Price,19.8,0.0,,31.0,34.7kg,$17.00,366,X34,24/01/2024,capalaba
+423,2,She's A Sully (1),Lee Wylie,19.82,0.25,,55.0,26.0kg,$17.00,366,X34,24/01/2024,capalaba
+424,3,On The Radar (2),Louise Moulds,19.88,1.0,,22.0,30.2kg,$21.00,366,X34,24/01/2024,capalaba
+425,4,Cyndie's Bill (3),Nicole Connell,19.89,1.25,,66.0,35.6kg,$2.80,366,X34,24/01/2024,capalaba
+426,5,Dino Way (8),Michael Lalicz,19.93,1.75,,43.0,29.5kg,$2.60,366,X34,24/01/2024,capalaba
+427,6,Billy Nailer (5),Cecil Druery,20.08,4.0,,14.0,31.9kg,$41.00,366,X34,24/01/2024,capalaba
+428,7,Regal Romeo (4),Gregory Stella,21.59,25.5,,77.0,33.1kg,$3.30,366,X34,24/01/2024,capalaba
+429,1,So You See (6),Peter Young,19.92,0.0,,11.0,30.5kg,$4.60,366,5,24/01/2024,capalaba
+430,2,Curious Caza (1),Lee Wylie,20.21,4.25,,77.0,26.8kg,$3.20,366,5,24/01/2024,capalaba
+431,3,Elusive Emma (2),Amy Broadrick,20.28,5.25,,23.0,27.0kg,$21.00,366,5,24/01/2024,capalaba
+432,4,Weary Driver (7),Kevin Macintosh,20.3,5.25,,54.0,32.3kg,$2.40,366,5,24/01/2024,capalaba
+433,5,Last Deposit (8),Sidney Goodwin,20.33,5.75,,46.0,29.7kg,$7.50,366,5,24/01/2024,capalaba
+434,6,Young Stan (5),William Page,20.48,8.0,,32.0,28.1kg,$26.00,366,5,24/01/2024,capalaba
+435,7,Blackpool Keanu (4),Brendon Stevens,20.5,8.25,,65.0,28.7kg,$34.00,366,5,24/01/2024,capalaba
+436,8,Penny's Princess (3),Stephen McDermott,20.72,11.5,,88.0,29.6kg,$34.00,366,5,24/01/2024,capalaba
+437,1,Genius You (5),John Kuhn,19.97,0.0,,32.0,32.8kg,$4.80,366,MA5,24/01/2024,capalaba
+438,2,Maddy's Girl (7),Lee Wylie,19.98,0.13,,11.0,25.7kg,$17.00,366,MA5,24/01/2024,capalaba
+439,3,Burnt Sunset (2),Clifford Houston,20.04,1.0,,54.0,28.1kg,$1.25,366,MA5,24/01/2024,capalaba
+440,4,Rebel Prince (4),William Page,20.18,3.0,,23.0,28.8kg,$15.00,366,MA5,24/01/2024,capalaba
+441,5,Daysea's Trish (8),Robert Dacey,20.55,8.25,,45.0,27.5kg,$51.00,366,MA5,24/01/2024,capalaba
+442,1,Memory Lane (3),Rodney Power,20.11,0.0,,32,33.3kg,$1.85,366,MA5,24/01/2024,capalaba
+443,2,Thornbird (6),Gloria Falla,20.19,1.0,,53,26.2kg,$3.00,366,MA5,24/01/2024,capalaba
+444,3,Polly's Riff (7),Robert Purtle,20.35,3.5,,11,30.5kg,$51.00,366,MA5,24/01/2024,capalaba
+445,4,Albies Cruiser (4),Colin Hamilton,20.36,3.5,,46,27.0kg,$6.00,366,MA5,24/01/2024,capalaba
+446,5,Radiation (8),Jedd Naum,20.41,4.25,,24,37.3kg,$9.50,366,MA5,24/01/2024,capalaba
+447,6,Riewoldt (2),Amy Broadrick,20.49,5.25,,77,35.7kg,$34.00,366,MA5,24/01/2024,capalaba
+448,7,Cool Hand Rick (1),Sergio Livotto,20.7,8.25,,65,34.1kg,$23.00,366,MA5,24/01/2024,capalaba
+449,1,Hyper Viper (2),Adam Poulter,18.27,0.0,7.23,,24.6kg,$1.80,312,XM5,24/01/2024,darwin
+450,2,Charos Control (5),Ronald Phillips,18.46,2.5,,,25.9kg,$3.90,312,XM5,24/01/2024,darwin
+451,3,Paul's Lad (1),Adam Poulter,18.64,5.25,,,31.2kg,$6.50,312,XM5,24/01/2024,darwin
+452,4,White Amazon (7),Ronald Phillips,18.69,6.0,,,30.5kg,$10.30,312,XM5,24/01/2024,darwin
+453,5,Scott To Take (8),Harrison Brown,18.71,6.25,,,29.1kg,$19.80,312,XM5,24/01/2024,darwin
+454,6,Bonnet Surfer (4),Steele Bolton,18.83,8.0,,,30.2kg,$14.40,312,XM5,24/01/2024,darwin
+455,1,Duo Glide (8),Steele Bolton,22.46,0.0,11.17,,32.8kg,$1.90,383,XM5,24/01/2024,darwin
+456,2,Eight Gifts (7),Ronald Phillips,22.86,5.75,,,31.5kg,$13.10,383,XM5,24/01/2024,darwin
+457,3,Mallanganee Miss (1),Graeme Ferns,22.92,6.5,,,24.3kg,$76.00,383,XM5,24/01/2024,darwin
+458,4,Black Daniels (5),Steele Bolton,23.05,8.25,,,31.1kg,$10.90,383,XM5,24/01/2024,darwin
+459,5,Ronaldo (3),Steele Bolton,23.58,16.0,,,33.8kg,$11.60,383,XM5,24/01/2024,darwin
+460,6,Socks La La (6),Teresa Wareham,23.65,17.0,,,28.1kg,$2.50,383,XM5,24/01/2024,darwin
+461,1,Green La La (4),Teresa Wareham,17.96,0.0,7.09,,28.7kg,$3.40,312,XM5,24/01/2024,darwin
+462,2,More Speed (5),Steele Bolton,18.27,4.25,,,29.9kg,$4.00,312,XM5,24/01/2024,darwin
+463,3,Sunshine Fire (8),Steele Bolton,18.38,6.0,,,26.9kg,$3.60,312,XM5,24/01/2024,darwin
+464,4,Manawata (2),Adam Poulter,18.62,9.25,,,32.2kg,$4.60,312,XM5,24/01/2024,darwin
+465,5,Aaron Keeping (7),Ronald Phillips,18.77,11.5,,,31.4kg,$18.20,312,XM5,24/01/2024,darwin
+466,6,Pollinate (1),Ronald Phillips,18.87,13.0,,,27.7kg,$10.70,312,XM5,24/01/2024,darwin
+467,1,Foxy Foliaki (1),Steele Bolton,31.83,0.0,5.34,,25.5kg,$9.50,537,X45,24/01/2024,darwin
+468,2,Lizzie Lass (8),Simon Nathanael,31.9,1.0,,,27.3kg,$2.90,537,X45,24/01/2024,darwin
+469,3,I'm Flat Out (6),Steele Bolton,31.96,1.75,,,26.9kg,$3.40,537,X45,24/01/2024,darwin
+470,4,Flying Agassi (2),Steele Bolton,32.12,4.25,,,30.6kg,$29.10,537,X45,24/01/2024,darwin
+471,5,Foxy Sheila (4),Steele Bolton,32.35,7.5,,,27.6kg,$2.50,537,X45,24/01/2024,darwin
+472,1,My Shout Zoe (1),Steele Bolton,18.1,0.0,7.15,,25.7kg,$3.50,312,O,24/01/2024,darwin
+473,2,Roma Blue (7),Graeme Ferns,18.29,2.5,,,31.9kg,$2.50,312,O,24/01/2024,darwin
+474,3,Shatter (2),Ronald Phillips,18.33,3.25,,,30.0kg,$14.70,312,O,24/01/2024,darwin
+475,4,Beer Bandit (8),Steele Bolton,18.4,4.25,,,31.1kg,$4.00,312,O,24/01/2024,darwin
+476,5,Corn Cob (5),Adam Poulter,18.44,4.75,,,25.7kg,$6.90,312,O,24/01/2024,darwin
+477,DNF,Slick Sundance (4),Adam Poulter,,,,,31.7kg,,312,O,24/01/2024,darwin
+478,1,Our Therapy (2),Steele Bolton,22.14,0.0,10.99,,29.4kg,$2.00,383,X45,24/01/2024,darwin
+479,2,Dancer On Fire (4),Harrison Brown,22.69,7.75,,,27.0kg,$3.30,383,X45,24/01/2024,darwin
+480,3,Sleek Tori (3),Brian Kelleher,22.78,9.25,,,24.6kg,$43.10,383,X45,24/01/2024,darwin
+481,4,More Beers (1),Steele Bolton,22.81,9.5,,,32.9kg,$45.40,383,X45,24/01/2024,darwin
+482,5,Dirty Attack (7),Steele Bolton,22.89,10.5,,,29.2kg,$30.80,383,X45,24/01/2024,darwin
+483,6,Canya Beth (8),Adam Poulter,23.03,12.75,,,29.2kg,$28.70,383,X45,24/01/2024,darwin
+484,DNF,Akimbo (5),Graeme Ferns,,,,,33.3kg,,383,X45,24/01/2024,darwin
+485,DNF,Cheers Dave (6),Steele Bolton,,,,,31.8kg,,383,X45,24/01/2024,darwin
+486,1,Notorious Diesel (2),Ronald Phillips,18.09,0.0,7.15,,30.7kg,$2.00,312,X34,24/01/2024,darwin
+487,2,Nikanova (1),Graeme Ferns,18.21,1.75,,,28.7kg,$4.10,312,X34,24/01/2024,darwin
+488,3,Poor Wally (4),Steele Bolton,18.23,2.0,,,31.4kg,$5.10,312,X34,24/01/2024,darwin
+489,4,Rosie La La (5),Teresa Wareham,18.34,3.5,,,28.0kg,$45.50,312,X34,24/01/2024,darwin
+490,5,Cobber's Chance (7),Graeme Ferns,18.45,5.25,,,32.1kg,$6.30,312,X34,24/01/2024,darwin
+491,6,Spiteful Miss (8),Harrison Brown,18.5,5.75,,,25.9kg,$15.00,312,X34,24/01/2024,darwin
+492,1,Rain On Me (2),John Cunningham,23.44,0.0,9.0,,26.8kg,$2.50,400,M,24/01/2024,gawler
+493,2,Detorri Fury (5),Tony Hinrichsen,23.6,2.25,8.96,,26.9kg,$9.00,400,M,24/01/2024,gawler
+494,3,Hello Lady (8),Brenda Oakey,23.66,3.0,9.03,,24.8kg,$4.60,400,M,24/01/2024,gawler
+495,4,Easy Money Molly (1),Ashley Furner,23.88,6.25,9.22,,26.9kg,$2.25,400,M,24/01/2024,gawler
+496,5,Bomber Fury (4),Tony Hinrichsen,23.91,6.5,8.99,,28.1kg,$61.00,400,M,24/01/2024,gawler
+497,1,Wait Up (4),Donald Turner,23.38,0.0,8.98,,27.3kg,$4.00,400,6,24/01/2024,gawler
+498,2,Spice Boy (7),Yvonne Maxwell,23.43,0.75,8.91,,31.6kg,$2.80,400,6,24/01/2024,gawler
+499,3,Spring Maze (1),Vernon Anderson,23.46,1.0,8.82,,32.6kg,$9.00,400,6,24/01/2024,gawler
+500,4,Happy Sky (8),Brenda Oakey,23.58,2.75,8.97,,26.9kg,$2.25,400,6,24/01/2024,gawler
+501,5,Full On Fury (2),Tony Hinrichsen,23.65,3.75,9.11,,24.7kg,$41.00,400,6,24/01/2024,gawler
+502,6,Newton's Law (5),Rebecca Mcauley-fry,23.73,5.0,9.12,,28.9kg,$41.00,400,6,24/01/2024,gawler
+503,1,Get Up Jimmy (1),Robyn Mackellar,22.86,0.0,8.63,,32.6kg,$1.08,400,6,24/01/2024,gawler
+504,2,Lost At Sea (4),John Cunningham,22.91,0.75,8.82,,31.6kg,$23.00,400,6,24/01/2024,gawler
+505,3,Sweet Coin Babe (8),Nicole Price,23.02,2.25,8.91,,28.5kg,$6.50,400,6,24/01/2024,gawler
+506,4,Tintillo (2),Sharyn Gray,23.16,4.25,8.89,,33.0kg,$31.00,400,6,24/01/2024,gawler
+507,5,Irish Brandy (6),Clint Trengove,23.23,5.25,9.01,,24.6kg,$61.00,400,6,24/01/2024,gawler
+508,1,Montana Lace (2),Donald Turner,38.23,0.0,9.49,,30.6kg,$9.50,643,X65,24/01/2024,gawler
+509,2,Coco Coaster (1),David Perry,38.29,0.75,9.26,,26.1kg,$2.90,643,X65,24/01/2024,gawler
+510,3,Fat Boy's Lucky (8),Trevor Sargent,38.34,1.5,9.4,,34.1kg,$3.80,643,X65,24/01/2024,gawler
+511,4,Elegant Ritzy (6),Richard Stasiak,38.38,2.0,9.32,,28.1kg,$2.30,643,X65,24/01/2024,gawler
+512,1,Lost Cause (2),Kevin Bewley,31.47,0.0,3.44,,37.0kg,$2.60,531,6,24/01/2024,gawler
+513,2,Whisky Not Wine (4),John Cunningham,31.53,0.75,3.35,,31.3kg,$3.20,531,6,24/01/2024,gawler
+514,3,Lektra Asha (1),Donald Gordon,31.56,1.25,3.34,,24.9kg,$7.00,531,6,24/01/2024,gawler
+515,4,Has Got It (5),Michael Wittholz,31.84,5.25,3.32,,27.0kg,$3.30,531,6,24/01/2024,gawler
+516,5,Post Master (8),John Williams,31.96,7.0,3.37,,30.2kg,$34.00,531,6,24/01/2024,gawler
+517,1,Oakvale Outlaw (8),Nicole Price,22.97,0.0,8.81,,35.0kg,$1.15,400,5,24/01/2024,gawler
+518,2,Ally Kade (4),Neil Mann,23.36,5.5,8.99,,27.1kg,$51.00,400,5,24/01/2024,gawler
+519,3,Bold Onyx (7),Wayne Burge,23.39,6.0,9.18,,28.2kg,$9.50,400,5,24/01/2024,gawler
+520,4,Black Light Burn (5),Kevin Bewley,23.44,6.5,9.15,,31.5kg,$23.00,400,5,24/01/2024,gawler
+521,5,Sintra (3),Anthony Fry,23.67,10.0,9.23,,29.7kg,$101.00,400,5,24/01/2024,gawler
+522,6,Weekend Spice (6),Yvonne Maxwell,23.68,10.0,9.12,,32.7kg,$17.00,400,5,24/01/2024,gawler
+523,7,By The Dram (2),Vernon Anderson,23.72,10.5,9.01,,32.2kg,$10.00,400,5,24/01/2024,gawler
+524,1,Rolling Riot (3),Donald Turner,22.69,0.0,8.82,,35.8kg,$2.70,400,5,24/01/2024,gawler
+525,2,Long Gully Shack (6),Paula Hearnden,22.74,0.75,9.0,,35.7kg,$2.50,400,5,24/01/2024,gawler
+526,3,Send It Sammy (1),Tony Hinrichsen,23.04,5.0,8.76,,27.0kg,$5.00,400,5,24/01/2024,gawler
+527,4,Spring Elsie (7),Vernon Anderson,23.43,10.5,9.09,,27.3kg,$34.00,400,5,24/01/2024,gawler
+528,5,Blue Tszyu (4),Rebecca Mcauley-fry,23.64,13.5,9.14,,26.3kg,$61.00,400,5,24/01/2024,gawler
+529,6,Koepka (2),Vernon Anderson,23.72,14.5,8.95,,31.6kg,$18.00,400,5,24/01/2024,gawler
+530,7,Pumpkin Party (5),Kevin Bewley,23.73,14.75,9.08,1.0,30.2kg,$6.50,400,5,24/01/2024,gawler
+531,1,Sutton Ebony (1),John Williams,22.87,0.0,8.85,,26.0kg,$3.00,400,I,24/01/2024,gawler
+532,2,Correlate (5),Tony Hinrichsen,22.99,1.75,8.71,,25.4kg,$41.00,400,I,24/01/2024,gawler
+533,3,Legendary Value (6),Karen Wittholz,23.1,3.25,8.79,,27.4kg,$9.00,400,I,24/01/2024,gawler
+534,4,Velocity Zaylia (4),Nicole Price,23.25,5.25,9.14,,26.6kg,$2.70,400,I,24/01/2024,gawler
+535,5,Nangar Teddy (3),Yvonne Maxwell,23.26,5.5,9.05,,33.1kg,$8.00,400,I,24/01/2024,gawler
+536,6,Flaming Bubbles (8),John Cunningham,23.61,10.5,9.26,,29.0kg,$41.00,400,I,24/01/2024,gawler
+537,7,It's Smudgy (2),Clint Trengove,26.04,45.25,9.54,,24.1kg,$4.60,400,I,24/01/2024,gawler
+538,1,Soul Writer (2),John Mundy,23.31,0.0,8.85,,26.0kg,$6.00,400,6,24/01/2024,gawler
+539,2,Romantic Prince (1),Ashley Furner,23.35,0.75,8.94,,30.3kg,$2.10,400,6,24/01/2024,gawler
+540,3,Royal Silk (6),Wayne Burge,23.45,2.0,8.89,,28.4kg,$4.00,400,6,24/01/2024,gawler
+541,4,Fawn Charger (8),Donald Gordon,23.52,3.0,8.94,,27.5kg,$5.50,400,6,24/01/2024,gawler
+542,5,Urana Mr. Rob (4),Kevin Bewley,23.54,3.25,8.84,,26.8kg,$12.00,400,6,24/01/2024,gawler
+543,1,Bing Bong Raider (2),Paula Hearnden,22.97,0.0,8.81,,29.2kg,$1.40,400,6,24/01/2024,gawler
+544,2,Stylish Affair (5),John Mundy,23.18,3.0,8.74,,26.0kg,$8.50,400,6,24/01/2024,gawler
+545,3,Trending Striker (8),Graeme Stirling,23.42,6.25,9.04,,34.8kg,$15.00,400,6,24/01/2024,gawler
+546,4,Pensive Fury (4),Tony Hinrichsen,23.42,6.25,8.96,,25.5kg,$8.00,400,6,24/01/2024,gawler
+547,5,Centennial (1),Vernon Anderson,23.47,7.0,8.87,,28.2kg,$10.00,400,6,24/01/2024,gawler
+548,6,Don't Burn Me (7),John Cunningham,23.65,9.75,9.02,,28.9kg,$15.00,400,6,24/01/2024,gawler
+549,1,Waltzing Blaze (1),Gavin Ithier,17.05,0.0,4.01,S2,34.7kg,$15.00,300,M,24/01/2024,healesville
+550,2,Remo Adalli (8),David Plumridge,17.18,1.87,3.97,Q1,26.1kg,$4.20,300,M,24/01/2024,healesville
+551,3,Rocket Susie (3),Noel Walsh,17.32,3.75,4.05,M5,26.3kg,$6.50,300,M,24/01/2024,healesville
+552,4,Aston Wrapper (7),Daniel Hoch,17.32,3.8,4.04,M4,24.0kg,$5.00,300,M,24/01/2024,healesville
+553,5,Impish (4),David Franklin,17.58,7.5,4.1,M6,29.0kg,$3.20,300,M,24/01/2024,healesville
+554,6,Gate Girl (2),Ronald Wood,17.59,7.66,4.04,M3,23.0kg,$21.00,300,M,24/01/2024,healesville
+555,7,Mr. Drifter (5),Jessica Mcgovern,17.76,10.16,4.17,M7,29.2kg,$8.00,300,M,24/01/2024,healesville
+556,1,Out Of Charge (7),Susan Abela,16.87,0.0,3.97,M1,34.4kg,$3.20,300,M,24/01/2024,healesville
+557,2,Give Me Love (5),Noel Walsh,17.04,2.46,3.99,M2,25.0kg,$21.00,300,M,24/01/2024,healesville
+558,3,Bonnieville Icon (1),Daniel Hoch,17.14,3.94,4.08,M5,30.0kg,$10.00,300,M,24/01/2024,healesville
+559,4,Bekere (4),Vanessa Johnson,17.17,4.34,4.06,M3,31.9kg,$5.50,300,M,24/01/2024,healesville
+560,5,Who You Kissin' (3),Daniel Hoch,17.26,5.54,4.18,S7,29.7kg,$12.00,300,M,24/01/2024,healesville
+561,6,Super Potato (6),Jack Clarke,17.35,6.93,4.15,M6,24.4kg,$2.80,300,M,24/01/2024,healesville
+562,7,Waltzing Embers (2),Gavin Ithier,17.39,7.43,4.06,M4,25.2kg,$15.00,300,M,24/01/2024,healesville
+563,1,River King (7),Garry Johnson,19.37,0.0,6.62,Q1,35.0kg,$2.60,350,M,24/01/2024,healesville
+564,2,Kid George (2),Donald Jarvis,19.78,5.86,6.83,M3,32.2kg,$5.00,350,M,24/01/2024,healesville
+565,3,Larry In Pursuit (1),Margery Quick,19.89,7.44,6.76,M2,32.0kg,$8.00,350,M,24/01/2024,healesville
+566,4,Silver Streak (6),Noel Walsh,19.9,7.64,6.85,M5,24.3kg,$12.00,350,M,24/01/2024,healesville
+567,5,Aston Atlantic (8),Daniel Hoch,20.12,10.75,6.84,M4,28.9kg,$4.60,350,M,24/01/2024,healesville
+568,6,Got My Mojo (4),Ian Blencowe,20.19,11.69,6.89,M6,27.3kg,$41.00,350,M,24/01/2024,healesville
+569,7,Moon Stroller (3),Noel Walsh,20.25,12.64,6.98,S7,30.7kg,$15.00,350,M,24/01/2024,healesville
+570,1,Zipping Patty (1),Paul Anderton,16.66,0.0,3.95,M3,33.1kg,$5.50,300,7,24/01/2024,healesville
+571,2,Dr. Harold (3),Judith McMahon,16.67,0.14,4.01,M4,31.2kg,$3.00,300,7,24/01/2024,healesville
+572,3,Lakeview Jack (8),Owen Mcgovern,16.75,1.27,4.07,M7,31.6kg,$5.00,300,7,24/01/2024,healesville
+573,4,Cal's Sensation (4),Jeff Gorgioski,16.89,3.31,4.06,S6,33.0kg,$3.60,300,7,24/01/2024,healesville
+574,5,Zambora's Girl (2),Graeme Campbell,17.0,4.93,4.06,M5,28.9kg,$7.00,300,7,24/01/2024,healesville
+575,6,Wage Earner (7),Julie Green,17.07,5.94,3.9,Q1,24.8kg,$34.00,300,7,24/01/2024,healesville
+576,7,Gracie Pacey (5),Julie Green,17.11,6.43,3.92,M2,26.7kg,$21.00,300,7,24/01/2024,healesville
+577,DNF,Rio Sam (6),Owen Mcgovern,,,4.09,S8,34.7kg,,300,7,24/01/2024,healesville
+578,1,Penny Blue Demon (6),Chris Armstrong,16.83,0.0,3.9,M3,28.0kg,$8.00,300,6G,24/01/2024,healesville
+579,2,Borough Salts (4),Cynthia O'Brien,16.88,0.76,3.87,M2,26.7kg,$15.00,300,6G,24/01/2024,healesville
+580,3,Hang On Peppa (1),Natalie Perkins,16.95,1.76,3.86,M1,26.2kg,$6.50,300,6G,24/01/2024,healesville
+581,4,Angry Franky (5),Steven Collyer,17.03,2.91,3.98,S6,28.4kg,$5.00,300,6G,24/01/2024,healesville
+582,5,Buddy Blue (8),Bethany Garrick,17.03,2.96,3.98,M5,29.6kg,$4.20,300,6G,24/01/2024,healesville
+583,6,Gunai Rumours (7),Wade Green,17.15,4.64,3.98,M8,29.2kg,$11.00,300,6G,24/01/2024,healesville
+584,7,Erector Spinae (2),Stephen Tabb,17.17,4.86,3.97,S4,29.8kg,$9.00,300,6G,24/01/2024,healesville
+585,8,Sashay Away (3),Christine Ithier,17.63,11.41,3.98,M7,27.7kg,$3.50,300,6G,24/01/2024,healesville
+586,1,Yelich (3),Darlene Mcintyre,16.83,0.0,3.87,M1,33.4kg,$5.00,300,5,24/01/2024,healesville
+587,2,Superior Shirley (8),Joyce Condon,16.99,2.33,3.96,M3,31.0kg,$12.00,300,5,24/01/2024,healesville
+588,3,Cosmic Holiday (5),Kelvin Browney,16.99,2.39,4.02,S6,31.2kg,$4.60,300,5,24/01/2024,healesville
+589,4,Iliopsoas (1),Mathew Tabb,16.99,2.4,4.0,M5,29.9kg,$8.50,300,5,24/01/2024,healesville
+590,5,Al's Shout (6),Wade Green,17.06,3.36,4.02,M7,34.9kg,$15.00,300,5,24/01/2024,healesville
+591,6,Bear Lee Time (7),Darren Ryan,17.08,3.6,3.92,M2,32.4kg,$3.20,300,5,24/01/2024,healesville
+592,7,Hudson River (2),Garry Johnson,17.14,4.47,3.96,M4,31.8kg,$10.00,300,5,24/01/2024,healesville
+593,8,Banjo Black (4),Chris Reynolds,17.19,5.27,4.02,S8,34.4kg,$5.50,300,5,24/01/2024,healesville
+594,1,Aston Cameo (2),David Condon,19.42,0.0,6.55,M1,27.0kg,$2.80,350,6G,24/01/2024,healesville
+595,2,Agent Jesse (6),Brian Hodgson,19.5,1.07,6.82,M7,33.0kg,$8.00,350,6G,24/01/2024,healesville
+596,3,Pineapple Head (1),Allan Meyer,19.53,1.5,6.57,S2,26.3kg,$4.20,350,6G,24/01/2024,healesville
+597,4,Redemption Rock (5),Kathryne Tabb,19.55,1.77,6.6,M3,35.6kg,$6.00,350,6G,24/01/2024,healesville
+598,5,Cyclone Nick (7),Colin Dalton,19.65,3.26,6.71,M5,33.5kg,$12.00,350,6G,24/01/2024,healesville
+599,6,Fascinate Blaze (4),Ian Beattie,19.66,3.41,6.61,M4,31.6kg,$6.50,350,6G,24/01/2024,healesville
+600,7,Yellow Monaro (3),Gary Thorneycroft,19.75,4.67,6.73,M6,30.0kg,$41.00,350,6G,24/01/2024,healesville
+601,8,Major Molly (8),Brian Hodgson,19.81,5.6,6.85,M8,27.1kg,$10.00,350,6G,24/01/2024,healesville
+602,1,Atomic Jax (8),Brian Hodgson,19.42,0.0,6.75,M5,37.9kg,$4.60,350,5,24/01/2024,healesville
+603,2,Insensitive (3),Fred Vassallo,19.46,0.67,6.54,M2,27.0kg,$2.60,350,5,24/01/2024,healesville
+604,3,Elliott Ness (7),Garry Johnson,19.48,0.91,6.49,Q1,29.7kg,$6.50,350,5,24/01/2024,healesville
+605,4,Charlize (6),Jennifer Gill,19.63,3.03,6.86,M7,30.0kg,$10.00,350,5,24/01/2024,healesville
+606,5,Zero (2),Peter Dedes,19.72,4.4,6.72,M4,33.1kg,$5.50,350,5,24/01/2024,healesville
+607,6,Pure Promise (1),Steven Collyer,19.73,4.46,6.79,M6,29.2kg,$8.00,350,5,24/01/2024,healesville
+608,7,Mepunga Echo (5),John Mangion,19.77,5.0,6.67,M3,33.3kg,$21.00,350,5,24/01/2024,healesville
+609,1,Pretty Panama (6),Allan Meyer,19.47,0.0,6.59,Q1,28.5kg,$4.20,350,7,24/01/2024,healesville
+610,2,Cannoneer (5),Vanessa Johnson,19.66,2.73,6.72,M4,36.4kg,$12.00,350,7,24/01/2024,healesville
+611,3,Wild Rover (8),Cooper Hayes,19.71,3.41,6.68,Q3,31.9kg,$6.00,350,7,24/01/2024,healesville
+612,4,Magic Moon Beam (7),Cynthia O'Brien,19.73,3.71,6.72,M5,31.6kg,$15.00,350,7,24/01/2024,healesville
+613,5,Dr. Yasmine (1),Jennifer Gill,19.9,6.1,6.95,M8,24.4kg,$4.60,350,7,24/01/2024,healesville
+614,6,Brenden (2),Ronald Wood,19.93,6.57,6.81,M7,28.5kg,$3.60,350,7,24/01/2024,healesville
+615,7,Torpedo Tuohy (4),Anthony Clarke-Bruce,19.96,7.0,6.76,M6,32.4kg,$9.00,350,7,24/01/2024,healesville
+616,8,Inter Trigon (3),Joe Interligi,19.98,7.3,6.68,M2,33.2kg,$11.00,350,7,24/01/2024,healesville
+617,1,She Is Scarlet (8),Brendon Jones,17.02,0.0,4.02,Q4,26.0kg,$9.00,300,7,24/01/2024,healesville
+618,2,Baldo (2),Murray Collyer,17.03,0.26,3.91,M1,33.7kg,$6.00,300,7,24/01/2024,healesville
+619,3,No Manners (3),Ronald Wood,17.07,0.81,4.07,M5,29.8kg,$5.00,300,7,24/01/2024,healesville
+620,4,Al's Estafania (4),Julie Green,17.14,1.76,4.02,M3,24.7kg,$15.00,300,7,24/01/2024,healesville
+621,5,Book Of Capers (1),Jason Stemmer,17.16,2.0,3.96,M2,31.5kg,$4.20,300,7,24/01/2024,healesville
+622,6,Man Of Action (6),Jack Clarke,17.65,9.11,4.14,M6,29.1kg,$3.60,300,7,24/01/2024,healesville
+623,7,Lorelle Soldier (7),Julie Green,17.97,13.63,4.19,M7,28.3kg,$26.00,300,7,24/01/2024,healesville
+624,1,Our Dreamer (4),Ian Beattie,16.68,0.0,3.85,M2,28.7kg,$2.60,300,5,24/01/2024,healesville
+625,2,Inter Angela (2),Ian Beattie,16.82,2.0,3.81,M1,27.9kg,$5.50,300,5,24/01/2024,healesville
+626,3,Sidewinder (7),Christine Ithier,16.85,2.44,3.95,M4,29.8kg,$10.00,300,5,24/01/2024,healesville
+627,4,Major Bounty (6),Brian Hodgson,16.94,3.71,4.0,S6,31.4kg,$6.50,300,5,24/01/2024,healesville
+628,5,Gunai Jedi (8),Wade Green,16.96,4.01,3.9,M3,30.6kg,$8.00,300,5,24/01/2024,healesville
+629,6,She's Something (3),Bernie Ender,17.11,6.07,3.99,S5,29.1kg,$4.20,300,5,24/01/2024,healesville
+630,7,Remo Rodman (1),David Plumridge,17.33,9.27,4.06,S7,32.1kg,$8.50,300,5,24/01/2024,healesville
+631,1,Blitzen Vixen (8),Michael Ryan,17.12,0.0,3.91,Q1,27.1kg,$8.00,300,5,24/01/2024,healesville
+632,2,Mad Blast (7),Wade Green,17.18,0.93,4.0,M3,36.1kg,$6.50,300,5,24/01/2024,healesville
+633,3,You're In Luck (3),Phillip Repici,17.19,1.07,3.95,M2,23.9kg,$4.20,300,5,24/01/2024,healesville
+634,4,Our Girl Socks (2),Garry Johnson,17.32,2.93,4.05,M5,28.2kg,$2.60,300,5,24/01/2024,healesville
+635,5,Letter To You (1),Jason Stemmer,17.33,3.06,4.03,M4,31.5kg,$10.00,300,5,24/01/2024,healesville
+636,6,Lexi The Star (6),Chris Reynolds,17.4,4.11,4.1,M6,27.0kg,$5.00,300,5,24/01/2024,healesville
+637,1,Tapioca (1),Graham Novley,19.88,0.0,,431,26.0kg,$3.90,336,M,24/01/2024,muswellbrook
+638,2,Jungle Tiger (4),Scott Farley,20.06,2.5,,762,32.6kg,$7.50,336,M,24/01/2024,muswellbrook
+639,3,You Got This (7),Brian Smoothy,20.33,6.25,,623,33.5kg,$7.00,336,M,24/01/2024,muswellbrook
+640,4,Win A Pathway (2),Phillip Carrall,20.38,7.0,,274,33.3kg,$8.50,336,M,24/01/2024,muswellbrook
+641,5,Sky's Lace (8),Robert Ryan,20.55,9.5,,115,25.8kg,$2.20,336,M,24/01/2024,muswellbrook
+642,6,Richie's Reject (3),Gary Wilton,20.74,12.25,,346,33.8kg,$8.50,336,M,24/01/2024,muswellbrook
+643,7,Stratavon Kiwi (6),Julie Laurantus,20.93,15.0,,557,27.4kg,$14.00,336,M,24/01/2024,muswellbrook
+644,1,One More (3),James Simpson,20.1,0.0,,441,29.9kg,$4.20,336,M,24/01/2024,muswellbrook
+645,2,Isomer (6),Scott Farley,20.12,0.25,,262,28.5kg,$19.00,336,M,24/01/2024,muswellbrook
+646,3,Tessie's Boy (2),Robert Ryan,20.3,2.75,,553,29.1kg,$19.00,336,M,24/01/2024,muswellbrook
+647,4,Negative Newman (7),Michelle Popowski,20.32,3.0,,634,31.1kg,$9.00,336,M,24/01/2024,muswellbrook
+648,5,Whiskey Lane (1),Tamara Ball,20.5,5.75,,116,29.4kg,$1.80,336,M,24/01/2024,muswellbrook
+649,6,Smooth Jess (8),Brian Smoothy,20.53,6.0,,325,26.8kg,$4.20,336,M,24/01/2024,muswellbrook
+650,DNF,Mera (4),Kerry Ollerton,,,,777,27.0kg,,336,M,24/01/2024,muswellbrook
+651,1,Chicks A Thief (4),Brian Smoothy,19.64,0.0,,871,27.9kg,$2.90,336,M,24/01/2024,muswellbrook
+652,2,Gongo Girl (5),Scott Farley,19.7,0.75,,232,29.2kg,$8.50,336,M,24/01/2024,muswellbrook
+653,3,Deb's Pistol (8),Robert Ryan,19.84,2.75,,663,24.4kg,$16.00,336,M,24/01/2024,muswellbrook
+654,4,Spirit Chana (1),Dana Burns,19.87,3.25,,114,28.9kg,$3.20,336,M,24/01/2024,muswellbrook
+655,5,Classy Pink (6),Meredith Verhagen,20.02,5.25,,555,25.7kg,$4.60,336,M,24/01/2024,muswellbrook
+656,6,Unleash The Rage (7),Phillip Carrall,20.57,13.25,,786,32.5kg,$101.00,336,M,24/01/2024,muswellbrook
+657,7,Shimmy Debacle (3),Gregory Baldwin,20.9,18.0,,447,36.4kg,$101.00,336,M,24/01/2024,muswellbrook
+658,8,Ironic Aussie (2),Kayla Ollerton,21.42,25.25,,328,26.2kg,$4.60,336,M,24/01/2024,muswellbrook
+659,1,Angel Child (8),Brian Smoothy,19.2,0.0,,221,25.4kg,$5.00,336,NG,24/01/2024,muswellbrook
+660,2,Redeem A Prize (5),Meredith Verhagen,19.32,1.75,,332,29.4kg,$12.00,336,NG,24/01/2024,muswellbrook
+661,3,Coughlin (4),David Sanderson,19.54,4.75,,553,31.9kg,$5.00,336,NG,24/01/2024,muswellbrook
+662,4,Sketchy In By (2),Dana Burns,19.75,7.75,,444,22.7kg,$21.00,336,NG,24/01/2024,muswellbrook
+663,5,Telford (1),Karen Sanderson,20.29,15.5,,115,32.0kg,$2.40,336,NG,24/01/2024,muswellbrook
+664,DNF,Devereux (7),Patrick Parrelli,,,,66,28.4kg,,336,NG,24/01/2024,muswellbrook
+665,1,Wildash Jett (1),Nevyl Hand,19.21,0.0,,411.0,29.6kg,$1.80,336,5,24/01/2024,muswellbrook
+666,2,Bundy Rocks (7),Dean Clarson,19.57,5.25,,122.0,27.2kg,$3.70,336,5,24/01/2024,muswellbrook
+667,3,Rolled You (2),Garry Kedwell,19.68,6.5,,243.0,29.4kg,$7.50,336,5,24/01/2024,muswellbrook
+668,4,Isabela Rocks (4),Alex Macmillan,19.88,9.5,,554.0,27.2kg,$7.00,336,5,24/01/2024,muswellbrook
+669,5,Turbo Power (5),Meredith Verhagen,19.92,10.0,,335.0,36.5kg,$9.00,336,5,24/01/2024,muswellbrook
+670,6,War Hammer (6),Denis Solomon,20.38,16.75,,666.0,31.3kg,$26.00,336,5,24/01/2024,muswellbrook
+671,1,Blubber Guts (2),James Simpson,24.87,0.0,,221.0,35.5kg,$3.70,431,5,24/01/2024,muswellbrook
+672,2,Harry Confetti (8),Mark Davidson,25.11,3.5,,742.0,33.4kg,$5.50,431,5,24/01/2024,muswellbrook
+673,3,Zeal Surprise (5),Jade Murray,25.2,4.75,,313.0,25.6kg,$9.50,431,5,24/01/2024,muswellbrook
+674,4,Swanky Key (1),Richard Finlay,25.26,5.5,,154.0,33.4kg,$10.00,431,5,24/01/2024,muswellbrook
+675,5,Sweet City Boy (4),James Simpson,25.46,8.25,,575.0,34.4kg,$2.40,431,5,24/01/2024,muswellbrook
+676,6,Brenton Barnacle (3),Dana Burns,25.73,12.25,,486.0,30.3kg,$61.00,431,5,24/01/2024,muswellbrook
+677,7,Sugar Hit Zara (6),Denis Hampson,25.95,15.5,,637.0,29.2kg,$51.00,431,5,24/01/2024,muswellbrook
+678,8,Harrita's Due In (7),Mark Davidson,26.05,16.75,,868.0,33.0kg,$7.50,431,5,24/01/2024,muswellbrook
+679,1,Stole My Bone (7),Brian Smoothy,19.31,0.0,,321.0,30.7kg,$8.00,336,5,24/01/2024,muswellbrook
+680,2,Winsome Chloe (1),John Lawson,19.76,6.25,,232.0,26.0kg,$1.50,336,5,24/01/2024,muswellbrook
+681,3,Kingston Jazzy (8),Dean Clarson,19.77,6.5,,443.0,25.9kg,$10.00,336,5,24/01/2024,muswellbrook
+682,4,Poppy Lane (2),Tamara Ball,19.85,7.75,,554.0,26.6kg,$4.80,336,5,24/01/2024,muswellbrook
+683,5,Bee Logie (3),Gail Kelly,19.91,8.5,,115.0,24.4kg,$34.00,336,5,24/01/2024,muswellbrook
+684,6,Tralee Paris (5),Gregory Baldwin,19.99,9.75,,666.0,28.9kg,$61.00,336,5,24/01/2024,muswellbrook
+685,7,Tralee Cruiser (4),Melanie Mabbott,20.3,14.0,,777.0,30.5kg,$13.00,336,5,24/01/2024,muswellbrook
+686,1,Tina Be Good (3),Patrick Parrelli,18.93,0.0,,111.0,31.3kg,$1.40,336,5,24/01/2024,muswellbrook
+687,2,Winter Tralee (4),Melanie Mabbott,19.59,9.25,,222.0,28.1kg,$4.60,336,5,24/01/2024,muswellbrook
+688,3,Kingston Apache (7),Dean Clarson,19.89,13.75,,643.0,33.4kg,$14.00,336,5,24/01/2024,muswellbrook
+689,4,Red Jenny (8),Helen Hanson,19.97,14.75,,434.0,28.3kg,$26.00,336,5,24/01/2024,muswellbrook
+690,5,Disco Ball Babe (5),Brian Smoothy,20.11,16.75,,555.0,25.1kg,$13.00,336,5,24/01/2024,muswellbrook
+691,6,Miss Tallowood (1),Brian Smoothy,20.12,17.0,,766.0,25.9kg,$19.00,336,5,24/01/2024,muswellbrook
+692,DNF,Fly To Eden (2),Julie Laurantus,,,,37.0,27.3kg,,336,5,24/01/2024,muswellbrook
+693,1,Tralee Richie (2),Melanie Mabbott,19.33,0.0,,211,30.5kg,$2.20,336,5,24/01/2024,muswellbrook
+694,2,Cecil's Sister (1),Meredith Verhagen,19.5,2.25,,122,27.2kg,$4.00,336,5,24/01/2024,muswellbrook
+695,3,In The Wind (7),Tamara Ball,19.72,5.5,,653,27.2kg,$4.60,336,5,24/01/2024,muswellbrook
+696,4,Ashyah (8),Michelle Popowski,19.8,6.5,,464,26.1kg,$3.60,336,5,24/01/2024,muswellbrook
+697,5,Bikini Riot (4),Jason Carter,20.14,11.5,,545,26.9kg,$10.00,336,5,24/01/2024,muswellbrook
+698,6,Act Of Kindness (5),Brian Smoothy,20.53,17.25,,336,29.5kg,$41.00,336,5,24/01/2024,muswellbrook
+699,7,Half Magic (6),Helen Hanson,20.62,18.25,,877,33.6kg,$41.00,336,5,24/01/2024,muswellbrook
+700,8,Can't Touch It (3),Phillip Carrall,20.76,20.25,,788,34.8kg,$16.00,336,5,24/01/2024,muswellbrook
+701,1,Diva Chick (2),Brian Smoothy,19.45,0.0,,541,26.3kg,$3.60,336,5,24/01/2024,muswellbrook
+702,2,Drink Shiraz (4),Dana Burns,19.66,3.0,,662,31.7kg,$8.00,336,5,24/01/2024,muswellbrook
+703,3,Chick Magnet (8),Meredith Verhagen,19.67,3.0,,333,30.5kg,$4.60,336,5,24/01/2024,muswellbrook
+704,4,Less Is More (1),Mark Davidson,19.77,4.5,,224,27.2kg,$5.00,336,5,24/01/2024,muswellbrook
+705,5,Tralee Sook (5),Melanie Mabbott,20.13,9.75,,455,25.3kg,$16.00,336,5,24/01/2024,muswellbrook
+706,6,Once Or Twice (7),Garry Kedwell,20.21,10.75,,886,28.9kg,$26.00,336,5,24/01/2024,muswellbrook
+707,DNF,Mia Dutton (3),Dean Clarson,,,,77,26.5kg,,336,5,24/01/2024,muswellbrook
+708,DNF,Hodgson (6),Robert Ryan,,,,11,28.3kg,,336,5,24/01/2024,muswellbrook
+709,1,Catch The Tiger (1),Brian Smoothy,19.15,0.0,,311,29.9kg,$1.35,336,5,24/01/2024,muswellbrook
+710,2,Tralee Rosa (6),Melanie Mabbott,19.44,4.25,,122,26.1kg,$14.00,336,5,24/01/2024,muswellbrook
+711,3,Cement Mixer (3),Richard Finlay,19.86,10.0,,663,28.0kg,$17.00,336,5,24/01/2024,muswellbrook
+712,4,Irish Miss (2),John Lawson,20.34,17.0,,234,29.6kg,$7.00,336,5,24/01/2024,muswellbrook
+713,5,No Matter What (8),Mark Tailby,20.39,17.75,,775,26.4kg,$17.00,336,5,24/01/2024,muswellbrook
+714,6,Mulwee Pro (5),Graeme Ball,20.46,18.5,,886,32.6kg,$7.00,336,5,24/01/2024,muswellbrook
+715,7,Sharky United (7),Dana Burns,20.92,25.25,,457,27.4kg,$19.00,336,5,24/01/2024,muswellbrook
+716,DNF,George Appeal (4),Jason Carter,,,,548,25.7kg,,336,5,24/01/2024,muswellbrook
+717,1,Ace Emgrand (3),Luke Azzopardi,30.13,0.0,4.43,1111.0,32.6kg,$2.60,520,5,24/01/2024,richmond
+718,2,Mr. Sizzler (2),Andrew Drapiewski,30.5,5.25,4.44,2244.0,33.5kg,$4.00,520,5,24/01/2024,richmond
+719,3,Despicable Flash (8),Sarah Easey,30.65,7.5,4.48,7665.0,28.4kg,$8.00,520,5,24/01/2024,richmond
+720,4,Semantic Lady (4),Danielle Swain,30.66,7.5,4.47,4422.0,25.5kg,$4.20,520,5,24/01/2024,richmond
+721,5,Despicable Ora (1),Sarah Easey,30.83,10.0,4.46,3333.0,27.2kg,$5.50,520,5,24/01/2024,richmond
+722,6,Despicable Jason (6),Sarah Easey,31.66,21.75,4.49,5556.0,31.2kg,$71.00,520,5,24/01/2024,richmond
+723,DNF,Despicable Josie (7),Sarah Easey,,,,6777.0,27.6kg,,520,5,24/01/2024,richmond
+724,1,Fear The Dragon (3),Michelle Sultana,30.11,0.0,4.35,6755.0,33.9kg,$5.50,520,X45,24/01/2024,richmond
+725,2,Both Bowers Ace (8),Melinda Finn,30.16,0.75,4.34,7432.0,32.3kg,$9.00,520,X45,24/01/2024,richmond
+726,3,Anjo Typhoon (6),John Grief,30.31,2.75,4.49,8866.0,30.6kg,$26.00,520,X45,24/01/2024,richmond
+727,4,All On Mum (5),Jason Magri,30.31,2.75,4.23,2211.0,27.6kg,$5.50,520,X45,24/01/2024,richmond
+728,5,Spring Eureka (1),Scott Board,30.43,4.5,4.33,5344.0,32.0kg,$1.80,520,X45,24/01/2024,richmond
+729,6,Venus Banner (4),Barry Gibbons,30.53,6.0,4.23,1123.0,28.4kg,$34.00,520,X45,24/01/2024,richmond
+730,7,Au Contraire (7),Sam Sultana,30.55,6.25,4.35,4687.0,25.3kg,$13.00,520,X45,24/01/2024,richmond
+731,8,Eye Roll Sloy (2),Victor Sultana,30.64,7.5,4.34,3578.0,28.0kg,$21.00,520,X45,24/01/2024,richmond
+732,1,Nangar Luna (4),Joseph Mcfadyen,42.37,0.0,15.19,211,27.2kg,$1.40,722,5,24/01/2024,richmond
+733,2,Archer Fly High (5),Peter Rodgers,42.76,5.5,15.84,543,31.4kg,$5.50,722,5,24/01/2024,richmond
+734,3,Check The Radar (7),Peter Rodgers,42.82,6.25,15.96,155,28.5kg,$4.00,722,5,24/01/2024,richmond
+735,4,Hank The Tank (8),Robert Littlefield,43.0,9.0,16.01,666,41.3kg,$61.00,722,5,24/01/2024,richmond
+736,5,Devil's Dare (1),Robert Littlefield,43.48,15.75,15.75,334,36.5kg,$61.00,722,5,24/01/2024,richmond
+737,6,Lumeah Poppy (2),Garry Abernethy,44.01,23.5,15.61,422,28.7kg,$71.00,722,5,24/01/2024,richmond
+738,1,Boston Banner (8),Barry Gibbons,35.91,0.0,9.8,444,31.5kg,$11.00,622,5,24/01/2024,richmond
+739,2,Big Thunder (4),Helen Rylands,35.93,0.25,9.54,112,36.1kg,$5.50,622,5,24/01/2024,richmond
+740,3,Ritza Trish (1),Mark Gatt,35.95,0.75,9.8,633,26.7kg,$3.30,622,5,24/01/2024,richmond
+741,4,Emgrand Centre (2),Luke Azzopardi,35.96,0.75,9.66,521,34.0kg,$1.95,622,5,24/01/2024,richmond
+742,5,Bankrolled (7),Nicole Wallace,36.28,5.25,10.03,355,24.6kg,$8.50,622,5,24/01/2024,richmond
+743,6,Ghost Of Time (5),Richard Polidano,36.86,13.5,10.03,266,26.4kg,$101.00,622,5,24/01/2024,richmond
+744,1,Binalong Time (5),Melinda Finn,35.97,0.0,9.69,111,24.6kg,$1.20,622,5,24/01/2024,richmond
+745,2,Klous (4),Daryl Breust,36.31,4.75,9.77,222,29.1kg,$8.00,622,5,24/01/2024,richmond
+746,3,Rocha (1),Tanya Nieuwendyk,36.55,8.25,9.92,444,26.1kg,$7.00,622,5,24/01/2024,richmond
+747,4,Good Deed (8),Richard Polidano,36.61,9.25,10.22,666,29.2kg,$19.00,622,5,24/01/2024,richmond
+748,5,Lucky To Race (2),Anthony Pagano,36.66,9.75,10.05,555,29.5kg,$23.00,622,5,24/01/2024,richmond
+749,6,Sylvia's Song (7),Derek Kerr,36.9,13.25,9.89,333,27.0kg,$61.00,622,5,24/01/2024,richmond
+750,1,Ocean Eyes (8),Sam Sultana,29.81,0.0,4.31,1111,29.1kg,$3.10,520,5,24/01/2024,richmond
+751,2,Ceretti (2),Tanya Nieuwendyk,30.05,3.5,4.47,3322,26.2kg,$7.50,520,5,24/01/2024,richmond
+752,3,Despicable Power (1),Sarah Easey,30.26,6.25,4.5,6643,34.3kg,$10.00,520,5,24/01/2024,richmond
+753,4,Ain't Waiting (3),Melinda Finn,30.38,8.25,4.44,5455,25.1kg,$2.40,520,5,24/01/2024,richmond
+754,5,Gundangara Boy (4),Darren Northey,30.59,11.0,4.41,2234,35.7kg,$81.00,520,5,24/01/2024,richmond
+755,6,In The Sky (7),Jay Opetaia,30.69,12.5,4.45,4566,23.8kg,$5.50,520,5,24/01/2024,richmond
+756,DNF,Digging Trenches (6),Peter Lagogiane,,,,7777,26.7kg,,520,5,24/01/2024,richmond
+757,1,Zipping Chumley (1),Courtney Barnes,29.96,0.0,4.4,2223,31.7kg,$3.90,520,5,24/01/2024,richmond
+758,2,Son Of Jorel (8),Luke Azzopardi,30.18,3.0,4.57,6644,36.7kg,$9.00,520,5,24/01/2024,richmond
+759,3,Let's Trot Fox (2),Dale Wright,30.28,4.5,4.43,5432,31.1kg,$6.50,520,5,24/01/2024,richmond
+760,4,Lady Replicas (7),Jason Magri,30.3,4.75,4.42,4355,27.4kg,$1.50,520,5,24/01/2024,richmond
+761,5,Nice Ebby (5),Anne Foley,30.48,7.5,4.51,3566,30.6kg,$51.00,520,5,24/01/2024,richmond
+762,6,Despicable Easy (4),Sarah Easey,30.57,8.75,4.28,1111,25.8kg,$61.00,520,5,24/01/2024,richmond
+763,1,Wallacia Mist (4),Luke Brown,29.65,0.0,4.32,111.0,25.4kg,$1.18,520,5,24/01/2024,richmond
+764,2,Lucky Tommy (8),Sam Simonetta,30.22,8.25,4.44,433.0,33.1kg,$7.00,520,5,24/01/2024,richmond
+765,3,Nath's Gift (7),N Auld,30.3,9.25,4.43,222.0,32.7kg,$26.00,520,5,24/01/2024,richmond
+766,4,Spring Breezing (5),Gregory Board,30.32,9.5,4.44,344.0,32.0kg,$17.00,520,5,24/01/2024,richmond
+767,5,Zipping Griswold (2),Courtney Barnes,30.52,12.25,4.47,555.0,33.9kg,$12.00,520,5,24/01/2024,richmond
+768,1,Not Without (1),Jane Carruthers,29.47,0.0,4.29,1111,35.0kg,$1.16,520,5,24/01/2024,richmond
+769,2,Might Have Been (8),Melinda Finn,29.72,3.5,4.36,3222,30.3kg,$5.50,520,5,24/01/2024,richmond
+770,3,Dam Slipperier (7),Stephen Archer,30.02,7.75,4.5,4533,25.4kg,$21.00,520,5,24/01/2024,richmond
+771,4,Cait Rod's Pearl (2),Darren Northey,30.2,10.25,4.49,2455,29.9kg,$11.00,520,5,24/01/2024,richmond
+772,5,Zipping Osman (4),Richard Polidano,30.36,12.75,4.52,6644,31.9kg,$81.00,520,5,24/01/2024,richmond
+773,6,Steady Teddy (5),Christopher Brennen,30.78,18.5,4.47,536,30.3kg,$101.00,520,5,24/01/2024,richmond
+774,1,Akii Princess (7),George Borg,22.68,0.0,6.75,432,27.6kg,$2.50,401,X45,24/01/2024,richmond
+775,2,Victory Roll (3),Sydney Swain,22.78,1.5,6.63,111,30.5kg,$3.00,401,X45,24/01/2024,richmond
+776,3,Dandy Redeemer (6),Peter Lagogiane,23.05,5.25,6.88,654,30.6kg,$9.50,401,X45,24/01/2024,richmond
+777,4,Poco Rico (8),Melinda Finn,23.1,6.0,6.97,765,33.7kg,$3.50,401,X45,24/01/2024,richmond
+778,5,Anjo Cyclone (2),John Grief,23.28,8.5,6.78,223,28.7kg,$51.00,401,X45,24/01/2024,richmond
+779,6,Skyla Blue (1),Richard Polidano,23.46,11.0,6.83,346,27.9kg,$31.00,401,X45,24/01/2024,richmond
+780,7,Zeroed In (4),Patricia Chaker,26.11,49.0,7.63,577,26.0kg,$23.00,401,X45,24/01/2024,richmond
+781,1,Whiskey Tango (4),Amber Boody,24.27,0.0,9.58,,30.3kg,$4.60,407,M,24/01/2024,rockhampton
+782,2,Cane Smoke (1),Michael Boody,24.3,0.5,9.47,,31.9kg,$2.20,407,M,24/01/2024,rockhampton
+783,3,Joy Sure Can (2),Christine Pollard,24.41,2.0,9.4,,27.5kg,$10.00,407,M,24/01/2024,rockhampton
+784,4,Sweet Lollipop (3),Dallas Beckett,25.11,12.0,9.84,,27.9kg,$3.70,407,M,24/01/2024,rockhampton
+785,5,Showtime Shirley (7),Ken Boody,25.16,12.75,10.03,,25.6kg,$16.00,407,M,24/01/2024,rockhampton
+786,6,Showtime Pete (6),Ken Boody,25.31,14.75,10.14,,31.0kg,$11.00,407,M,24/01/2024,rockhampton
+787,7,Chase Me Bee (8),Clinton Thompson,25.77,21.25,9.63,,28.9kg,$41.00,407,M,24/01/2024,rockhampton
+788,1,Sensational Star (3),Dallas Beckett,23.7,0.0,9.04,,26.2kg,$2.30,407,M,24/01/2024,rockhampton
+789,2,Nakisha (7),Juanita Thompson,23.92,3.0,9.2,,29.5kg,$3.40,407,M,24/01/2024,rockhampton
+790,3,Early Supper (4),Amber Boody,24.21,7.25,9.38,,29.3kg,$9.00,407,M,24/01/2024,rockhampton
+791,4,Tijuana Two Step (1),Ken Boody,24.32,8.75,9.39,,26.5kg,$6.50,407,M,24/01/2024,rockhampton
+792,5,Feelin' Dusty (6),Gary Weeding,24.49,11.25,9.49,,24.5kg,$51.00,407,M,24/01/2024,rockhampton
+793,6,Showtime Brad (2),Ken Boody,24.64,13.25,9.62,,32.1kg,$8.00,407,M,24/01/2024,rockhampton
+794,7,Showtime Hunter (8),Ken Boody,24.83,16.25,9.57,,31.8kg,$11.00,407,M,24/01/2024,rockhampton
+795,1,Bossy Miss Bliss (2),Christine Pollard,23.72,0.0,9.01,,28.6kg,$2.50,407,N,24/01/2024,rockhampton
+796,2,Exquisite (6),Christine Pollard,23.9,2.5,9.21,,26.9kg,$5.50,407,N,24/01/2024,rockhampton
+797,3,More Energy (1),Robert Weeding,24.2,6.75,9.16,,25.6kg,$9.50,407,N,24/01/2024,rockhampton
+798,4,Zipping Olsen (8),Robert Weeding,24.26,7.75,9.36,,26.1kg,$9.00,407,N,24/01/2024,rockhampton
+799,5,Cosmo Sterling (4),Juanita Thompson,24.29,8.25,9.27,,28.5kg,$3.00,407,N,24/01/2024,rockhampton
+800,6,Dailee Gambles (5),Raymond Young,24.55,11.75,9.38,,26.3kg,$61.00,407,N,24/01/2024,rockhampton
+801,7,Jaggery (3),Michael Boody,24.57,12.25,9.68,,31.5kg,$14.00,407,N,24/01/2024,rockhampton
+802,8,Atomic Ripple (7),Andrew Suli,25.14,20.25,9.71,,31.6kg,$61.00,407,N,24/01/2024,rockhampton
+803,1,Business Flight (1),Juanita Thompson,23.97,0.0,8.98,,25.2kg,$2.60,407,5,24/01/2024,rockhampton
+804,2,Kingsbrae Smokey (5),Izzy Gilmartin,24.02,0.75,9.15,,34.3kg,$4.80,407,5,24/01/2024,rockhampton
+805,3,Where's Chester (4),Ken Boody,24.26,4.25,9.27,,33.1kg,$4.20,407,5,24/01/2024,rockhampton
+806,4,Lady Leslie (2),Gary Weeding,24.27,4.25,9.31,,24.2kg,$3.50,407,5,24/01/2024,rockhampton
+807,5,Blue Zeal (3),Andrew Suli,24.61,9.25,9.15,,29.3kg,$21.00,407,5,24/01/2024,rockhampton
+808,6,Frank Footluce (6),Garry Cluse,24.71,10.5,9.37,,31.3kg,$34.00,407,5,24/01/2024,rockhampton
+809,1,Rolls Ripple (3),Andrew Suli,23.69,0.0,9.01,,31.5kg,$2.60,407,5,24/01/2024,rockhampton
+810,2,Grande Bahama (2),Christine Pollard,23.78,1.25,9.12,,30.7kg,$3.70,407,5,24/01/2024,rockhampton
+811,3,Barcelona Boy (6),Gary Weeding,24.21,7.5,9.19,,35.4kg,$17.00,407,5,24/01/2024,rockhampton
+812,4,Spot On Ginger (1),Trent Thorley,24.24,7.75,9.42,,26.6kg,$4.80,407,5,24/01/2024,rockhampton
+813,5,Me And Fred (8),Juanita Thompson,24.25,8.0,9.23,,31.5kg,$4.60,407,5,24/01/2024,rockhampton
+814,6,Nitro Slim (7),Garry Cluse,24.33,9.25,9.49,,34.2kg,$31.00,407,5,24/01/2024,rockhampton
+815,7,Shirin (4),Mark Bube,24.56,12.25,9.64,,27.5kg,$19.00,407,5,24/01/2024,rockhampton
+816,1,Tiger Mum (6),Raymond Young,23.96,0.0,9.08,,31.5kg,$21.00,407,4,24/01/2024,rockhampton
+817,2,Lucky Garcia (7),Ken Boody,24.06,1.5,9.26,,30.2kg,$3.70,407,4,24/01/2024,rockhampton
+818,3,Flying Caliente (4),Christine Pollard,24.12,2.25,9.12,,25.5kg,$9.00,407,4,24/01/2024,rockhampton
+819,4,Candyman (3),Juanita Thompson,24.18,3.0,9.38,,33.2kg,$5.00,407,4,24/01/2024,rockhampton
+820,5,Sketchy Deliver (5),Andrew Suli,24.29,4.75,9.43,,24.2kg,$13.00,407,4,24/01/2024,rockhampton
+821,6,Roger Ring (1),Juanita Thompson,24.64,9.75,9.36,,33.4kg,$1.95,407,4,24/01/2024,rockhampton
+822,1,Venice Bale (1),Ken Boody,30.0,0.0,4.98,,26.1kg,$1.85,510,RW,24/01/2024,rockhampton
+823,2,Swerve (7),Mark Bube,30.31,4.25,4.91,,27.6kg,$6.00,510,RW,24/01/2024,rockhampton
+824,3,Shell And Sea (3),Ken Boody,30.57,8.25,4.83,,25.4kg,$3.80,510,RW,24/01/2024,rockhampton
+825,4,Burrum Betty (8),Mark Bube,30.58,8.25,5.07,,27.8kg,$16.00,510,RW,24/01/2024,rockhampton
+826,5,Big Nose Ted (2),Mark Bube,30.83,11.75,5.07,,31.5kg,$18.00,510,RW,24/01/2024,rockhampton
+827,6,Early Arrival (5),Steven Boody,31.1,15.75,4.97,,31.0kg,$10.00,510,RW,24/01/2024,rockhampton
+828,7,Johnny Fernando (6),Andrew Suli,31.27,18.0,4.99,,32.4kg,$31.00,510,RW,24/01/2024,rockhampton
+829,1,Rybolt (7),Juanita Thompson,30.14,0.0,4.79,,32.0kg,$1.70,510,O,24/01/2024,rockhampton
+830,2,City Way (8),Juanita Thompson,30.29,2.0,5.04,,33.0kg,$10.00,510,O,24/01/2024,rockhampton
+831,3,Who's Billy (6),Ken Boody,30.53,5.5,4.87,,33.4kg,$12.00,510,O,24/01/2024,rockhampton
+832,4,Rosa's Legend (1),Juanita Thompson,30.63,7.0,4.92,,27.1kg,$12.00,510,O,24/01/2024,rockhampton
+833,5,Sir Banjo (3),Ken Boody,30.72,8.25,4.97,,34.1kg,$4.80,510,O,24/01/2024,rockhampton
+834,6,Velocity Tamika (5),Peta Boon,30.72,8.25,4.8,,26.5kg,$12.00,510,O,24/01/2024,rockhampton
+835,7,Five Putt Cal (2),Christine Pollard,31.01,12.25,4.93,,34.1kg,$23.00,510,O,24/01/2024,rockhampton
+836,8,Sober Meredith (4),Robert Weeding,32.19,29.25,4.88,,28.9kg,$34.00,510,O,24/01/2024,rockhampton
+837,1,Blue Ocean View (3),Christine Pollard,23.92,0.0,9.27,,34.1kg,$2.70,407,X34,24/01/2024,rockhampton
+838,2,More Peaches (2),Michael Boody,24.06,2.0,9.25,,30.0kg,$1.80,407,X34,24/01/2024,rockhampton
+839,3,Enrique Fernando (1),Andrew Suli,24.26,4.75,9.15,,29.5kg,$34.00,407,X34,24/01/2024,rockhampton
+840,4,Burnt Me (8),Juanita Thompson,24.36,6.25,9.49,,31.6kg,$10.00,407,X34,24/01/2024,rockhampton
+841,5,Garnacho (6),Andrew Suli,24.51,8.25,9.45,,30.4kg,$34.00,407,X34,24/01/2024,rockhampton
+842,6,Durham (7),Juanita Thompson,24.51,8.25,9.63,,28.2kg,$23.00,407,X34,24/01/2024,rockhampton
+843,7,Velocity Cazau (4),Peta Boon,24.67,10.5,9.71,,27.3kg,$12.00,407,X34,24/01/2024,rockhampton
+844,1,Penny Daze (2),Leslie Wisener,24.01,0.0,8.99,,24.9kg,$1.70,407,5,24/01/2024,rockhampton
+845,2,Monaco Sun (3),Andrew Suli,24.35,4.75,9.43,,28.9kg,$5.00,407,5,24/01/2024,rockhampton
+846,3,Subzero Ash (4),Andrew Suli,24.41,5.75,9.16,,30.6kg,$61.00,407,5,24/01/2024,rockhampton
+847,4,Stomp (8),Juanita Thompson,24.47,6.5,9.29,,33.1kg,$4.80,407,5,24/01/2024,rockhampton
+848,5,Dynamic One (1),Gary Weeding,24.48,6.5,9.49,,33.6kg,$6.00,407,5,24/01/2024,rockhampton
+849,1,Shian Ned (1),Gary Weeding,24.1,0.0,9.14,,32.5kg,$2.00,407,MA5,24/01/2024,rockhampton
+850,2,Perfect Mate (4),Steven Boody,24.34,3.5,9.2,,26.5kg,$5.00,407,MA5,24/01/2024,rockhampton
+851,3,Zipping Everest (8),Mark Bube,24.36,3.75,9.36,,28.1kg,$15.00,407,MA5,24/01/2024,rockhampton
+852,4,Lektra Left (2),Andrew Suli,24.55,6.25,9.28,,25.3kg,$2.25,407,MA5,24/01/2024,rockhampton
+853,1,Kelli (4),Jennifer Gill,25.09,0.0,5.37,M211,26.2kg,$9.00,435,M,24/01/2024,sale
+854,2,Master Rhode (3),Rocky Crisafi,25.3,3.01,5.49,M444,32.5kg,$5.00,435,M,24/01/2024,sale
+855,3,Boy Called Zoo (6),Dawn Johnston,25.48,5.56,5.56,M666,31.2kg,$16.00,435,M,24/01/2024,sale
+856,4,Our Mabel (7),Jennifer Gieschen,25.61,7.4,5.56,M732,25.2kg,$14.00,435,M,24/01/2024,sale
+857,5,Collinda Air (5),Samuel Tyler,25.66,8.11,5.51,M555,29.0kg,$3.60,435,M,24/01/2024,sale
+858,6,Pen To Paper (1),Donna Dean,25.7,8.7,5.33,Q123,23.8kg,$4.20,435,M,24/01/2024,sale
+859,7,Dr. Ducky (8),Emily McMahon,25.9,11.54,5.58,S877,24.8kg,$6.00,435,M,24/01/2024,sale
+860,8,Booker Knowledge (2),Ronald Winter,26.23,16.2,5.4,M388,33.2kg,$7.00,435,M,24/01/2024,sale
+861,1,Dr. Harris (1),Judith McMahon,24.68,0.0,5.35,M211,29.4kg,$4.20,435,M,24/01/2024,sale
+862,2,Henry Bale (3),Robert Camilleri,25.06,5.54,5.43,M533,33.3kg,$4.60,435,M,24/01/2024,sale
+863,3,Ring Me Later (8),Donna Dean,25.2,7.44,5.3,M122,28.7kg,$8.00,435,M,24/01/2024,sale
+864,4,Elle Gem (2),Lesley Russell,25.27,8.5,5.36,M344,28.0kg,$3.40,435,M,24/01/2024,sale
+865,5,Happy Good Guy (6),Susan Northway,25.48,11.43,5.74,S876,39.0kg,$12.00,435,M,24/01/2024,sale
+866,6,Elena's Jebrynah (7),Bryan Sykes,25.48,11.44,5.43,M665,25.8kg,$7.00,435,M,24/01/2024,sale
+867,7,Big Cuddle (4),Debra Cumes,25.86,16.86,5.41,M457,25.4kg,$21.00,435,M,24/01/2024,sale
+868,8,Rin Tin Ragtop (5),Debra Cumes,26.07,19.96,5.6,S788,31.0kg,$14.00,435,M,24/01/2024,sale
+869,1,Myall Sandy (4),Raymond Gilmore,24.53,0.0,5.24,M111,26.5kg,$1.50,435,7,24/01/2024,sale
+870,2,Daintree Spirit (8),Paul Jones,24.81,3.94,5.38,M333,30.4kg,$4.40,435,7,24/01/2024,sale
+871,3,Be Graceful (1),Gary Mcmillan,24.85,4.47,5.29,Q222,25.8kg,$7.50,435,7,24/01/2024,sale
+872,4,Smooth Ranger (7),Malcolm Carr,24.9,5.26,5.4,M444,27.4kg,$5.50,435,7,24/01/2024,sale
+873,5,Fox (5),Danny Macdonald,25.22,9.76,5.45,M555,25.2kg,$31.00,435,7,24/01/2024,sale
+874,1,Cher's Hand (5),Donna Dean,24.75,0.0,5.24,M142,26.3kg,$9.00,435,5NP,24/01/2024,sale
+875,2,Master Of Dreams (2),Elaine Cartechini,24.76,0.15,5.26,M211,30.5kg,$3.40,435,5NP,24/01/2024,sale
+876,3,Akina Lad (1),Samantha Mckay,24.82,0.97,5.28,M323,36.1kg,$14.00,435,5NP,24/01/2024,sale
+877,4,Arlunya (3),Susan Northway,24.88,1.81,5.36,M534,37.5kg,$16.00,435,5NP,24/01/2024,sale
+878,5,Not Happy Jan (4),Maria Barber,24.9,2.14,5.37,M755,33.8kg,$7.50,435,5NP,24/01/2024,sale
+879,6,Whisky Ninja (7),Corey Fulford,25.09,4.8,5.37,M676,31.2kg,$10.00,435,5NP,24/01/2024,sale
+880,7,Gerry's Gift (6),Peter Mckenzie,25.24,6.87,5.35,M468,32.4kg,$26.00,435,5NP,24/01/2024,sale
+881,8,Gotham Marquess (8),Melanie Lithgow,25.29,7.63,5.41,M887,26.9kg,$4.20,435,5NP,24/01/2024,sale
+882,1,Awakening Dawn (1),Dawn Johnston,24.73,0.0,5.24,Q111,27.8kg,$4.40,435,5,24/01/2024,sale
+883,2,Charlm Lilly (6),Cheryle Ragen,24.83,1.43,5.43,S622,28.8kg,$7.00,435,5,24/01/2024,sale
+884,3,Another Nando (4),Bryan Sykes,25.06,4.7,5.35,M333,29.5kg,$4.00,435,5,24/01/2024,sale
+885,4,Audacious Rachel (3),Rachael Busuttil,25.33,8.64,5.35,Q254,26.8kg,$5.00,435,5,24/01/2024,sale
+886,5,Locked And Ready (8),John Carr,25.49,10.83,5.36,M445,32.6kg,$12.00,435,5,24/01/2024,sale
+887,6,Inter Star Fire (5),Olivia Cartechini,25.68,13.57,5.43,M566,25.3kg,$2.60,435,5,24/01/2024,sale
+888,1,Euler Bale (7),Deborah Coleman,28.59,0.0,9.0,M111,30.2kg,$1.90,510,X45,24/01/2024,sale
+889,2,High Emotion (8),Kellie Morrison,28.81,3.17,9.21,M223,26.5kg,$8.00,510,X45,24/01/2024,sale
+890,3,Okay Boomer (6),Matthew Clark,28.85,3.75,9.34,M432,27.7kg,$7.50,510,X45,24/01/2024,sale
+891,4,Why Not Pearl (5),Gregory Carter,29.18,8.41,9.33,M344,28.0kg,$26.00,510,X45,24/01/2024,sale
+892,5,Excavator Ticket (3),Lindsay Fulford,29.21,8.89,9.72,M885,34.2kg,$12.00,510,X45,24/01/2024,sale
+893,6,Two Boo Hook (2),Charlie Galea,29.31,10.36,9.58,M768,36.5kg,$12.00,510,X45,24/01/2024,sale
+894,7,Indiana Phones (1),Gary Joske,29.32,10.5,9.41,M557,35.1kg,$4.20,510,X45,24/01/2024,sale
+895,8,Shine On Mikado (4),Maria Barber,29.34,10.79,9.48,M676,28.5kg,$16.00,510,X45,24/01/2024,sale
+896,1,Laroza Bale (1),Deborah Coleman,24.48,0.0,5.2,M222,29.4kg,$7.50,435,5,24/01/2024,sale
+897,2,Myall Ray (2),Judith Risk,24.49,0.07,5.15,M111,30.8kg,$4.60,435,5,24/01/2024,sale
+898,3,Willful Bale (7),Robert Camilleri,24.63,2.1,5.26,M333,27.9kg,$8.00,435,5,24/01/2024,sale
+899,4,Targan Bale (6),Robert Camilleri,24.65,2.33,5.3,M544,33.5kg,$9.00,435,5,24/01/2024,sale
+900,5,Marcia Hook (8),Charlie Galea,24.82,4.8,5.4,S655,28.8kg,$14.00,435,5,24/01/2024,sale
+901,6,Canya Charisma (3),Jessica Hopkins,24.95,6.66,5.26,S466,32.1kg,$2.20,435,5,24/01/2024,sale
+902,1,Skinny Olive (7),Des Douch,24.31,0.0,5.08,M111,28.2kg,$2.60,435,FFA,24/01/2024,sale
+903,2,Tangela Bale (3),Robert Camilleri,24.38,1.04,5.21,M322,28.6kg,$2.80,435,FFA,24/01/2024,sale
+904,3,Valencia Bella (4),Jennifer Gieschen,24.72,5.77,5.23,M433,27.1kg,$8.00,435,FFA,24/01/2024,sale
+905,4,Ashley Hook (1),Charlie Galea,24.87,7.91,5.2,M245,27.2kg,$9.00,435,FFA,24/01/2024,sale
+906,5,Zachary (8),Jennifer Gill,24.93,8.83,5.3,S654,34.6kg,$12.00,435,FFA,24/01/2024,sale
+907,6,Starlight Tyson (2),Corey Fulford,25.21,12.79,5.23,M566,34.2kg,$21.00,435,FFA,24/01/2024,sale
+908,7,Madalia Patch (6),Peter Mckenzie,25.21,12.8,5.41,S777,33.9kg,$26.00,435,FFA,24/01/2024,sale
+909,1,Dr. Marshal (4),Marcus McMahon,24.49,0.0,5.22,M111,37.5kg,$2.40,435,X67,24/01/2024,sale
+910,2,Jebrynah Nitro (2),Bryan Sykes,24.5,0.14,5.26,M222,32.6kg,$2.80,435,X67,24/01/2024,sale
+911,3,Dr. Narnia (1),Emily McMahon,24.87,5.47,5.4,M444,24.9kg,$16.00,435,X67,24/01/2024,sale
+912,4,In The Riot (5),Peter Mckenzie,24.92,6.11,5.47,M555,34.2kg,$21.00,435,X67,24/01/2024,sale
+913,5,Big Trucker (7),Christian Wilk,24.93,6.34,5.33,S333,34.3kg,$6.00,435,X67,24/01/2024,sale
+914,1,Dr. Jethro (6),Emily McMahon,24.99,0.0,5.34,M444,30.9kg,$6.50,435,5,24/01/2024,sale
+915,2,Audacious Livvy (2),Diane Wainwright,25.09,1.46,5.32,M356,26.7kg,$6.00,435,5,24/01/2024,sale
+916,3,Marino (7),Adrian Nuttall,25.12,1.91,5.41,S632,31.7kg,$6.00,435,5,24/01/2024,sale
+917,4,Ride Know More (1),Corey Fulford,25.13,2.04,5.43,M767,24.5kg,$4.60,435,5,24/01/2024,sale
+918,5,Tommy's Hitman (8),Tyllah Cornell,25.16,2.5,5.36,S521,31.7kg,$3.60,435,5,24/01/2024,sale
+919,6,Be Yourself (3),Gary Mcmillan,25.24,3.67,5.2,Q175,24.3kg,$21.00,435,5,24/01/2024,sale
+920,7,Why Not Jules (5),Leigh Carter,25.51,7.5,5.27,M213,30.2kg,$9.00,435,5,24/01/2024,sale
+921,1,Daimler Bale (1),Robert Camilleri,24.74,0.0,5.26,Q111,27.7kg,$3.60,435,5NP,24/01/2024,sale
+922,2,Muster (6),Kate Gorman,24.85,1.57,5.54,M753,31.3kg,$6.00,435,5NP,24/01/2024,sale
+923,3,El Crimp Adore (2),Dawn Johnston,25.03,4.1,5.31,M234,32.9kg,$10.00,435,5NP,24/01/2024,sale
+924,4,Before Noon (3),Dean Williamson,25.08,4.89,5.35,M322,26.8kg,$12.00,435,5NP,24/01/2024,sale
+925,5,Parumba Danny (4),Eddie Lieshout,25.16,5.94,5.49,M667,31.6kg,$14.00,435,5NP,24/01/2024,sale
+926,6,Lakeview Benny (5),Monique Whelan,25.2,6.6,5.44,M476,31.0kg,$4.60,435,5NP,24/01/2024,sale
+927,7,Mick Says So (8),Sean Lithgow,25.27,7.56,5.45,M545,30.0kg,$4.20,435,5NP,24/01/2024,sale
+928,1,Zipping Gian (3),Deborah Coleman,24.81,0.0,5.41,M222,27.7kg,$6.00,435,5NP,24/01/2024,sale
+929,2,Stellar Career (2),Cheryl Morris,24.91,1.37,5.37,M111,27.8kg,$4.20,435,5NP,24/01/2024,sale
+930,3,Smooth Cruiser (8),Malcolm Carr,25.23,5.93,5.5,S633,32.3kg,$7.00,435,5NP,24/01/2024,sale
+931,4,Be A Character (5),Gary Mcmillan,25.35,7.7,5.41,M344,29.4kg,$7.50,435,5NP,24/01/2024,sale
+932,5,Sharp Shot (6),Donna Dean,25.53,10.26,5.61,M767,30.0kg,$4.20,435,5NP,24/01/2024,sale
+933,6,Sassy Swan (1),Justin Bowman,25.55,10.53,5.49,S455,25.7kg,$5.00,435,5NP,24/01/2024,sale
+934,7,Freeman's Hope (7),Leigh Jennings,25.64,11.79,5.5,M576,25.7kg,$16.00,435,5NP,24/01/2024,sale
+935,1,Shayna Bale (6),Thomas Dailly,30.56,0.0,5.27,M2221,28.4kg,$6.00,525,M,24/01/2024,the-meadows
+936,2,Jenny Bale (5),Thomas Dailly,30.78,3.07,5.15,M1112,26.6kg,$6.00,525,M,24/01/2024,the-meadows
+937,3,Cabao Opal (4),Thomas Dailly,30.96,5.7,5.69,S7754,27.7kg,$6.00,525,M,24/01/2024,the-meadows
+938,4,Cabao Nickel (7),Thomas Dailly,31.18,8.8,5.33,S5333,29.2kg,$5.50,525,M,24/01/2024,the-meadows
+939,5,Blazing Frankie (1),Stephen Brincat,31.21,9.27,5.29,M3566,32.3kg,$8.50,525,M,24/01/2024,the-meadows
+940,6,Bomb Neave (2),Rachael Cassar,31.4,12.0,5.4,S6677,28.2kg,$9.00,525,M,24/01/2024,the-meadows
+941,7,Takumi Bale (8),Thomas Dailly,31.41,12.09,5.31,M4445,31.9kg,$5.50,525,M,24/01/2024,the-meadows
+942,1,Cabao Jasper (8),Thomas Dailly,30.8,0.0,5.3,M6643,33.0kg,$8.00,525,M,24/01/2024,the-meadows
+943,2,Shima Bridie (1),Thomas Dailly,30.98,2.64,5.17,Q2134,28.7kg,$2.90,525,M,24/01/2024,the-meadows
+944,3,Need A Pilot (7),Geoffrey Mitchell,31.03,3.29,5.21,M3211,33.1kg,$4.20,525,M,24/01/2024,the-meadows
+945,4,Ida Bale (3),Thomas Dailly,31.07,3.96,5.22,M4322,28.1kg,$8.50,525,M,24/01/2024,the-meadows
+946,5,Flaws And Sins (6),Dallan Klemke,31.24,6.29,5.17,M1556,31.6kg,$4.40,525,M,24/01/2024,the-meadows
+947,6,Nashville Bale (5),Thomas Dailly,31.3,7.14,5.23,Q5465,30.7kg,$8.50,525,M,24/01/2024,the-meadows
+948,7,Shima Style (2),Thomas Dailly,31.43,9.07,5.31,S7777,33.6kg,$8.50,525,M,24/01/2024,the-meadows
+949,8,Woodshed Albert (4),James Shaw,31.54,10.57,5.33,M8888,31.1kg,$18.00,525,M,24/01/2024,the-meadows
+950,1,Windsor Girl (7),Dustin Drew,30.4,0.0,5.31,S3221,25.8kg,$8.50,525,X67,24/01/2024,the-meadows
+951,2,Zipping Kendrick (5),Thomas Dailly,30.45,0.69,5.37,M4442,31.2kg,$2.50,525,X67,24/01/2024,the-meadows
+952,3,Oregon Favors (6),Thomas Dailly,30.62,3.2,5.16,Q2334,31.0kg,$23.00,525,X67,24/01/2024,the-meadows
+953,4,Aston Heir (8),Thomas Dailly,30.7,4.33,5.12,Q1113,27.2kg,$3.50,525,X67,24/01/2024,the-meadows
+954,5,Full Of Regrets (3),Dallan Klemke,30.83,6.11,5.4,M6665,32.2kg,$10.00,525,X67,24/01/2024,the-meadows
+955,6,Rev Olive (1),Kylie Muscat,30.98,8.34,5.38,M5556,27.5kg,$11.00,525,X67,24/01/2024,the-meadows
+956,7,Bun Exhale (4),Thomas Dailly,31.08,9.76,5.4,M7787,26.6kg,$5.00,525,X67,24/01/2024,the-meadows
+957,8,Rev Querida (2),Thomas Dailly,31.12,10.25,5.49,S8878,28.5kg,$26.00,525,X67,24/01/2024,the-meadows
+958,1,Stomping (8),Michelle Mallia,34.25,0.0,8.85,M1111,34.2kg,$1.60,600,X45,24/01/2024,the-meadows
+959,2,Al's Entity (7),Paul Abela,34.62,5.31,9.04,M3333,32.5kg,$5.50,600,X45,24/01/2024,the-meadows
+960,3,Shima Stella (5),Thomas Dailly,34.62,5.33,9.04,M2222,26.6kg,$8.00,600,X45,24/01/2024,the-meadows
+961,4,Sher Zany (1),Dustin Drew,34.84,8.47,9.36,M5544,31.9kg,$7.00,600,X45,24/01/2024,the-meadows
+962,5,Aston Marvel (4),Dustin Drew,35.11,12.27,9.2,M4455,37.8kg,$10.00,600,X45,24/01/2024,the-meadows
+963,1,Distracting (6),Keith Lancaster,34.7,0.0,9.04,Q1111,25.5kg,$6.50,600,RWH,24/01/2024,the-meadows
+964,2,Kraken Chief (2),Kevin Eyles,34.77,1.03,9.27,M4422,33.8kg,$6.00,600,RWH,24/01/2024,the-meadows
+965,3,Premium Equity (7),Angela Langton,35.08,5.44,9.3,M6644,32.4kg,$2.80,600,RWH,24/01/2024,the-meadows
+966,4,Learned Lesson (8),James Shaw,35.15,6.43,9.2,Q2233,26.5kg,$23.00,600,RWH,24/01/2024,the-meadows
+967,5,Tiger Newly (4),Jordan McQuillen,35.32,8.84,9.3,S5565,34.8kg,$15.00,600,RWH,24/01/2024,the-meadows
+968,6,Flying Redeemer (1),Kim Erenshaw,35.35,9.29,9.25,M3356,33.3kg,$3.00,600,RWH,24/01/2024,the-meadows
+969,1,Maximum Moreland (7),Jordan Cooper,34.65,0.0,9.39,M6542,28.3kg,$12.00,600,RWH,24/01/2024,the-meadows
+970,2,Hello Pa (4),David Burnett,34.67,0.23,9.04,M1111,29.1kg,$3.00,600,RWH,24/01/2024,the-meadows
+971,3,Fernando Duke (6),Kayla Cottrell,34.83,2.5,9.06,M2233,32.1kg,$2.80,600,RWH,24/01/2024,the-meadows
+972,4,Ellie Kat (3),Simone Fisher,35.03,5.44,9.22,M3455,28.5kg,$9.50,600,RWH,24/01/2024,the-meadows
+973,5,Aston Kalkara (8),Dustin Drew,35.05,5.64,9.3,M5324,32.4kg,$6.00,600,RWH,24/01/2024,the-meadows
+974,6,Haytown's Girl (2),Ibrahim Kama,35.11,6.5,9.46,M7766,28.6kg,$8.50,600,RWH,24/01/2024,the-meadows
+975,7,Weblec Wrangler (1),Kylie Muscat,35.34,9.8,9.23,M4677,33.0kg,$18.00,600,RWH,24/01/2024,the-meadows
+976,1,Tommy Tequila (4),Rebecca Gibbons,30.18,0.0,5.07,Q1111,31.9kg,$2.90,525,5,24/01/2024,the-meadows
+977,2,One Of One (5),Michelle Mallia,30.33,2.14,5.14,M2332,27.0kg,$7.50,525,5,24/01/2024,the-meadows
+978,3,Wild Cash (8),Kim Erenshaw,30.45,3.81,5.26,S6654,32.2kg,$5.00,525,5,24/01/2024,the-meadows
+979,4,Nelvin Bale (6),Samantha Grenfell,30.6,6.01,5.21,S4565,33.0kg,$12.00,525,5,24/01/2024,the-meadows
+980,5,Come On Kilkenny (1),Rebecca Gibbons,30.67,7.06,5.18,M3223,31.0kg,$2.90,525,5,24/01/2024,the-meadows
+981,6,Lyrical Lassy (3),Dallan Klemke,30.78,8.64,5.23,M5446,30.8kg,$15.00,525,5,24/01/2024,the-meadows
+982,1,Fernando Phil (2),Michelle Mallia,29.9,0.0,5.08,M1111,32.2kg,$2.30,525,5,24/01/2024,the-meadows
+983,2,Home Brew (8),Anthony Azzopardi,30.06,2.26,5.27,S6533,37.5kg,$3.80,525,5,24/01/2024,the-meadows
+984,3,Tattooed (3),Anthony Azzopardi,30.17,3.8,5.1,M2222,31.8kg,$3.20,525,5,24/01/2024,the-meadows
+985,4,Tom's Bourbski (1),Donna Knight,30.47,8.13,5.17,M3344,31.5kg,$41.00,525,5,24/01/2024,the-meadows
+986,5,Mepunga Luna (7),Jeffrey Britton,30.48,8.29,5.22,M4455,27.4kg,$4.40,525,5,24/01/2024,the-meadows
+987,6,Creditor (5),Patrick Furci,30.72,11.63,5.24,M5666,35.6kg,$26.00,525,5,24/01/2024,the-meadows
+988,1,Piscopo Bale (8),Rebecca Gibbons,30.12,0.0,5.13,M2332,31.2kg,$2.00,525,FFA,24/01/2024,the-meadows
+989,2,Peacock (1),David Plumridge,30.14,0.36,5.09,Q1111,33.9kg,$7.00,525,FFA,24/01/2024,the-meadows
+990,3,Raven Parrot (4),Thomas Dailly,30.37,3.56,5.2,M4666,28.2kg,$6.00,525,FFA,24/01/2024,the-meadows
+991,4,Hot Scotch (7),Ian Brown,30.38,3.76,5.13,M3223,30.5kg,$3.20,525,FFA,24/01/2024,the-meadows
+992,5,Hanny Darrison (2),Michael Bewley,30.41,4.13,5.2,M5444,33.5kg,$34.00,525,FFA,24/01/2024,the-meadows
+993,6,Where Is He (5),Rita Gatt,30.53,5.97,5.27,S6555,31.0kg,$23.00,525,FFA,24/01/2024,the-meadows
+994,1,Taden Bale (3),Rebecca Gibbons,30.28,0.0,5.15,M1111,34.2kg,$5.50,525,5,24/01/2024,the-meadows
+995,2,Lyrical Cripps (8),Kenneth Howat,30.58,4.25,5.3,S4322,30.1kg,$10.00,525,5,24/01/2024,the-meadows
+996,3,Side Of Ice (6),Joshua Formosa,30.87,8.37,5.23,M3233,29.8kg,$3.50,525,5,24/01/2024,the-meadows
+997,4,Roxy Smirnoff (7),Donna Knight,30.87,8.43,5.22,M2444,30.1kg,$18.00,525,5,24/01/2024,the-meadows
+998,5,White Whale (1),Phillip Tanti,31.48,17.07,5.42,M7777,28.2kg,$4.00,525,5,24/01/2024,the-meadows
+999,6,Rixi Bale (5),Correy Grenfell,31.55,18.06,5.31,M5555,28.4kg,$10.00,525,5,24/01/2024,the-meadows
+1000,7,Kraken Missiles (4),Kevin Eyles,31.69,20.13,5.32,M6666,29.1kg,$13.00,525,5,24/01/2024,the-meadows
+1001,1,Forbes Delight (8),Rose Forbes,30.57,0.0,5.08,M2111,26.4kg,$10.00,525,T3-5,24/01/2024,the-meadows
+1002,2,Sweaty Hand (2),Vanessa Johnson,30.59,0.41,5.16,M3222,32.6kg,$5.00,525,T3-5,24/01/2024,the-meadows
+1003,3,Microscopic (3),Robert Crawford,30.66,1.31,5.22,M5543,26.0kg,$4.00,525,T3-5,24/01/2024,the-meadows
+1004,4,Smoldering Decay (6),Jodi Thorpe,30.84,3.94,5.39,M8875,26.6kg,$15.00,525,T3-5,24/01/2024,the-meadows
+1005,5,Confer (4),Mark Giddings,30.85,4.11,5.32,M7767,31.4kg,$10.00,525,T3-5,24/01/2024,the-meadows
+1006,6,Queston Bale (7),Samantha Grenfell,30.88,4.56,5.18,M4434,32.2kg,$5.00,525,T3-5,24/01/2024,the-meadows
+1007,7,Tomida (5),Jennifer Thorpe,30.93,5.14,5.32,S6656,32.6kg,$6.50,525,T3-5,24/01/2024,the-meadows
+1008,8,Aussie Karen (1),Lee Lansdown,31.16,8.43,5.07,Q1388,26.0kg,$7.00,525,T3-5,24/01/2024,the-meadows
+1009,1,Johnny Cool (6),Geoffrey Mitchell,30.81,0.0,5.31,M5331,34.2kg,$4.00,525,T3-5,24/01/2024,the-meadows
+1010,2,Poison Sky (1),Simone Fisher,30.82,0.2,5.29,M2223,30.5kg,$5.00,525,T3-5,24/01/2024,the-meadows
+1011,3,What A Doll (4),Raymond Gatt,30.88,0.96,5.2,M1112,26.7kg,$2.60,525,T3-5,24/01/2024,the-meadows
+1012,4,Reality Mask (8),Donna Pace,30.9,1.25,5.29,M4444,35.7kg,$16.00,525,T3-5,24/01/2024,the-meadows
+1013,5,Fortune Master (5),Chris Armstrong,31.06,3.6,5.42,M8566,30.4kg,$18.00,525,T3-5,24/01/2024,the-meadows
+1014,6,Arkansas (3),Donna Knight,31.14,4.76,5.34,M6877,34.6kg,$7.50,525,T3-5,24/01/2024,the-meadows
+1015,7,Tzar's Ghost (7),John Mccallum,31.15,4.9,5.41,M7655,32.8kg,$13.00,525,T3-5,24/01/2024,the-meadows
+1016,8,Nagambie Bale (2),Paul Pace,31.36,7.87,5.29,M3788,33.8kg,$5.50,525,T3-5,24/01/2024,the-meadows
